@@ -1,0 +1,217 @@
+### Code Efficiency Detection and Annotation
+
+**Purpose**
+Analyze code pairs to determine which is efficient/inefficient, then produce structured JSON annotations describing **ALL** performance behaviors.
+
+**Label Verification (Critical)**
+Before annotating:
+- Compare algorithmic complexity rigorously
+- If the "inefficient" label is actually more efficient theoretically: **swap labels automatically**
+- After swapping: analyze and annotate based on ACTUAL efficiency, not original labels
+- If both are equivalent (same complexity, no meaningful difference): output `{"unable_to_label": true, "reason": "..."}`
+
+**Multi-Pair Support**
+- Each code pair is independent
+- Output one JSON object per pair in ```json...```, separated by single newline
+- Do NOT wrap in array brackets
+
+---
+
+**Taxonomy 1: Inefficient Code Behaviors**
+
+1. **Inefficient function or API usage**
+    - Suboptimal method or API selection
+    - Unnecessary or excessive recursion
+
+2. **Algorithmic inefficiencies**
+    - Brute-force or suboptimal algorithmic strategy
+    - Absence of established optimization techniques (e.g., early exit, pruning, space-time trade-offs)
+    - Insufficient mathematical abstraction and optimization
+    - Inefficient conditional logic
+    - Avoidable nested-loop complexity
+    - Unnecessary multi-pass processing
+    - Redundant recomputation
+
+3. **Inefficient data structure usage**
+    - Inappropriate data structure selection (e.g., using list instead of set for membership , using list instead of deque for queue)
+    - Inefficient operations on selected data structure
+    - Inefficient string concatenation (e.g., `s += char` creating O(n²))
+    - Repeated sequence slicing in loops
+    - Unnecessary data creation, duplication, or conversion
+
+4. **Underutilization of language-specific features**
+    - Failure to utilize built-in functions or libraries
+    - Lack of idiomatic constructs (e.g., Python comprehensions, generators)
+
+5. **Memory inefficiencies**
+    - Unnecessary buffering or intermediate storage
+    - Creation of large or avoidable temporary data
+
+6. **Other inefficiencies**
+    - Lack of input-scale awareness
+    - Inefficient I/O processing
+    - Inefficient exception handling patterns
+    - Unnecessary or redundant code constructs
+---
+
+**Taxonomy 2: Efficient Code Behaviors**
+
+1. **Function or API optimizations**
+    - Optimal method or API selection
+    - Avoidance of unnecessary or deep recursion
+
+2. **Algorithmic optimizations**
+    - Substitution with more efficient algorithms (e.g., two-pointer, divide and conquer, greedy, dynamic programing)
+    - Application of established optimization techniques (e.g., early exit, pruning, space-time trade-offs)
+    - Application of mathematical optimization principles (e.g., formulas, number theory, geometric properties)
+    - Optimized conditional logic
+    - Multi-pass to single-pass transformation
+    - Avoidance of redundant recomputation
+
+3. **Data structure optimizations**
+    - Appropriate data structure selection (e.g., hash/set/dict for membership, heap for top-k)
+    - Efficient operations on selected data structure
+    - Efficient string handling
+    - Adoption of in-place modification
+
+4. **Utilization of language-specific features**
+    - Usage of built-in functions or libraries
+    - Application of idiomatic constructs (e.g., use Python comprehensions, iterators)
+
+5. **Memory optimizations**
+    - Usage of fixed-size or bounded buffers
+    - Avoidance of unnecessary intermediate storage
+    - Chunked or streaming processing
+    - Data preallocation or object reuse
+
+6. **Other efficiency optimizations**
+    - Application of scale-aware input guarding
+    - Efficient I/O processing
+    - Efficient exception handling patterns
+
+**Annotation Rules**
+- Use ONLY categories and subtypes from taxonomies above
+- One code segment may have multiple subtypes within same category → create separate annotation objects
+- For "e.g." examples: specify concrete optimization used, not the example itself. Such as "Application of established optimization techniques -- early exit", rather than "Application of established optimization techniques (e.g., early exit, pruning)".
+- Each subtype MUST match its parent category exactly
+- Annotate ALL existing performance behaviors
+
+---
+
+**Input Format (Multiple Code Pairs)**
+The input will contain multiple inefficient-efficient code pairs for the **same** problem.
+
+## Problem Index
+<problem_idx>
+
+## Task Name
+<task name> 
+
+## Description
+<problem description>
+
+## Algorithms
+<corresponding algorithm labels>
+
+## Language
+<programming language, e.g., Python, Java, C++>
+
+## Prompt
+```
+<the beginning of solution code or null>
+```
+
+=== Pair (k) ===
+
+---
+
+**Output Schema**
+
+**Standard Case:**
+```json
+{
+  "label_verification": {
+    "swapped": <true|false>,
+    "reasoning": "<why swap occurred or null>"
+  },
+  "problem_idx": "<from input>",
+  "task_name": "<from input>",
+  "inefficient": {
+    "code_snippet": "<ACTUALLY inefficient code after verification>",
+    "est_time_complexity": "<Big-O, e.g., O(n²)>",
+    "est_space_complexity": "<Big-O>",
+    "annotations": [  /* list of one-or-more category objects */
+      {
+        "category": "<category name>",
+        "subtype": "<subtype name>",
+        "code_snippet": "<the exact code snippet corresponding to this behavior>",
+        "explanation": "<briefly explain what makes this fragment inefficient>",
+        "mechanism": "<the underlying performance cause: why this inefficiency occurs>"
+      }
+    ],
+    "inefficiency_summary": "<a final summary describing how these behaviors harm performance>"
+  },
+  "efficient": {
+    "code_snippet": "<ACTUALLY efficient code after verification>",
+    "est_time_complexity": "<Big-O>",
+    "est_space_complexity": "<Big-O>",
+    "complexity_tradeoff": "<time/space trade-off explanation or null>",
+    "annotations": [  /* list of one-or-more category objects */
+      {
+        "category": "<category name>",
+        "subtype": "<subtype name>",
+        "code_snippet": "<the exact code snippet corresponding to this behavior>",
+        "explanation": "<briefly explain what makes this fragment efficient>",
+        "mechanism": "<the underlying performance cause: why this alternative is efficient at the algorithm/data-structure/memory level>",
+        "benefit_summary": "<a summary describing how this behaviors enhance performance, e.g., 'reduces time complexity from O(n²) to O(n)'>"
+      }
+    ]
+  }
+}
+```
+
+**Equivalent Case:**
+```json
+{
+  "unable_to_label": true,
+  "reason": "<why codes are equivalent>",
+  "problem_idx": "<from input>",
+  "task_name": "<from input>",
+  "both_implementations": {
+    "est_time_complexity": "<Big-O>",
+    "est_space_complexity": "<Big-O>"
+  }
+}
+```
+
+---
+
+**Critical Rules**
+
+1. Output JSON only (no extra text)
+2. Clean code snippets by removing:
+   - Excessive blank lines
+   - Commented-out code
+   - Debug prints
+   - Unused variables
+   - Convert 4 spaces → 1 tab
+3. Improve clarity where safe:
+   - Align parameter names with starter function
+   - Refine identifier names
+   - Add concise comments
+4. Code snippets must:
+   - Be exact fragments corresponding to behavior
+   - Preserve correct indentation (tabs, not spaces)
+   - Be self-contained and minimal
+5. Multiple annotations allowed per code section
+6. Document `complexity_tradeoff` when time/space conflict exists
+
+---
+
+**Label Verification Examples**
+
+**Keep labels:** Inefficient=O(n²) nested loops, Efficient=O(n) hash map → `"swapped": false`
+
+**Swap labels:** Labeled "Inefficient"=O(n) two-pointer, Labeled "Efficient"=O(n²) nested → `"swapped": true`
+
+**Equivalent:** Both O(n) time, O(1) space, only style differs → `{"unable_to_label": true, "reason": "..."}`
