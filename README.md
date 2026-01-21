@@ -202,18 +202,24 @@
 
 我们正在探索引入**程序分析信号**以进一步增强行为控制能力：
 
+### 策略1：
+在低效代码数据集上，针对不同的代码行为使用不同的**机器遗忘学习损失函数**，应用损失函数 (强约束) + 附属信息(explanation、mechanism 等深入分析信息)，纠正低效行为。
+
+### 策略2：
+引入基于 AST 等辅助结构的静态检测和基于 GraphCodeBERT 的动态检测，对生成代码进行低效行为评分，引导大模型避开低效行为。
+
 - 静态分析：
   - AST-based pattern detection
 - 动态分析：
   - GraphCodeBERT / learned efficiency detector
 - 训练方式：
   - Policy Gradient
-  - 行为评分函数 \( Bc(y) \)
+  - 行为评分函数 **Bc(y)**
 
 **训练流程示意：**
 θ_generate → y
 → AST Static / Model Dynamic Detector
-→ Inefficiency Score B_c(y)
+→ Inefficiency Score Bc(y)
 → Policy Gradient
 → log pθ(y|x)
 → θ
