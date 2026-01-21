@@ -1,0 +1,4710 @@
+[
+  {
+    "problem_idx": 1,
+    "completion_count": 57
+  },
+  {
+    "problem_idx": 2,
+    "completion_count": 49
+  },
+  {
+    "problem_idx": 5,
+    "completion_count": 173
+  },
+  {
+    "problem_idx": 6,
+    "completion_count": 67
+  },
+  {
+    "problem_idx": 7,
+    "completion_count": 69
+  },
+  {
+    "problem_idx": 8,
+    "completion_count": 81
+  },
+  {
+    "problem_idx": 9,
+    "completion_count": 53
+  },
+  {
+    "problem_idx": 12,
+    "completion_count": 69
+  },
+  {
+    "problem_idx": 13,
+    "completion_count": 62
+  },
+  {
+    "problem_idx": 14,
+    "completion_count": 62
+  },
+  {
+    "problem_idx": 15,
+    "completion_count": 6
+  },
+  {
+    "problem_idx": 16,
+    "completion_count": 26
+  },
+  {
+    "problem_idx": 17,
+    "completion_count": 27
+  },
+  {
+    "problem_idx": 18,
+    "completion_count": 16
+  },
+  {
+    "problem_idx": 19,
+    "completion_count": 32
+  },
+  {
+    "problem_idx": 20,
+    "completion_count": 33
+  },
+  {
+    "problem_idx": 21,
+    "completion_count": 35
+  },
+  {
+    "problem_idx": 23,
+    "completion_count": 23
+  },
+  {
+    "problem_idx": 24,
+    "completion_count": 31
+  },
+  {
+    "problem_idx": 25,
+    "completion_count": 19
+  },
+  {
+    "problem_idx": 27,
+    "completion_count": 18
+  },
+  {
+    "problem_idx": 30,
+    "completion_count": 25
+  },
+  {
+    "problem_idx": 33,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 34,
+    "completion_count": 21
+  },
+  {
+    "problem_idx": 36,
+    "completion_count": 19
+  },
+  {
+    "problem_idx": 37,
+    "completion_count": 27
+  },
+  {
+    "problem_idx": 38,
+    "completion_count": 19
+  },
+  {
+    "problem_idx": 39,
+    "completion_count": 10
+  },
+  {
+    "problem_idx": 41,
+    "completion_count": 20
+  },
+  {
+    "problem_idx": 42,
+    "completion_count": 21
+  },
+  {
+    "problem_idx": 43,
+    "completion_count": 24
+  },
+  {
+    "problem_idx": 45,
+    "completion_count": 24
+  },
+  {
+    "problem_idx": 47,
+    "completion_count": 22
+  },
+  {
+    "problem_idx": 48,
+    "completion_count": 16
+  },
+  {
+    "problem_idx": 50,
+    "completion_count": 21
+  },
+  {
+    "problem_idx": 53,
+    "completion_count": 20
+  },
+  {
+    "problem_idx": 54,
+    "completion_count": 14
+  },
+  {
+    "problem_idx": 57,
+    "completion_count": 24
+  },
+  {
+    "problem_idx": 58,
+    "completion_count": 13
+  },
+  {
+    "problem_idx": 59,
+    "completion_count": 12
+  },
+  {
+    "problem_idx": 60,
+    "completion_count": 20
+  },
+  {
+    "problem_idx": 61,
+    "completion_count": 14
+  },
+  {
+    "problem_idx": 65,
+    "completion_count": 12
+  },
+  {
+    "problem_idx": 66,
+    "completion_count": 14
+  },
+  {
+    "problem_idx": 68,
+    "completion_count": 13
+  },
+  {
+    "problem_idx": 70,
+    "completion_count": 12
+  },
+  {
+    "problem_idx": 71,
+    "completion_count": 20
+  },
+  {
+    "problem_idx": 73,
+    "completion_count": 27
+  },
+  {
+    "problem_idx": 76,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 77,
+    "completion_count": 35
+  },
+  {
+    "problem_idx": 79,
+    "completion_count": 28
+  },
+  {
+    "problem_idx": 83,
+    "completion_count": 19
+  },
+  {
+    "problem_idx": 84,
+    "completion_count": 28
+  },
+  {
+    "problem_idx": 86,
+    "completion_count": 16
+  },
+  {
+    "problem_idx": 88,
+    "completion_count": 16
+  },
+  {
+    "problem_idx": 92,
+    "completion_count": 16
+  },
+  {
+    "problem_idx": 94,
+    "completion_count": 21
+  },
+  {
+    "problem_idx": 98,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 99,
+    "completion_count": 18
+  },
+  {
+    "problem_idx": 102,
+    "completion_count": 14
+  },
+  {
+    "problem_idx": 105,
+    "completion_count": 58
+  },
+  {
+    "problem_idx": 106,
+    "completion_count": 32
+  },
+  {
+    "problem_idx": 108,
+    "completion_count": 31
+  },
+  {
+    "problem_idx": 109,
+    "completion_count": 35
+  },
+  {
+    "problem_idx": 112,
+    "completion_count": 52
+  },
+  {
+    "problem_idx": 114,
+    "completion_count": 45
+  },
+  {
+    "problem_idx": 120,
+    "completion_count": 74
+  },
+  {
+    "problem_idx": 125,
+    "completion_count": 72
+  },
+  {
+    "problem_idx": 128,
+    "completion_count": 70
+  },
+  {
+    "problem_idx": 130,
+    "completion_count": 68
+  },
+  {
+    "problem_idx": 136,
+    "completion_count": 65
+  },
+  {
+    "problem_idx": 143,
+    "completion_count": 47
+  },
+  {
+    "problem_idx": 145,
+    "completion_count": 42
+  },
+  {
+    "problem_idx": 147,
+    "completion_count": 45
+  },
+  {
+    "problem_idx": 148,
+    "completion_count": 43
+  },
+  {
+    "problem_idx": 149,
+    "completion_count": 38
+  },
+  {
+    "problem_idx": 150,
+    "completion_count": 67
+  },
+  {
+    "problem_idx": 152,
+    "completion_count": 72
+  },
+  {
+    "problem_idx": 160,
+    "completion_count": 43
+  },
+  {
+    "problem_idx": 165,
+    "completion_count": 47
+  },
+  {
+    "problem_idx": 166,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 167,
+    "completion_count": 67
+  },
+  {
+    "problem_idx": 168,
+    "completion_count": 50
+  },
+  {
+    "problem_idx": 171,
+    "completion_count": 70
+  },
+  {
+    "problem_idx": 172,
+    "completion_count": 49
+  },
+  {
+    "problem_idx": 200,
+    "completion_count": 79
+  },
+  {
+    "problem_idx": 203,
+    "completion_count": 43
+  },
+  {
+    "problem_idx": 204,
+    "completion_count": 47
+  },
+  {
+    "problem_idx": 205,
+    "completion_count": 73
+  },
+  {
+    "problem_idx": 206,
+    "completion_count": 45
+  },
+  {
+    "problem_idx": 210,
+    "completion_count": 69
+  },
+  {
+    "problem_idx": 212,
+    "completion_count": 37
+  },
+  {
+    "problem_idx": 214,
+    "completion_count": 33
+  },
+  {
+    "problem_idx": 215,
+    "completion_count": 66
+  },
+  {
+    "problem_idx": 220,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 221,
+    "completion_count": 65
+  },
+  {
+    "problem_idx": 222,
+    "completion_count": 43
+  },
+  {
+    "problem_idx": 223,
+    "completion_count": 61
+  },
+  {
+    "problem_idx": 224,
+    "completion_count": 59
+  },
+  {
+    "problem_idx": 227,
+    "completion_count": 44
+  },
+  {
+    "problem_idx": 228,
+    "completion_count": 62
+  },
+  {
+    "problem_idx": 230,
+    "completion_count": 48
+  },
+  {
+    "problem_idx": 231,
+    "completion_count": 65
+  },
+  {
+    "problem_idx": 234,
+    "completion_count": 52
+  },
+  {
+    "problem_idx": 236,
+    "completion_count": 52
+  },
+  {
+    "problem_idx": 238,
+    "completion_count": 81
+  },
+  {
+    "problem_idx": 239,
+    "completion_count": 53
+  },
+  {
+    "problem_idx": 240,
+    "completion_count": 56
+  },
+  {
+    "problem_idx": 257,
+    "completion_count": 33
+  },
+  {
+    "problem_idx": 258,
+    "completion_count": 69
+  },
+  {
+    "problem_idx": 263,
+    "completion_count": 67
+  },
+  {
+    "problem_idx": 273,
+    "completion_count": 35
+  },
+  {
+    "problem_idx": 278,
+    "completion_count": 31
+  },
+  {
+    "problem_idx": 279,
+    "completion_count": 80
+  },
+  {
+    "problem_idx": 282,
+    "completion_count": 13
+  },
+  {
+    "problem_idx": 283,
+    "completion_count": 64
+  },
+  {
+    "problem_idx": 289,
+    "completion_count": 62
+  },
+  {
+    "problem_idx": 290,
+    "completion_count": 57
+  },
+  {
+    "problem_idx": 292,
+    "completion_count": 18
+  },
+  {
+    "problem_idx": 299,
+    "completion_count": 46
+  },
+  {
+    "problem_idx": 300,
+    "completion_count": 81
+  },
+  {
+    "problem_idx": 310,
+    "completion_count": 36
+  },
+  {
+    "problem_idx": 313,
+    "completion_count": 18
+  },
+  {
+    "problem_idx": 319,
+    "completion_count": 19
+  },
+  {
+    "problem_idx": 324,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 326,
+    "completion_count": 80
+  },
+  {
+    "problem_idx": 327,
+    "completion_count": 24
+  },
+  {
+    "problem_idx": 328,
+    "completion_count": 35
+  },
+  {
+    "problem_idx": 331,
+    "completion_count": 18
+  },
+  {
+    "problem_idx": 335,
+    "completion_count": 18
+  },
+  {
+    "problem_idx": 336,
+    "completion_count": 34
+  },
+  {
+    "problem_idx": 337,
+    "completion_count": 33
+  },
+  {
+    "problem_idx": 338,
+    "completion_count": 74
+  },
+  {
+    "problem_idx": 363,
+    "completion_count": 20
+  },
+  {
+    "problem_idx": 373,
+    "completion_count": 25
+  },
+  {
+    "problem_idx": 375,
+    "completion_count": 22
+  },
+  {
+    "problem_idx": 383,
+    "completion_count": 44
+  },
+  {
+    "problem_idx": 386,
+    "completion_count": 15
+  },
+  {
+    "problem_idx": 387,
+    "completion_count": 67
+  },
+  {
+    "problem_idx": 390,
+    "completion_count": 21
+  },
+  {
+    "problem_idx": 391,
+    "completion_count": 15
+  },
+  {
+    "problem_idx": 394,
+    "completion_count": 56
+  },
+  {
+    "problem_idx": 397,
+    "completion_count": 37
+  },
+  {
+    "problem_idx": 404,
+    "completion_count": 40
+  },
+  {
+    "problem_idx": 412,
+    "completion_count": 66
+  },
+  {
+    "problem_idx": 415,
+    "completion_count": 66
+  },
+  {
+    "problem_idx": 420,
+    "completion_count": 16
+  },
+  {
+    "problem_idx": 423,
+    "completion_count": 20
+  },
+  {
+    "problem_idx": 434,
+    "completion_count": 24
+  },
+  {
+    "problem_idx": 436,
+    "completion_count": 22
+  },
+  {
+    "problem_idx": 440,
+    "completion_count": 1
+  },
+  {
+    "problem_idx": 441,
+    "completion_count": 68
+  },
+  {
+    "problem_idx": 442,
+    "completion_count": 63
+  },
+  {
+    "problem_idx": 445,
+    "completion_count": 40
+  },
+  {
+    "problem_idx": 447,
+    "completion_count": 16
+  },
+  {
+    "problem_idx": 448,
+    "completion_count": 65
+  },
+  {
+    "problem_idx": 450,
+    "completion_count": 32
+  },
+  {
+    "problem_idx": 451,
+    "completion_count": 62
+  },
+  {
+    "problem_idx": 453,
+    "completion_count": 33
+  },
+  {
+    "problem_idx": 454,
+    "completion_count": 55
+  },
+  {
+    "problem_idx": 456,
+    "completion_count": 36
+  },
+  {
+    "problem_idx": 457,
+    "completion_count": 22
+  },
+  {
+    "problem_idx": 458,
+    "completion_count": 20
+  },
+  {
+    "problem_idx": 459,
+    "completion_count": 49
+  },
+  {
+    "problem_idx": 462,
+    "completion_count": 42
+  },
+  {
+    "problem_idx": 463,
+    "completion_count": 41
+  },
+  {
+    "problem_idx": 464,
+    "completion_count": 4
+  },
+  {
+    "problem_idx": 466,
+    "completion_count": 1
+  },
+  {
+    "problem_idx": 467,
+    "completion_count": 11
+  },
+  {
+    "problem_idx": 468,
+    "completion_count": 20
+  },
+  {
+    "problem_idx": 472,
+    "completion_count": 27
+  },
+  {
+    "problem_idx": 476,
+    "completion_count": 49
+  },
+  {
+    "problem_idx": 479,
+    "completion_count": 3
+  },
+  {
+    "problem_idx": 482,
+    "completion_count": 46
+  },
+  {
+    "problem_idx": 483,
+    "completion_count": 2
+  },
+  {
+    "problem_idx": 485,
+    "completion_count": 69
+  },
+  {
+    "problem_idx": 488,
+    "completion_count": 2
+  },
+  {
+    "problem_idx": 492,
+    "completion_count": 32
+  },
+  {
+    "problem_idx": 495,
+    "completion_count": 20
+  },
+  {
+    "problem_idx": 496,
+    "completion_count": 48
+  },
+  {
+    "problem_idx": 498,
+    "completion_count": 55
+  },
+  {
+    "problem_idx": 500,
+    "completion_count": 54
+  },
+  {
+    "problem_idx": 502,
+    "completion_count": 27
+  },
+  {
+    "problem_idx": 503,
+    "completion_count": 62
+  },
+  {
+    "problem_idx": 504,
+    "completion_count": 24
+  },
+  {
+    "problem_idx": 507,
+    "completion_count": 30
+  },
+  {
+    "problem_idx": 508,
+    "completion_count": 25
+  },
+  {
+    "problem_idx": 513,
+    "completion_count": 35
+  },
+  {
+    "problem_idx": 514,
+    "completion_count": 2
+  },
+  {
+    "problem_idx": 520,
+    "completion_count": 52
+  },
+  {
+    "problem_idx": 521,
+    "completion_count": 20
+  },
+  {
+    "problem_idx": 522,
+    "completion_count": 10
+  },
+  {
+    "problem_idx": 523,
+    "completion_count": 58
+  },
+  {
+    "problem_idx": 524,
+    "completion_count": 31
+  },
+  {
+    "problem_idx": 525,
+    "completion_count": 40
+  },
+  {
+    "problem_idx": 526,
+    "completion_count": 34
+  },
+  {
+    "problem_idx": 537,
+    "completion_count": 31
+  },
+  {
+    "problem_idx": 538,
+    "completion_count": 40
+  },
+  {
+    "problem_idx": 542,
+    "completion_count": 63
+  },
+  {
+    "problem_idx": 546,
+    "completion_count": 1
+  },
+  {
+    "problem_idx": 551,
+    "completion_count": 46
+  },
+  {
+    "problem_idx": 552,
+    "completion_count": 34
+  },
+  {
+    "problem_idx": 554,
+    "completion_count": 25
+  },
+  {
+    "problem_idx": 557,
+    "completion_count": 73
+  },
+  {
+    "problem_idx": 560,
+    "completion_count": 59
+  },
+  {
+    "problem_idx": 563,
+    "completion_count": 19
+  },
+  {
+    "problem_idx": 564,
+    "completion_count": 19
+  },
+  {
+    "problem_idx": 565,
+    "completion_count": 30
+  },
+  {
+    "problem_idx": 566,
+    "completion_count": 64
+  },
+  {
+    "problem_idx": 575,
+    "completion_count": 41
+  },
+  {
+    "problem_idx": 576,
+    "completion_count": 29
+  },
+  {
+    "problem_idx": 587,
+    "completion_count": 28
+  },
+  {
+    "problem_idx": 591,
+    "completion_count": 2
+  },
+  {
+    "problem_idx": 592,
+    "completion_count": 11
+  },
+  {
+    "problem_idx": 593,
+    "completion_count": 14
+  },
+  {
+    "problem_idx": 598,
+    "completion_count": 24
+  },
+  {
+    "problem_idx": 599,
+    "completion_count": 44
+  },
+  {
+    "problem_idx": 606,
+    "completion_count": 46
+  },
+  {
+    "problem_idx": 609,
+    "completion_count": 42
+  },
+  {
+    "problem_idx": 617,
+    "completion_count": 48
+  },
+  {
+    "problem_idx": 623,
+    "completion_count": 37
+  },
+  {
+    "problem_idx": 633,
+    "completion_count": 41
+  },
+  {
+    "problem_idx": 636,
+    "completion_count": 30
+  },
+  {
+    "problem_idx": 637,
+    "completion_count": 42
+  },
+  {
+    "problem_idx": 638,
+    "completion_count": 21
+  },
+  {
+    "problem_idx": 640,
+    "completion_count": 6
+  },
+  {
+    "problem_idx": 646,
+    "completion_count": 35
+  },
+  {
+    "problem_idx": 648,
+    "completion_count": 30
+  },
+  {
+    "problem_idx": 650,
+    "completion_count": 46
+  },
+  {
+    "problem_idx": 653,
+    "completion_count": 56
+  },
+  {
+    "problem_idx": 654,
+    "completion_count": 28
+  },
+  {
+    "problem_idx": 655,
+    "completion_count": 15
+  },
+  {
+    "problem_idx": 657,
+    "completion_count": 42
+  },
+  {
+    "problem_idx": 661,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 664,
+    "completion_count": 20
+  },
+  {
+    "problem_idx": 665,
+    "completion_count": 36
+  },
+  {
+    "problem_idx": 667,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 673,
+    "completion_count": 25
+  },
+  {
+    "problem_idx": 674,
+    "completion_count": 32
+  },
+  {
+    "problem_idx": 679,
+    "completion_count": 14
+  },
+  {
+    "problem_idx": 682,
+    "completion_count": 62
+  },
+  {
+    "problem_idx": 684,
+    "completion_count": 28
+  },
+  {
+    "problem_idx": 685,
+    "completion_count": 19
+  },
+  {
+    "problem_idx": 686,
+    "completion_count": 24
+  },
+  {
+    "problem_idx": 688,
+    "completion_count": 32
+  },
+  {
+    "problem_idx": 689,
+    "completion_count": 18
+  },
+  {
+    "problem_idx": 691,
+    "completion_count": 31
+  },
+  {
+    "problem_idx": 695,
+    "completion_count": 68
+  },
+  {
+    "problem_idx": 697,
+    "completion_count": 27
+  },
+  {
+    "problem_idx": 699,
+    "completion_count": 14
+  },
+  {
+    "problem_idx": 700,
+    "completion_count": 57
+  },
+  {
+    "problem_idx": 701,
+    "completion_count": 56
+  },
+  {
+    "problem_idx": 709,
+    "completion_count": 38
+  },
+  {
+    "problem_idx": 714,
+    "completion_count": 56
+  },
+  {
+    "problem_idx": 717,
+    "completion_count": 25
+  },
+  {
+    "problem_idx": 719,
+    "completion_count": 22
+  },
+  {
+    "problem_idx": 722,
+    "completion_count": 18
+  },
+  {
+    "problem_idx": 724,
+    "completion_count": 75
+  },
+  {
+    "problem_idx": 726,
+    "completion_count": 11
+  },
+  {
+    "problem_idx": 728,
+    "completion_count": 46
+  },
+  {
+    "problem_idx": 733,
+    "completion_count": 73
+  },
+  {
+    "problem_idx": 735,
+    "completion_count": 43
+  },
+  {
+    "problem_idx": 736,
+    "completion_count": 2
+  },
+  {
+    "problem_idx": 739,
+    "completion_count": 68
+  },
+  {
+    "problem_idx": 747,
+    "completion_count": 51
+  },
+  {
+    "problem_idx": 748,
+    "completion_count": 22
+  },
+  {
+    "problem_idx": 749,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 753,
+    "completion_count": 9
+  },
+  {
+    "problem_idx": 761,
+    "completion_count": 1
+  },
+  {
+    "problem_idx": 762,
+    "completion_count": 24
+  },
+  {
+    "problem_idx": 765,
+    "completion_count": 21
+  },
+  {
+    "problem_idx": 766,
+    "completion_count": 72
+  },
+  {
+    "problem_idx": 768,
+    "completion_count": 22
+  },
+  {
+    "problem_idx": 771,
+    "completion_count": 74
+  },
+  {
+    "problem_idx": 773,
+    "completion_count": 23
+  },
+  {
+    "problem_idx": 775,
+    "completion_count": 25
+  },
+  {
+    "problem_idx": 780,
+    "completion_count": 19
+  },
+  {
+    "problem_idx": 783,
+    "completion_count": 29
+  },
+  {
+    "problem_idx": 784,
+    "completion_count": 68
+  },
+  {
+    "problem_idx": 786,
+    "completion_count": 19
+  },
+  {
+    "problem_idx": 787,
+    "completion_count": 33
+  },
+  {
+    "problem_idx": 788,
+    "completion_count": 20
+  },
+  {
+    "problem_idx": 789,
+    "completion_count": 11
+  },
+  {
+    "problem_idx": 790,
+    "completion_count": 21
+  },
+  {
+    "problem_idx": 791,
+    "completion_count": 44
+  },
+  {
+    "problem_idx": 792,
+    "completion_count": 45
+  },
+  {
+    "problem_idx": 794,
+    "completion_count": 18
+  },
+  {
+    "problem_idx": 795,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 796,
+    "completion_count": 42
+  },
+  {
+    "problem_idx": 797,
+    "completion_count": 56
+  },
+  {
+    "problem_idx": 798,
+    "completion_count": 2
+  },
+  {
+    "problem_idx": 803,
+    "completion_count": 7
+  },
+  {
+    "problem_idx": 804,
+    "completion_count": 57
+  },
+  {
+    "problem_idx": 805,
+    "completion_count": 3
+  },
+  {
+    "problem_idx": 806,
+    "completion_count": 26
+  },
+  {
+    "problem_idx": 811,
+    "completion_count": 34
+  },
+  {
+    "problem_idx": 812,
+    "completion_count": 26
+  },
+  {
+    "problem_idx": 813,
+    "completion_count": 20
+  },
+  {
+    "problem_idx": 814,
+    "completion_count": 45
+  },
+  {
+    "problem_idx": 817,
+    "completion_count": 19
+  },
+  {
+    "problem_idx": 818,
+    "completion_count": 11
+  },
+  {
+    "problem_idx": 820,
+    "completion_count": 35
+  },
+  {
+    "problem_idx": 822,
+    "completion_count": 9
+  },
+  {
+    "problem_idx": 824,
+    "completion_count": 54
+  },
+  {
+    "problem_idx": 825,
+    "completion_count": 22
+  },
+  {
+    "problem_idx": 827,
+    "completion_count": 39
+  },
+  {
+    "problem_idx": 829,
+    "completion_count": 28
+  },
+  {
+    "problem_idx": 830,
+    "completion_count": 36
+  },
+  {
+    "problem_idx": 831,
+    "completion_count": 13
+  },
+  {
+    "problem_idx": 833,
+    "completion_count": 22
+  },
+  {
+    "problem_idx": 834,
+    "completion_count": 25
+  },
+  {
+    "problem_idx": 835,
+    "completion_count": 30
+  },
+  {
+    "problem_idx": 836,
+    "completion_count": 31
+  },
+  {
+    "problem_idx": 837,
+    "completion_count": 16
+  },
+  {
+    "problem_idx": 839,
+    "completion_count": 5
+  },
+  {
+    "problem_idx": 840,
+    "completion_count": 13
+  },
+  {
+    "problem_idx": 847,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 848,
+    "completion_count": 31
+  },
+  {
+    "problem_idx": 849,
+    "completion_count": 48
+  },
+  {
+    "problem_idx": 850,
+    "completion_count": 1
+  },
+  {
+    "problem_idx": 851,
+    "completion_count": 15
+  },
+  {
+    "problem_idx": 853,
+    "completion_count": 39
+  },
+  {
+    "problem_idx": 854,
+    "completion_count": 21
+  },
+  {
+    "problem_idx": 856,
+    "completion_count": 42
+  },
+  {
+    "problem_idx": 858,
+    "completion_count": 25
+  },
+  {
+    "problem_idx": 859,
+    "completion_count": 39
+  },
+  {
+    "problem_idx": 864,
+    "completion_count": 14
+  },
+  {
+    "problem_idx": 865,
+    "completion_count": 32
+  },
+  {
+    "problem_idx": 866,
+    "completion_count": 16
+  },
+  {
+    "problem_idx": 867,
+    "completion_count": 59
+  },
+  {
+    "problem_idx": 871,
+    "completion_count": 22
+  },
+  {
+    "problem_idx": 874,
+    "completion_count": 24
+  },
+  {
+    "problem_idx": 877,
+    "completion_count": 42
+  },
+  {
+    "problem_idx": 879,
+    "completion_count": 11
+  },
+  {
+    "problem_idx": 880,
+    "completion_count": 16
+  },
+  {
+    "problem_idx": 882,
+    "completion_count": 10
+  },
+  {
+    "problem_idx": 883,
+    "completion_count": 27
+  },
+  {
+    "problem_idx": 884,
+    "completion_count": 41
+  },
+  {
+    "problem_idx": 885,
+    "completion_count": 22
+  },
+  {
+    "problem_idx": 886,
+    "completion_count": 14
+  },
+  {
+    "problem_idx": 887,
+    "completion_count": 19
+  },
+  {
+    "problem_idx": 889,
+    "completion_count": 16
+  },
+  {
+    "problem_idx": 890,
+    "completion_count": 59
+  },
+  {
+    "problem_idx": 892,
+    "completion_count": 22
+  },
+  {
+    "problem_idx": 896,
+    "completion_count": 61
+  },
+  {
+    "problem_idx": 897,
+    "completion_count": 46
+  },
+  {
+    "problem_idx": 899,
+    "completion_count": 51
+  },
+  {
+    "problem_idx": 905,
+    "completion_count": 62
+  },
+  {
+    "problem_idx": 906,
+    "completion_count": 13
+  },
+  {
+    "problem_idx": 908,
+    "completion_count": 29
+  },
+  {
+    "problem_idx": 913,
+    "completion_count": 7
+  },
+  {
+    "problem_idx": 914,
+    "completion_count": 22
+  },
+  {
+    "problem_idx": 915,
+    "completion_count": 25
+  },
+  {
+    "problem_idx": 916,
+    "completion_count": 28
+  },
+  {
+    "problem_idx": 918,
+    "completion_count": 23
+  },
+  {
+    "problem_idx": 922,
+    "completion_count": 36
+  },
+  {
+    "problem_idx": 923,
+    "completion_count": 18
+  },
+  {
+    "problem_idx": 927,
+    "completion_count": 11
+  },
+  {
+    "problem_idx": 928,
+    "completion_count": 12
+  },
+  {
+    "problem_idx": 929,
+    "completion_count": 56
+  },
+  {
+    "problem_idx": 930,
+    "completion_count": 22
+  },
+  {
+    "problem_idx": 934,
+    "completion_count": 23
+  },
+  {
+    "problem_idx": 938,
+    "completion_count": 49
+  },
+  {
+    "problem_idx": 941,
+    "completion_count": 59
+  },
+  {
+    "problem_idx": 944,
+    "completion_count": 35
+  },
+  {
+    "problem_idx": 946,
+    "completion_count": 50
+  },
+  {
+    "problem_idx": 949,
+    "completion_count": 27
+  },
+  {
+    "problem_idx": 951,
+    "completion_count": 23
+  },
+  {
+    "problem_idx": 952,
+    "completion_count": 8
+  },
+  {
+    "problem_idx": 953,
+    "completion_count": 47
+  },
+  {
+    "problem_idx": 954,
+    "completion_count": 20
+  },
+  {
+    "problem_idx": 955,
+    "completion_count": 7
+  },
+  {
+    "problem_idx": 956,
+    "completion_count": 20
+  },
+  {
+    "problem_idx": 961,
+    "completion_count": 51
+  },
+  {
+    "problem_idx": 962,
+    "completion_count": 4
+  },
+  {
+    "problem_idx": 963,
+    "completion_count": 13
+  },
+  {
+    "problem_idx": 966,
+    "completion_count": 16
+  },
+  {
+    "problem_idx": 969,
+    "completion_count": 20
+  },
+  {
+    "problem_idx": 970,
+    "completion_count": 12
+  },
+  {
+    "problem_idx": 974,
+    "completion_count": 31
+  },
+  {
+    "problem_idx": 975,
+    "completion_count": 19
+  },
+  {
+    "problem_idx": 980,
+    "completion_count": 35
+  },
+  {
+    "problem_idx": 982,
+    "completion_count": 3
+  },
+  {
+    "problem_idx": 985,
+    "completion_count": 52
+  },
+  {
+    "problem_idx": 986,
+    "completion_count": 46
+  },
+  {
+    "problem_idx": 988,
+    "completion_count": 19
+  },
+  {
+    "problem_idx": 989,
+    "completion_count": 60
+  },
+  {
+    "problem_idx": 990,
+    "completion_count": 33
+  },
+  {
+    "problem_idx": 993,
+    "completion_count": 39
+  },
+  {
+    "problem_idx": 994,
+    "completion_count": 48
+  },
+  {
+    "problem_idx": 996,
+    "completion_count": 19
+  },
+  {
+    "problem_idx": 997,
+    "completion_count": 59
+  },
+  {
+    "problem_idx": 998,
+    "completion_count": 14
+  },
+  {
+    "problem_idx": 999,
+    "completion_count": 30
+  },
+  {
+    "problem_idx": 1001,
+    "completion_count": 12
+  },
+  {
+    "problem_idx": 1002,
+    "completion_count": 48
+  },
+  {
+    "problem_idx": 1003,
+    "completion_count": 31
+  },
+  {
+    "problem_idx": 1006,
+    "completion_count": 20
+  },
+  {
+    "problem_idx": 1008,
+    "completion_count": 36
+  },
+  {
+    "problem_idx": 1010,
+    "completion_count": 49
+  },
+  {
+    "problem_idx": 1015,
+    "completion_count": 15
+  },
+  {
+    "problem_idx": 1016,
+    "completion_count": 6
+  },
+  {
+    "problem_idx": 1017,
+    "completion_count": 13
+  },
+  {
+    "problem_idx": 1018,
+    "completion_count": 20
+  },
+  {
+    "problem_idx": 1019,
+    "completion_count": 35
+  },
+  {
+    "problem_idx": 1020,
+    "completion_count": 43
+  },
+  {
+    "problem_idx": 1021,
+    "completion_count": 49
+  },
+  {
+    "problem_idx": 1024,
+    "completion_count": 19
+  },
+  {
+    "problem_idx": 1028,
+    "completion_count": 18
+  },
+  {
+    "problem_idx": 1031,
+    "completion_count": 22
+  },
+  {
+    "problem_idx": 1033,
+    "completion_count": 7
+  },
+  {
+    "problem_idx": 1036,
+    "completion_count": 10
+  },
+  {
+    "problem_idx": 1037,
+    "completion_count": 26
+  },
+  {
+    "problem_idx": 1041,
+    "completion_count": 38
+  },
+  {
+    "problem_idx": 1044,
+    "completion_count": 18
+  },
+  {
+    "problem_idx": 1046,
+    "completion_count": 52
+  },
+  {
+    "problem_idx": 1047,
+    "completion_count": 78
+  },
+  {
+    "problem_idx": 1048,
+    "completion_count": 74
+  },
+  {
+    "problem_idx": 1054,
+    "completion_count": 15
+  },
+  {
+    "problem_idx": 1061,
+    "completion_count": 10
+  },
+  {
+    "problem_idx": 1071,
+    "completion_count": 25
+  },
+  {
+    "problem_idx": 1072,
+    "completion_count": 14
+  },
+  {
+    "problem_idx": 1073,
+    "completion_count": 11
+  },
+  {
+    "problem_idx": 1074,
+    "completion_count": 7
+  },
+  {
+    "problem_idx": 1078,
+    "completion_count": 29
+  },
+  {
+    "problem_idx": 1080,
+    "completion_count": 19
+  },
+  {
+    "problem_idx": 1089,
+    "completion_count": 46
+  },
+  {
+    "problem_idx": 1091,
+    "completion_count": 53
+  },
+  {
+    "problem_idx": 1093,
+    "completion_count": 15
+  },
+  {
+    "problem_idx": 1094,
+    "completion_count": 44
+  },
+  {
+    "problem_idx": 1096,
+    "completion_count": 6
+  },
+  {
+    "problem_idx": 1103,
+    "completion_count": 33
+  },
+  {
+    "problem_idx": 1104,
+    "completion_count": 21
+  },
+  {
+    "problem_idx": 1105,
+    "completion_count": 22
+  },
+  {
+    "problem_idx": 1106,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 1108,
+    "completion_count": 42
+  },
+  {
+    "problem_idx": 1109,
+    "completion_count": 32
+  },
+  {
+    "problem_idx": 1111,
+    "completion_count": 15
+  },
+  {
+    "problem_idx": 1124,
+    "completion_count": 16
+  },
+  {
+    "problem_idx": 1128,
+    "completion_count": 23
+  },
+  {
+    "problem_idx": 1131,
+    "completion_count": 4
+  },
+  {
+    "problem_idx": 1137,
+    "completion_count": 74
+  },
+  {
+    "problem_idx": 1138,
+    "completion_count": 16
+  },
+  {
+    "problem_idx": 1140,
+    "completion_count": 37
+  },
+  {
+    "problem_idx": 1145,
+    "completion_count": 15
+  },
+  {
+    "problem_idx": 1154,
+    "completion_count": 37
+  },
+  {
+    "problem_idx": 1155,
+    "completion_count": 88
+  },
+  {
+    "problem_idx": 1160,
+    "completion_count": 92
+  },
+  {
+    "problem_idx": 1161,
+    "completion_count": 31
+  },
+  {
+    "problem_idx": 1162,
+    "completion_count": 27
+  },
+  {
+    "problem_idx": 1163,
+    "completion_count": 13
+  },
+  {
+    "problem_idx": 1171,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 1175,
+    "completion_count": 16
+  },
+  {
+    "problem_idx": 1177,
+    "completion_count": 9
+  },
+  {
+    "problem_idx": 1178,
+    "completion_count": 2
+  },
+  {
+    "problem_idx": 1184,
+    "completion_count": 31
+  },
+  {
+    "problem_idx": 1185,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 1186,
+    "completion_count": 27
+  },
+  {
+    "problem_idx": 1189,
+    "completion_count": 47
+  },
+  {
+    "problem_idx": 1190,
+    "completion_count": 32
+  },
+  {
+    "problem_idx": 1207,
+    "completion_count": 57
+  },
+  {
+    "problem_idx": 1208,
+    "completion_count": 24
+  },
+  {
+    "problem_idx": 1209,
+    "completion_count": 76
+  },
+  {
+    "problem_idx": 1210,
+    "completion_count": 5
+  },
+  {
+    "problem_idx": 1218,
+    "completion_count": 27
+  },
+  {
+    "problem_idx": 1219,
+    "completion_count": 32
+  },
+  {
+    "problem_idx": 1221,
+    "completion_count": 48
+  },
+  {
+    "problem_idx": 1222,
+    "completion_count": 22
+  },
+  {
+    "problem_idx": 1224,
+    "completion_count": 5
+  },
+  {
+    "problem_idx": 1232,
+    "completion_count": 37
+  },
+  {
+    "problem_idx": 1249,
+    "completion_count": 73
+  },
+  {
+    "problem_idx": 1250,
+    "completion_count": 9
+  },
+  {
+    "problem_idx": 1252,
+    "completion_count": 22
+  },
+  {
+    "problem_idx": 1253,
+    "completion_count": 20
+  },
+  {
+    "problem_idx": 1254,
+    "completion_count": 43
+  },
+  {
+    "problem_idx": 1255,
+    "completion_count": 11
+  },
+  {
+    "problem_idx": 1260,
+    "completion_count": 59
+  },
+  {
+    "problem_idx": 1262,
+    "completion_count": 14
+  },
+  {
+    "problem_idx": 1263,
+    "completion_count": 9
+  },
+  {
+    "problem_idx": 1266,
+    "completion_count": 41
+  },
+  {
+    "problem_idx": 1268,
+    "completion_count": 50
+  },
+  {
+    "problem_idx": 1275,
+    "completion_count": 42
+  },
+  {
+    "problem_idx": 1276,
+    "completion_count": 15
+  },
+  {
+    "problem_idx": 1277,
+    "completion_count": 29
+  },
+  {
+    "problem_idx": 1278,
+    "completion_count": 2
+  },
+  {
+    "problem_idx": 1281,
+    "completion_count": 71
+  },
+  {
+    "problem_idx": 1282,
+    "completion_count": 50
+  },
+  {
+    "problem_idx": 1283,
+    "completion_count": 28
+  },
+  {
+    "problem_idx": 1284,
+    "completion_count": 6
+  },
+  {
+    "problem_idx": 1287,
+    "completion_count": 33
+  },
+  {
+    "problem_idx": 1288,
+    "completion_count": 36
+  },
+  {
+    "problem_idx": 1290,
+    "completion_count": 27
+  },
+  {
+    "problem_idx": 1291,
+    "completion_count": 39
+  },
+  {
+    "problem_idx": 1295,
+    "completion_count": 64
+  },
+  {
+    "problem_idx": 1297,
+    "completion_count": 14
+  },
+  {
+    "problem_idx": 1299,
+    "completion_count": 55
+  },
+  {
+    "problem_idx": 1302,
+    "completion_count": 49
+  },
+  {
+    "problem_idx": 1304,
+    "completion_count": 56
+  },
+  {
+    "problem_idx": 1306,
+    "completion_count": 58
+  },
+  {
+    "problem_idx": 1307,
+    "completion_count": 2
+  },
+  {
+    "problem_idx": 1309,
+    "completion_count": 53
+  },
+  {
+    "problem_idx": 1311,
+    "completion_count": 12
+  },
+  {
+    "problem_idx": 1313,
+    "completion_count": 54
+  },
+  {
+    "problem_idx": 1314,
+    "completion_count": 32
+  },
+  {
+    "problem_idx": 1316,
+    "completion_count": 4
+  },
+  {
+    "problem_idx": 1317,
+    "completion_count": 28
+  },
+  {
+    "problem_idx": 1319,
+    "completion_count": 28
+  },
+  {
+    "problem_idx": 1324,
+    "completion_count": 38
+  },
+  {
+    "problem_idx": 1326,
+    "completion_count": 22
+  },
+  {
+    "problem_idx": 1328,
+    "completion_count": 66
+  },
+  {
+    "problem_idx": 1331,
+    "completion_count": 43
+  },
+  {
+    "problem_idx": 1334,
+    "completion_count": 22
+  },
+  {
+    "problem_idx": 1335,
+    "completion_count": 45
+  },
+  {
+    "problem_idx": 1339,
+    "completion_count": 15
+  },
+  {
+    "problem_idx": 1344,
+    "completion_count": 33
+  },
+  {
+    "problem_idx": 1347,
+    "completion_count": 46
+  },
+  {
+    "problem_idx": 1354,
+    "completion_count": 4
+  },
+  {
+    "problem_idx": 1360,
+    "completion_count": 18
+  },
+  {
+    "problem_idx": 1361,
+    "completion_count": 29
+  },
+  {
+    "problem_idx": 1362,
+    "completion_count": 7
+  },
+  {
+    "problem_idx": 1366,
+    "completion_count": 10
+  },
+  {
+    "problem_idx": 1367,
+    "completion_count": 23
+  },
+  {
+    "problem_idx": 1370,
+    "completion_count": 27
+  },
+  {
+    "problem_idx": 1371,
+    "completion_count": 6
+  },
+  {
+    "problem_idx": 1372,
+    "completion_count": 8
+  },
+  {
+    "problem_idx": 1373,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 1374,
+    "completion_count": 35
+  },
+  {
+    "problem_idx": 1375,
+    "completion_count": 20
+  },
+  {
+    "problem_idx": 1376,
+    "completion_count": 47
+  },
+  {
+    "problem_idx": 1377,
+    "completion_count": 7
+  },
+  {
+    "problem_idx": 1379,
+    "completion_count": 42
+  },
+  {
+    "problem_idx": 1380,
+    "completion_count": 48
+  },
+  {
+    "problem_idx": 1382,
+    "completion_count": 25
+  },
+  {
+    "problem_idx": 1388,
+    "completion_count": 15
+  },
+  {
+    "problem_idx": 1389,
+    "completion_count": 58
+  },
+  {
+    "problem_idx": 1390,
+    "completion_count": 20
+  },
+  {
+    "problem_idx": 1391,
+    "completion_count": 7
+  },
+  {
+    "problem_idx": 1392,
+    "completion_count": 18
+  },
+  {
+    "problem_idx": 1394,
+    "completion_count": 44
+  },
+  {
+    "problem_idx": 1399,
+    "completion_count": 30
+  },
+  {
+    "problem_idx": 1401,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 1402,
+    "completion_count": 26
+  },
+  {
+    "problem_idx": 1408,
+    "completion_count": 49
+  },
+  {
+    "problem_idx": 1409,
+    "completion_count": 13
+  },
+  {
+    "problem_idx": 1410,
+    "completion_count": 25
+  },
+  {
+    "problem_idx": 1413,
+    "completion_count": 54
+  },
+  {
+    "problem_idx": 1414,
+    "completion_count": 23
+  },
+  {
+    "problem_idx": 1417,
+    "completion_count": 32
+  },
+  {
+    "problem_idx": 1418,
+    "completion_count": 22
+  },
+  {
+    "problem_idx": 1419,
+    "completion_count": 23
+  },
+  {
+    "problem_idx": 1420,
+    "completion_count": 31
+  },
+  {
+    "problem_idx": 1422,
+    "completion_count": 18
+  },
+  {
+    "problem_idx": 1423,
+    "completion_count": 66
+  },
+  {
+    "problem_idx": 1424,
+    "completion_count": 25
+  },
+  {
+    "problem_idx": 1431,
+    "completion_count": 61
+  },
+  {
+    "problem_idx": 1436,
+    "completion_count": 46
+  },
+  {
+    "problem_idx": 1437,
+    "completion_count": 21
+  },
+  {
+    "problem_idx": 1438,
+    "completion_count": 16
+  },
+  {
+    "problem_idx": 1441,
+    "completion_count": 53
+  },
+  {
+    "problem_idx": 1446,
+    "completion_count": 55
+  },
+  {
+    "problem_idx": 1447,
+    "completion_count": 22
+  },
+  {
+    "problem_idx": 1448,
+    "completion_count": 40
+  },
+  {
+    "problem_idx": 1450,
+    "completion_count": 58
+  },
+  {
+    "problem_idx": 1452,
+    "completion_count": 8
+  },
+  {
+    "problem_idx": 1453,
+    "completion_count": 2
+  },
+  {
+    "problem_idx": 1455,
+    "completion_count": 41
+  },
+  {
+    "problem_idx": 1456,
+    "completion_count": 43
+  },
+  {
+    "problem_idx": 1462,
+    "completion_count": 3
+  },
+  {
+    "problem_idx": 1466,
+    "completion_count": 30
+  },
+  {
+    "problem_idx": 1470,
+    "completion_count": 44
+  },
+  {
+    "problem_idx": 1471,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 1473,
+    "completion_count": 19
+  },
+  {
+    "problem_idx": 1475,
+    "completion_count": 47
+  },
+  {
+    "problem_idx": 1478,
+    "completion_count": 8
+  },
+  {
+    "problem_idx": 1480,
+    "completion_count": 65
+  },
+  {
+    "problem_idx": 1482,
+    "completion_count": 27
+  },
+  {
+    "problem_idx": 1487,
+    "completion_count": 5
+  },
+  {
+    "problem_idx": 1488,
+    "completion_count": 2
+  },
+  {
+    "problem_idx": 1492,
+    "completion_count": 36
+  },
+  {
+    "problem_idx": 1493,
+    "completion_count": 26
+  },
+  {
+    "problem_idx": 1496,
+    "completion_count": 23
+  },
+  {
+    "problem_idx": 1497,
+    "completion_count": 6
+  },
+  {
+    "problem_idx": 1498,
+    "completion_count": 25
+  },
+  {
+    "problem_idx": 1503,
+    "completion_count": 5
+  },
+  {
+    "problem_idx": 1504,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 1505,
+    "completion_count": 1
+  },
+  {
+    "problem_idx": 1507,
+    "completion_count": 46
+  },
+  {
+    "problem_idx": 1508,
+    "completion_count": 21
+  },
+  {
+    "problem_idx": 1509,
+    "completion_count": 23
+  },
+  {
+    "problem_idx": 1512,
+    "completion_count": 51
+  },
+  {
+    "problem_idx": 1513,
+    "completion_count": 16
+  },
+  {
+    "problem_idx": 1514,
+    "completion_count": 4
+  },
+  {
+    "problem_idx": 1515,
+    "completion_count": 15
+  },
+  {
+    "problem_idx": 1518,
+    "completion_count": 24
+  },
+  {
+    "problem_idx": 1519,
+    "completion_count": 4
+  },
+  {
+    "problem_idx": 1523,
+    "completion_count": 67
+  },
+  {
+    "problem_idx": 1525,
+    "completion_count": 40
+  },
+  {
+    "problem_idx": 1528,
+    "completion_count": 71
+  },
+  {
+    "problem_idx": 1531,
+    "completion_count": 5
+  },
+  {
+    "problem_idx": 1534,
+    "completion_count": 41
+  },
+  {
+    "problem_idx": 1535,
+    "completion_count": 28
+  },
+  {
+    "problem_idx": 1536,
+    "completion_count": 2
+  },
+  {
+    "problem_idx": 1537,
+    "completion_count": 7
+  },
+  {
+    "problem_idx": 1540,
+    "completion_count": 4
+  },
+  {
+    "problem_idx": 1542,
+    "completion_count": 2
+  },
+  {
+    "problem_idx": 1544,
+    "completion_count": 65
+  },
+  {
+    "problem_idx": 1545,
+    "completion_count": 35
+  },
+  {
+    "problem_idx": 1547,
+    "completion_count": 20
+  },
+  {
+    "problem_idx": 1550,
+    "completion_count": 47
+  },
+  {
+    "problem_idx": 1551,
+    "completion_count": 33
+  },
+  {
+    "problem_idx": 1552,
+    "completion_count": 16
+  },
+  {
+    "problem_idx": 1553,
+    "completion_count": 10
+  },
+  {
+    "problem_idx": 1556,
+    "completion_count": 25
+  },
+  {
+    "problem_idx": 1557,
+    "completion_count": 29
+  },
+  {
+    "problem_idx": 1560,
+    "completion_count": 16
+  },
+  {
+    "problem_idx": 1562,
+    "completion_count": 1
+  },
+  {
+    "problem_idx": 1563,
+    "completion_count": 5
+  },
+  {
+    "problem_idx": 1566,
+    "completion_count": 23
+  },
+  {
+    "problem_idx": 1568,
+    "completion_count": 1
+  },
+  {
+    "problem_idx": 1572,
+    "completion_count": 57
+  },
+  {
+    "problem_idx": 1573,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 1574,
+    "completion_count": 8
+  },
+  {
+    "problem_idx": 1575,
+    "completion_count": 10
+  },
+  {
+    "problem_idx": 1576,
+    "completion_count": 13
+  },
+  {
+    "problem_idx": 1579,
+    "completion_count": 11
+  },
+  {
+    "problem_idx": 1582,
+    "completion_count": 19
+  },
+  {
+    "problem_idx": 1583,
+    "completion_count": 7
+  },
+  {
+    "problem_idx": 1584,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 1588,
+    "completion_count": 61
+  },
+  {
+    "problem_idx": 1590,
+    "completion_count": 13
+  },
+  {
+    "problem_idx": 1592,
+    "completion_count": 37
+  },
+  {
+    "problem_idx": 1593,
+    "completion_count": 11
+  },
+  {
+    "problem_idx": 1598,
+    "completion_count": 45
+  },
+  {
+    "problem_idx": 1599,
+    "completion_count": 3
+  },
+  {
+    "problem_idx": 1601,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 1604,
+    "completion_count": 22
+  },
+  {
+    "problem_idx": 1605,
+    "completion_count": 27
+  },
+  {
+    "problem_idx": 1606,
+    "completion_count": 12
+  },
+  {
+    "problem_idx": 1609,
+    "completion_count": 18
+  },
+  {
+    "problem_idx": 1614,
+    "completion_count": 55
+  },
+  {
+    "problem_idx": 1615,
+    "completion_count": 21
+  },
+  {
+    "problem_idx": 1616,
+    "completion_count": 7
+  },
+  {
+    "problem_idx": 1617,
+    "completion_count": 2
+  },
+  {
+    "problem_idx": 1620,
+    "completion_count": 2
+  },
+  {
+    "problem_idx": 1621,
+    "completion_count": 1
+  },
+  {
+    "problem_idx": 1624,
+    "completion_count": 32
+  },
+  {
+    "problem_idx": 1625,
+    "completion_count": 3
+  },
+  {
+    "problem_idx": 1627,
+    "completion_count": 5
+  },
+  {
+    "problem_idx": 1629,
+    "completion_count": 45
+  },
+  {
+    "problem_idx": 1630,
+    "completion_count": 60
+  },
+  {
+    "problem_idx": 1632,
+    "completion_count": 2
+  },
+  {
+    "problem_idx": 1639,
+    "completion_count": 12
+  },
+  {
+    "problem_idx": 1640,
+    "completion_count": 40
+  },
+  {
+    "problem_idx": 1642,
+    "completion_count": 26
+  },
+  {
+    "problem_idx": 1643,
+    "completion_count": 4
+  },
+  {
+    "problem_idx": 1648,
+    "completion_count": 5
+  },
+  {
+    "problem_idx": 1652,
+    "completion_count": 30
+  },
+  {
+    "problem_idx": 1653,
+    "completion_count": 24
+  },
+  {
+    "problem_idx": 1655,
+    "completion_count": 2
+  },
+  {
+    "problem_idx": 1659,
+    "completion_count": 1
+  },
+  {
+    "problem_idx": 1662,
+    "completion_count": 49
+  },
+  {
+    "problem_idx": 1664,
+    "completion_count": 19
+  },
+  {
+    "problem_idx": 1668,
+    "completion_count": 35
+  },
+  {
+    "problem_idx": 1669,
+    "completion_count": 27
+  },
+  {
+    "problem_idx": 1671,
+    "completion_count": 3
+  },
+  {
+    "problem_idx": 1672,
+    "completion_count": 53
+  },
+  {
+    "problem_idx": 1674,
+    "completion_count": 3
+  },
+  {
+    "problem_idx": 1678,
+    "completion_count": 59
+  },
+  {
+    "problem_idx": 1680,
+    "completion_count": 50
+  },
+  {
+    "problem_idx": 1681,
+    "completion_count": 4
+  },
+  {
+    "problem_idx": 1685,
+    "completion_count": 32
+  },
+  {
+    "problem_idx": 1686,
+    "completion_count": 9
+  },
+  {
+    "problem_idx": 1688,
+    "completion_count": 40
+  },
+  {
+    "problem_idx": 1694,
+    "completion_count": 32
+  },
+  {
+    "problem_idx": 1697,
+    "completion_count": 2
+  },
+  {
+    "problem_idx": 1700,
+    "completion_count": 53
+  },
+  {
+    "problem_idx": 1701,
+    "completion_count": 25
+  },
+  {
+    "problem_idx": 1702,
+    "completion_count": 14
+  },
+  {
+    "problem_idx": 1703,
+    "completion_count": 2
+  },
+  {
+    "problem_idx": 1704,
+    "completion_count": 63
+  },
+  {
+    "problem_idx": 1711,
+    "completion_count": 24
+  },
+  {
+    "problem_idx": 1712,
+    "completion_count": 12
+  },
+  {
+    "problem_idx": 1716,
+    "completion_count": 45
+  },
+  {
+    "problem_idx": 1719,
+    "completion_count": 1
+  },
+  {
+    "problem_idx": 1723,
+    "completion_count": 11
+  },
+  {
+    "problem_idx": 1725,
+    "completion_count": 40
+  },
+  {
+    "problem_idx": 1726,
+    "completion_count": 22
+  },
+  {
+    "problem_idx": 1727,
+    "completion_count": 19
+  },
+  {
+    "problem_idx": 1732,
+    "completion_count": 57
+  },
+  {
+    "problem_idx": 1737,
+    "completion_count": 9
+  },
+  {
+    "problem_idx": 1738,
+    "completion_count": 7
+  },
+  {
+    "problem_idx": 1742,
+    "completion_count": 35
+  },
+  {
+    "problem_idx": 1743,
+    "completion_count": 33
+  },
+  {
+    "problem_idx": 1744,
+    "completion_count": 1
+  },
+  {
+    "problem_idx": 1748,
+    "completion_count": 60
+  },
+  {
+    "problem_idx": 1752,
+    "completion_count": 46
+  },
+  {
+    "problem_idx": 1755,
+    "completion_count": 18
+  },
+  {
+    "problem_idx": 1758,
+    "completion_count": 34
+  },
+  {
+    "problem_idx": 1759,
+    "completion_count": 36
+  },
+  {
+    "problem_idx": 1761,
+    "completion_count": 10
+  },
+  {
+    "problem_idx": 1769,
+    "completion_count": 54
+  },
+  {
+    "problem_idx": 1770,
+    "completion_count": 35
+  },
+  {
+    "problem_idx": 1773,
+    "completion_count": 60
+  },
+  {
+    "problem_idx": 1774,
+    "completion_count": 21
+  },
+  {
+    "problem_idx": 1776,
+    "completion_count": 5
+  },
+  {
+    "problem_idx": 1779,
+    "completion_count": 54
+  },
+  {
+    "problem_idx": 1780,
+    "completion_count": 29
+  },
+  {
+    "problem_idx": 1781,
+    "completion_count": 22
+  },
+  {
+    "problem_idx": 1782,
+    "completion_count": 1
+  },
+  {
+    "problem_idx": 1784,
+    "completion_count": 37
+  },
+  {
+    "problem_idx": 1785,
+    "completion_count": 20
+  },
+  {
+    "problem_idx": 1786,
+    "completion_count": 12
+  },
+  {
+    "problem_idx": 1790,
+    "completion_count": 53
+  },
+  {
+    "problem_idx": 1791,
+    "completion_count": 59
+  },
+  {
+    "problem_idx": 1793,
+    "completion_count": 29
+  },
+  {
+    "problem_idx": 1796,
+    "completion_count": 49
+  },
+  {
+    "problem_idx": 1798,
+    "completion_count": 10
+  },
+  {
+    "problem_idx": 1800,
+    "completion_count": 40
+  },
+  {
+    "problem_idx": 1801,
+    "completion_count": 20
+  },
+  {
+    "problem_idx": 1803,
+    "completion_count": 9
+  },
+  {
+    "problem_idx": 1805,
+    "completion_count": 50
+  },
+  {
+    "problem_idx": 1806,
+    "completion_count": 11
+  },
+  {
+    "problem_idx": 1807,
+    "completion_count": 31
+  },
+  {
+    "problem_idx": 1808,
+    "completion_count": 1
+  },
+  {
+    "problem_idx": 1812,
+    "completion_count": 46
+  },
+  {
+    "problem_idx": 1814,
+    "completion_count": 24
+  },
+  {
+    "problem_idx": 1815,
+    "completion_count": 6
+  },
+  {
+    "problem_idx": 1816,
+    "completion_count": 55
+  },
+  {
+    "problem_idx": 1817,
+    "completion_count": 41
+  },
+  {
+    "problem_idx": 1819,
+    "completion_count": 1
+  },
+  {
+    "problem_idx": 1822,
+    "completion_count": 45
+  },
+  {
+    "problem_idx": 1823,
+    "completion_count": 40
+  },
+  {
+    "problem_idx": 1827,
+    "completion_count": 48
+  },
+  {
+    "problem_idx": 1828,
+    "completion_count": 43
+  },
+  {
+    "problem_idx": 1829,
+    "completion_count": 31
+  },
+  {
+    "problem_idx": 1832,
+    "completion_count": 54
+  },
+  {
+    "problem_idx": 1837,
+    "completion_count": 32
+  },
+  {
+    "problem_idx": 1840,
+    "completion_count": 2
+  },
+  {
+    "problem_idx": 1844,
+    "completion_count": 52
+  },
+  {
+    "problem_idx": 1847,
+    "completion_count": 4
+  },
+  {
+    "problem_idx": 1848,
+    "completion_count": 38
+  },
+  {
+    "problem_idx": 1854,
+    "completion_count": 19
+  },
+  {
+    "problem_idx": 1856,
+    "completion_count": 23
+  },
+  {
+    "problem_idx": 1859,
+    "completion_count": 58
+  },
+  {
+    "problem_idx": 1860,
+    "completion_count": 15
+  },
+  {
+    "problem_idx": 1862,
+    "completion_count": 3
+  },
+  {
+    "problem_idx": 1863,
+    "completion_count": 32
+  },
+  {
+    "problem_idx": 1864,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 1869,
+    "completion_count": 42
+  },
+  {
+    "problem_idx": 1878,
+    "completion_count": 11
+  },
+  {
+    "problem_idx": 1880,
+    "completion_count": 62
+  },
+  {
+    "problem_idx": 1882,
+    "completion_count": 23
+  },
+  {
+    "problem_idx": 1884,
+    "completion_count": 29
+  },
+  {
+    "problem_idx": 1886,
+    "completion_count": 37
+  },
+  {
+    "problem_idx": 1893,
+    "completion_count": 43
+  },
+  {
+    "problem_idx": 1895,
+    "completion_count": 9
+  },
+  {
+    "problem_idx": 1897,
+    "completion_count": 41
+  },
+  {
+    "problem_idx": 1904,
+    "completion_count": 14
+  },
+  {
+    "problem_idx": 1905,
+    "completion_count": 38
+  },
+  {
+    "problem_idx": 1906,
+    "completion_count": 1
+  },
+  {
+    "problem_idx": 1909,
+    "completion_count": 30
+  },
+  {
+    "problem_idx": 1910,
+    "completion_count": 39
+  },
+  {
+    "problem_idx": 1913,
+    "completion_count": 51
+  },
+  {
+    "problem_idx": 1914,
+    "completion_count": 13
+  },
+  {
+    "problem_idx": 1915,
+    "completion_count": 9
+  },
+  {
+    "problem_idx": 1916,
+    "completion_count": 1
+  },
+  {
+    "problem_idx": 1920,
+    "completion_count": 57
+  },
+  {
+    "problem_idx": 1922,
+    "completion_count": 21
+  },
+  {
+    "problem_idx": 1925,
+    "completion_count": 28
+  },
+  {
+    "problem_idx": 1926,
+    "completion_count": 64
+  },
+  {
+    "problem_idx": 1928,
+    "completion_count": 9
+  },
+  {
+    "problem_idx": 1929,
+    "completion_count": 62
+  },
+  {
+    "problem_idx": 1930,
+    "completion_count": 33
+  },
+  {
+    "problem_idx": 1931,
+    "completion_count": 1
+  },
+  {
+    "problem_idx": 1935,
+    "completion_count": 44
+  },
+  {
+    "problem_idx": 1936,
+    "completion_count": 25
+  },
+  {
+    "problem_idx": 1941,
+    "completion_count": 54
+  },
+  {
+    "problem_idx": 1942,
+    "completion_count": 7
+  },
+  {
+    "problem_idx": 1943,
+    "completion_count": 4
+  },
+  {
+    "problem_idx": 1944,
+    "completion_count": 23
+  },
+  {
+    "problem_idx": 1945,
+    "completion_count": 42
+  },
+  {
+    "problem_idx": 1947,
+    "completion_count": 11
+  },
+  {
+    "problem_idx": 1948,
+    "completion_count": 2
+  },
+  {
+    "problem_idx": 1952,
+    "completion_count": 36
+  },
+  {
+    "problem_idx": 1957,
+    "completion_count": 38
+  },
+  {
+    "problem_idx": 1958,
+    "completion_count": 11
+  },
+  {
+    "problem_idx": 1960,
+    "completion_count": 1
+  },
+  {
+    "problem_idx": 1961,
+    "completion_count": 36
+  },
+  {
+    "problem_idx": 1964,
+    "completion_count": 15
+  },
+  {
+    "problem_idx": 1967,
+    "completion_count": 39
+  },
+  {
+    "problem_idx": 1971,
+    "completion_count": 53
+  },
+  {
+    "problem_idx": 1975,
+    "completion_count": 12
+  },
+  {
+    "problem_idx": 1976,
+    "completion_count": 19
+  },
+  {
+    "problem_idx": 1979,
+    "completion_count": 38
+  },
+  {
+    "problem_idx": 1980,
+    "completion_count": 45
+  },
+  {
+    "problem_idx": 1982,
+    "completion_count": 2
+  },
+  {
+    "problem_idx": 1986,
+    "completion_count": 19
+  },
+  {
+    "problem_idx": 1991,
+    "completion_count": 44
+  },
+  {
+    "problem_idx": 1995,
+    "completion_count": 32
+  },
+  {
+    "problem_idx": 1997,
+    "completion_count": 11
+  },
+  {
+    "problem_idx": 2001,
+    "completion_count": 25
+  },
+  {
+    "problem_idx": 2003,
+    "completion_count": 1
+  },
+  {
+    "problem_idx": 2006,
+    "completion_count": 61
+  },
+  {
+    "problem_idx": 2008,
+    "completion_count": 16
+  },
+  {
+    "problem_idx": 2011,
+    "completion_count": 67
+  },
+  {
+    "problem_idx": 2012,
+    "completion_count": 14
+  },
+  {
+    "problem_idx": 2014,
+    "completion_count": 3
+  },
+  {
+    "problem_idx": 2016,
+    "completion_count": 41
+  },
+  {
+    "problem_idx": 2017,
+    "completion_count": 22
+  },
+  {
+    "problem_idx": 2018,
+    "completion_count": 14
+  },
+  {
+    "problem_idx": 2019,
+    "completion_count": 2
+  },
+  {
+    "problem_idx": 2022,
+    "completion_count": 51
+  },
+  {
+    "problem_idx": 2023,
+    "completion_count": 39
+  },
+  {
+    "problem_idx": 2025,
+    "completion_count": 2
+  },
+  {
+    "problem_idx": 2027,
+    "completion_count": 31
+  },
+  {
+    "problem_idx": 2028,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 2032,
+    "completion_count": 48
+  },
+  {
+    "problem_idx": 2033,
+    "completion_count": 20
+  },
+  {
+    "problem_idx": 2035,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 2038,
+    "completion_count": 31
+  },
+  {
+    "problem_idx": 2040,
+    "completion_count": 4
+  },
+  {
+    "problem_idx": 2042,
+    "completion_count": 46
+  },
+  {
+    "problem_idx": 2044,
+    "completion_count": 28
+  },
+  {
+    "problem_idx": 2045,
+    "completion_count": 1
+  },
+  {
+    "problem_idx": 2047,
+    "completion_count": 26
+  },
+  {
+    "problem_idx": 2048,
+    "completion_count": 18
+  },
+  {
+    "problem_idx": 2049,
+    "completion_count": 20
+  },
+  {
+    "problem_idx": 2053,
+    "completion_count": 50
+  },
+  {
+    "problem_idx": 2055,
+    "completion_count": 24
+  },
+  {
+    "problem_idx": 2056,
+    "completion_count": 1
+  },
+  {
+    "problem_idx": 2057,
+    "completion_count": 40
+  },
+  {
+    "problem_idx": 2058,
+    "completion_count": 18
+  },
+  {
+    "problem_idx": 2060,
+    "completion_count": 2
+  },
+  {
+    "problem_idx": 2062,
+    "completion_count": 21
+  },
+  {
+    "problem_idx": 2063,
+    "completion_count": 23
+  },
+  {
+    "problem_idx": 2064,
+    "completion_count": 12
+  },
+  {
+    "problem_idx": 2065,
+    "completion_count": 16
+  },
+  {
+    "problem_idx": 2068,
+    "completion_count": 34
+  },
+  {
+    "problem_idx": 2073,
+    "completion_count": 41
+  },
+  {
+    "problem_idx": 2074,
+    "completion_count": 22
+  },
+  {
+    "problem_idx": 2075,
+    "completion_count": 21
+  },
+  {
+    "problem_idx": 2076,
+    "completion_count": 13
+  },
+  {
+    "problem_idx": 2078,
+    "completion_count": 34
+  },
+  {
+    "problem_idx": 2079,
+    "completion_count": 39
+  },
+  {
+    "problem_idx": 2081,
+    "completion_count": 5
+  },
+  {
+    "problem_idx": 2085,
+    "completion_count": 52
+  },
+  {
+    "problem_idx": 2086,
+    "completion_count": 27
+  },
+  {
+    "problem_idx": 2091,
+    "completion_count": 34
+  },
+  {
+    "problem_idx": 2095,
+    "completion_count": 47
+  },
+  {
+    "problem_idx": 2099,
+    "completion_count": 47
+  },
+  {
+    "problem_idx": 2103,
+    "completion_count": 47
+  },
+  {
+    "problem_idx": 2104,
+    "completion_count": 31
+  },
+  {
+    "problem_idx": 2105,
+    "completion_count": 20
+  },
+  {
+    "problem_idx": 2109,
+    "completion_count": 42
+  },
+  {
+    "problem_idx": 2114,
+    "completion_count": 56
+  },
+  {
+    "problem_idx": 2115,
+    "completion_count": 41
+  },
+  {
+    "problem_idx": 2117,
+    "completion_count": 3
+  },
+  {
+    "problem_idx": 2119,
+    "completion_count": 53
+  },
+  {
+    "problem_idx": 2120,
+    "completion_count": 32
+  },
+  {
+    "problem_idx": 2121,
+    "completion_count": 8
+  },
+  {
+    "problem_idx": 2124,
+    "completion_count": 46
+  },
+  {
+    "problem_idx": 2125,
+    "completion_count": 44
+  },
+  {
+    "problem_idx": 2126,
+    "completion_count": 28
+  },
+  {
+    "problem_idx": 2127,
+    "completion_count": 16
+  },
+  {
+    "problem_idx": 2129,
+    "completion_count": 54
+  },
+  {
+    "problem_idx": 2130,
+    "completion_count": 44
+  },
+  {
+    "problem_idx": 2133,
+    "completion_count": 56
+  },
+  {
+    "problem_idx": 2134,
+    "completion_count": 24
+  },
+  {
+    "problem_idx": 2138,
+    "completion_count": 53
+  },
+  {
+    "problem_idx": 2140,
+    "completion_count": 47
+  },
+  {
+    "problem_idx": 2145,
+    "completion_count": 19
+  },
+  {
+    "problem_idx": 2146,
+    "completion_count": 12
+  },
+  {
+    "problem_idx": 2147,
+    "completion_count": 33
+  },
+  {
+    "problem_idx": 2149,
+    "completion_count": 61
+  },
+  {
+    "problem_idx": 2150,
+    "completion_count": 29
+  },
+  {
+    "problem_idx": 2151,
+    "completion_count": 4
+  },
+  {
+    "problem_idx": 2155,
+    "completion_count": 29
+  },
+  {
+    "problem_idx": 2156,
+    "completion_count": 6
+  },
+  {
+    "problem_idx": 2161,
+    "completion_count": 56
+  },
+  {
+    "problem_idx": 2162,
+    "completion_count": 6
+  },
+  {
+    "problem_idx": 2163,
+    "completion_count": 3
+  },
+  {
+    "problem_idx": 2167,
+    "completion_count": 2
+  },
+  {
+    "problem_idx": 2169,
+    "completion_count": 45
+  },
+  {
+    "problem_idx": 2176,
+    "completion_count": 43
+  },
+  {
+    "problem_idx": 2177,
+    "completion_count": 40
+  },
+  {
+    "problem_idx": 2180,
+    "completion_count": 59
+  },
+  {
+    "problem_idx": 2181,
+    "completion_count": 40
+  },
+  {
+    "problem_idx": 2185,
+    "completion_count": 55
+  },
+  {
+    "problem_idx": 2186,
+    "completion_count": 38
+  },
+  {
+    "problem_idx": 2190,
+    "completion_count": 43
+  },
+  {
+    "problem_idx": 2191,
+    "completion_count": 24
+  },
+  {
+    "problem_idx": 2192,
+    "completion_count": 25
+  },
+  {
+    "problem_idx": 2194,
+    "completion_count": 48
+  },
+  {
+    "problem_idx": 2195,
+    "completion_count": 27
+  },
+  {
+    "problem_idx": 2196,
+    "completion_count": 25
+  },
+  {
+    "problem_idx": 2197,
+    "completion_count": 7
+  },
+  {
+    "problem_idx": 2200,
+    "completion_count": 39
+  },
+  {
+    "problem_idx": 2201,
+    "completion_count": 9
+  },
+  {
+    "problem_idx": 2203,
+    "completion_count": 4
+  },
+  {
+    "problem_idx": 2210,
+    "completion_count": 38
+  },
+  {
+    "problem_idx": 2211,
+    "completion_count": 31
+  },
+  {
+    "problem_idx": 2212,
+    "completion_count": 8
+  },
+  {
+    "problem_idx": 2215,
+    "completion_count": 68
+  },
+  {
+    "problem_idx": 2217,
+    "completion_count": 32
+  },
+  {
+    "problem_idx": 2221,
+    "completion_count": 65
+  },
+  {
+    "problem_idx": 2225,
+    "completion_count": 39
+  },
+  {
+    "problem_idx": 2226,
+    "completion_count": 26
+  },
+  {
+    "problem_idx": 2232,
+    "completion_count": 26
+  },
+  {
+    "problem_idx": 2233,
+    "completion_count": 27
+  },
+  {
+    "problem_idx": 2235,
+    "completion_count": 27
+  },
+  {
+    "problem_idx": 2236,
+    "completion_count": 28
+  },
+  {
+    "problem_idx": 2239,
+    "completion_count": 42
+  },
+  {
+    "problem_idx": 2240,
+    "completion_count": 26
+  },
+  {
+    "problem_idx": 2243,
+    "completion_count": 38
+  },
+  {
+    "problem_idx": 2244,
+    "completion_count": 31
+  },
+  {
+    "problem_idx": 2245,
+    "completion_count": 4
+  },
+  {
+    "problem_idx": 2248,
+    "completion_count": 53
+  },
+  {
+    "problem_idx": 2249,
+    "completion_count": 22
+  },
+  {
+    "problem_idx": 2255,
+    "completion_count": 43
+  },
+  {
+    "problem_idx": 2256,
+    "completion_count": 25
+  },
+  {
+    "problem_idx": 2257,
+    "completion_count": 14
+  },
+  {
+    "problem_idx": 2259,
+    "completion_count": 37
+  },
+  {
+    "problem_idx": 2260,
+    "completion_count": 41
+  },
+  {
+    "problem_idx": 2261,
+    "completion_count": 21
+  },
+  {
+    "problem_idx": 2264,
+    "completion_count": 24
+  },
+  {
+    "problem_idx": 2265,
+    "completion_count": 33
+  },
+  {
+    "problem_idx": 2266,
+    "completion_count": 19
+  },
+  {
+    "problem_idx": 2270,
+    "completion_count": 27
+  },
+  {
+    "problem_idx": 2271,
+    "completion_count": 14
+  },
+  {
+    "problem_idx": 2272,
+    "completion_count": 20
+  },
+  {
+    "problem_idx": 2274,
+    "completion_count": 21
+  },
+  {
+    "problem_idx": 2275,
+    "completion_count": 15
+  },
+  {
+    "problem_idx": 2278,
+    "completion_count": 39
+  },
+  {
+    "problem_idx": 2281,
+    "completion_count": 15
+  },
+  {
+    "problem_idx": 2283,
+    "completion_count": 41
+  },
+  {
+    "problem_idx": 2284,
+    "completion_count": 50
+  },
+  {
+    "problem_idx": 2285,
+    "completion_count": 27
+  },
+  {
+    "problem_idx": 2287,
+    "completion_count": 32
+  },
+  {
+    "problem_idx": 2288,
+    "completion_count": 28
+  },
+  {
+    "problem_idx": 2289,
+    "completion_count": 10
+  },
+  {
+    "problem_idx": 2293,
+    "completion_count": 41
+  },
+  {
+    "problem_idx": 2295,
+    "completion_count": 31
+  },
+  {
+    "problem_idx": 2299,
+    "completion_count": 26
+  },
+  {
+    "problem_idx": 2301,
+    "completion_count": 10
+  },
+  {
+    "problem_idx": 2303,
+    "completion_count": 31
+  },
+  {
+    "problem_idx": 2309,
+    "completion_count": 58
+  },
+  {
+    "problem_idx": 2315,
+    "completion_count": 44
+  },
+  {
+    "problem_idx": 2316,
+    "completion_count": 31
+  },
+  {
+    "problem_idx": 2318,
+    "completion_count": 5
+  },
+  {
+    "problem_idx": 2319,
+    "completion_count": 33
+  },
+  {
+    "problem_idx": 2322,
+    "completion_count": 6
+  },
+  {
+    "problem_idx": 2325,
+    "completion_count": 42
+  },
+  {
+    "problem_idx": 2326,
+    "completion_count": 27
+  },
+  {
+    "problem_idx": 2328,
+    "completion_count": 22
+  },
+  {
+    "problem_idx": 2333,
+    "completion_count": 14
+  },
+  {
+    "problem_idx": 2334,
+    "completion_count": 5
+  },
+  {
+    "problem_idx": 2341,
+    "completion_count": 51
+  },
+  {
+    "problem_idx": 2347,
+    "completion_count": 27
+  },
+  {
+    "problem_idx": 2348,
+    "completion_count": 26
+  },
+  {
+    "problem_idx": 2350,
+    "completion_count": 5
+  },
+  {
+    "problem_idx": 2351,
+    "completion_count": 54
+  },
+  {
+    "problem_idx": 2352,
+    "completion_count": 44
+  },
+  {
+    "problem_idx": 2364,
+    "completion_count": 23
+  },
+  {
+    "problem_idx": 2365,
+    "completion_count": 10
+  },
+  {
+    "problem_idx": 2368,
+    "completion_count": 29
+  },
+  {
+    "problem_idx": 2369,
+    "completion_count": 7
+  },
+  {
+    "problem_idx": 2373,
+    "completion_count": 38
+  },
+  {
+    "problem_idx": 2374,
+    "completion_count": 23
+  },
+  {
+    "problem_idx": 2379,
+    "completion_count": 31
+  },
+  {
+    "problem_idx": 2381,
+    "completion_count": 21
+  },
+  {
+    "problem_idx": 2382,
+    "completion_count": 4
+  },
+  {
+    "problem_idx": 2384,
+    "completion_count": 22
+  },
+  {
+    "problem_idx": 2385,
+    "completion_count": 24
+  },
+  {
+    "problem_idx": 2386,
+    "completion_count": 3
+  },
+  {
+    "problem_idx": 2390,
+    "completion_count": 26
+  },
+  {
+    "problem_idx": 2391,
+    "completion_count": 22
+  },
+  {
+    "problem_idx": 2392,
+    "completion_count": 8
+  },
+  {
+    "problem_idx": 2395,
+    "completion_count": 30
+  },
+  {
+    "problem_idx": 2396,
+    "completion_count": 12
+  },
+  {
+    "problem_idx": 2398,
+    "completion_count": 8
+  },
+  {
+    "problem_idx": 2399,
+    "completion_count": 31
+  },
+  {
+    "problem_idx": 2400,
+    "completion_count": 25
+  },
+  {
+    "problem_idx": 2402,
+    "completion_count": 26
+  },
+  {
+    "problem_idx": 2404,
+    "completion_count": 25
+  },
+  {
+    "problem_idx": 2405,
+    "completion_count": 43
+  },
+  {
+    "problem_idx": 2409,
+    "completion_count": 27
+  },
+  {
+    "problem_idx": 2413,
+    "completion_count": 38
+  },
+  {
+    "problem_idx": 2414,
+    "completion_count": 38
+  },
+  {
+    "problem_idx": 2415,
+    "completion_count": 29
+  },
+  {
+    "problem_idx": 2416,
+    "completion_count": 22
+  },
+  {
+    "problem_idx": 2421,
+    "completion_count": 13
+  },
+  {
+    "problem_idx": 2423,
+    "completion_count": 42
+  },
+  {
+    "problem_idx": 2427,
+    "completion_count": 46
+  },
+  {
+    "problem_idx": 2428,
+    "completion_count": 37
+  },
+  {
+    "problem_idx": 2429,
+    "completion_count": 16
+  },
+  {
+    "problem_idx": 2432,
+    "completion_count": 38
+  },
+  {
+    "problem_idx": 2435,
+    "completion_count": 14
+  },
+  {
+    "problem_idx": 2437,
+    "completion_count": 37
+  },
+  {
+    "problem_idx": 2438,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 2440,
+    "completion_count": 2
+  },
+  {
+    "problem_idx": 2442,
+    "completion_count": 52
+  },
+  {
+    "problem_idx": 2443,
+    "completion_count": 42
+  },
+  {
+    "problem_idx": 2446,
+    "completion_count": 32
+  },
+  {
+    "problem_idx": 2447,
+    "completion_count": 11
+  },
+  {
+    "problem_idx": 2451,
+    "completion_count": 35
+  },
+  {
+    "problem_idx": 2452,
+    "completion_count": 34
+  },
+  {
+    "problem_idx": 2453,
+    "completion_count": 19
+  },
+  {
+    "problem_idx": 2454,
+    "completion_count": 4
+  },
+  {
+    "problem_idx": 2455,
+    "completion_count": 48
+  },
+  {
+    "problem_idx": 2458,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 2460,
+    "completion_count": 60
+  },
+  {
+    "problem_idx": 2463,
+    "completion_count": 6
+  },
+  {
+    "problem_idx": 2467,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 2469,
+    "completion_count": 49
+  },
+  {
+    "problem_idx": 2470,
+    "completion_count": 10
+  },
+  {
+    "problem_idx": 2471,
+    "completion_count": 12
+  },
+  {
+    "problem_idx": 2475,
+    "completion_count": 34
+  },
+  {
+    "problem_idx": 2476,
+    "completion_count": 13
+  },
+  {
+    "problem_idx": 2477,
+    "completion_count": 27
+  },
+  {
+    "problem_idx": 2481,
+    "completion_count": 15
+  },
+  {
+    "problem_idx": 2482,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 2483,
+    "completion_count": 14
+  },
+  {
+    "problem_idx": 2485,
+    "completion_count": 16
+  },
+  {
+    "problem_idx": 2487,
+    "completion_count": 18
+  },
+  {
+    "problem_idx": 2488,
+    "completion_count": 4
+  },
+  {
+    "problem_idx": 2490,
+    "completion_count": 9
+  },
+  {
+    "problem_idx": 2496,
+    "completion_count": 19
+  },
+  {
+    "problem_idx": 2498,
+    "completion_count": 8
+  },
+  {
+    "problem_idx": 2503,
+    "completion_count": 2
+  },
+  {
+    "problem_idx": 2506,
+    "completion_count": 19
+  },
+  {
+    "problem_idx": 2507,
+    "completion_count": 10
+  },
+  {
+    "problem_idx": 2520,
+    "completion_count": 15
+  },
+  {
+    "problem_idx": 2521,
+    "completion_count": 11
+  },
+  {
+    "problem_idx": 2523,
+    "completion_count": 7
+  },
+  {
+    "problem_idx": 2525,
+    "completion_count": 13
+  },
+  {
+    "problem_idx": 2529,
+    "completion_count": 12
+  },
+  {
+    "problem_idx": 2535,
+    "completion_count": 18
+  },
+  {
+    "problem_idx": 2536,
+    "completion_count": 5
+  },
+  {
+    "problem_idx": 2541,
+    "completion_count": 4
+  },
+  {
+    "problem_idx": 2544,
+    "completion_count": 19
+  },
+  {
+    "problem_idx": 2545,
+    "completion_count": 12
+  },
+  {
+    "problem_idx": 2549,
+    "completion_count": 13
+  },
+  {
+    "problem_idx": 2551,
+    "completion_count": 14
+  },
+  {
+    "problem_idx": 2553,
+    "completion_count": 14
+  },
+  {
+    "problem_idx": 2556,
+    "completion_count": 4
+  },
+  {
+    "problem_idx": 2558,
+    "completion_count": 13
+  },
+  {
+    "problem_idx": 2559,
+    "completion_count": 12
+  },
+  {
+    "problem_idx": 2563,
+    "completion_count": 14
+  },
+  {
+    "problem_idx": 2574,
+    "completion_count": 22
+  },
+  {
+    "problem_idx": 2575,
+    "completion_count": 18
+  },
+  {
+    "problem_idx": 2579,
+    "completion_count": 11
+  },
+  {
+    "problem_idx": 2582,
+    "completion_count": 11
+  },
+  {
+    "problem_idx": 2583,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 2584,
+    "completion_count": 5
+  },
+  {
+    "problem_idx": 2586,
+    "completion_count": 12
+  },
+  {
+    "problem_idx": 2587,
+    "completion_count": 12
+  },
+  {
+    "problem_idx": 2597,
+    "completion_count": 20
+  },
+  {
+    "problem_idx": 2603,
+    "completion_count": 10
+  },
+  {
+    "problem_idx": 2605,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 2608,
+    "completion_count": 6
+  },
+  {
+    "problem_idx": 2609,
+    "completion_count": 14
+  },
+  {
+    "problem_idx": 2610,
+    "completion_count": 13
+  },
+  {
+    "problem_idx": 2611,
+    "completion_count": 16
+  },
+  {
+    "problem_idx": 2614,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 2615,
+    "completion_count": 14
+  },
+  {
+    "problem_idx": 2639,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 2640,
+    "completion_count": 12
+  },
+  {
+    "problem_idx": 2641,
+    "completion_count": 11
+  },
+  {
+    "problem_idx": 2643,
+    "completion_count": 15
+  },
+  {
+    "problem_idx": 2644,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 2646,
+    "completion_count": 6
+  },
+  {
+    "problem_idx": 2651,
+    "completion_count": 13
+  },
+  {
+    "problem_idx": 2652,
+    "completion_count": 11
+  },
+  {
+    "problem_idx": 2653,
+    "completion_count": 11
+  },
+  {
+    "problem_idx": 2658,
+    "completion_count": 20
+  },
+  {
+    "problem_idx": 2659,
+    "completion_count": 16
+  },
+  {
+    "problem_idx": 2660,
+    "completion_count": 11
+  },
+  {
+    "problem_idx": 2661,
+    "completion_count": 11
+  },
+  {
+    "problem_idx": 2662,
+    "completion_count": 9
+  },
+  {
+    "problem_idx": 2670,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 2672,
+    "completion_count": 10
+  },
+  {
+    "problem_idx": 2673,
+    "completion_count": 13
+  },
+  {
+    "problem_idx": 2678,
+    "completion_count": 19
+  },
+  {
+    "problem_idx": 2680,
+    "completion_count": 7
+  },
+  {
+    "problem_idx": 2682,
+    "completion_count": 11
+  },
+  {
+    "problem_idx": 2685,
+    "completion_count": 15
+  },
+  {
+    "problem_idx": 2696,
+    "completion_count": 11
+  },
+  {
+    "problem_idx": 2698,
+    "completion_count": 11
+  },
+  {
+    "problem_idx": 2706,
+    "completion_count": 11
+  },
+  {
+    "problem_idx": 2710,
+    "completion_count": 15
+  },
+  {
+    "problem_idx": 2711,
+    "completion_count": 7
+  },
+  {
+    "problem_idx": 2716,
+    "completion_count": 10
+  },
+  {
+    "problem_idx": 2717,
+    "completion_count": 14
+  },
+  {
+    "problem_idx": 2718,
+    "completion_count": 5
+  },
+  {
+    "problem_idx": 2729,
+    "completion_count": 5
+  },
+  {
+    "problem_idx": 2731,
+    "completion_count": 8
+  },
+  {
+    "problem_idx": 2735,
+    "completion_count": 11
+  },
+  {
+    "problem_idx": 2739,
+    "completion_count": 14
+  },
+  {
+    "problem_idx": 2741,
+    "completion_count": 7
+  },
+  {
+    "problem_idx": 2742,
+    "completion_count": 22
+  },
+  {
+    "problem_idx": 2744,
+    "completion_count": 16
+  },
+  {
+    "problem_idx": 2748,
+    "completion_count": 16
+  },
+  {
+    "problem_idx": 2751,
+    "completion_count": 5
+  },
+  {
+    "problem_idx": 2761,
+    "completion_count": 9
+  },
+  {
+    "problem_idx": 2762,
+    "completion_count": 13
+  },
+  {
+    "problem_idx": 2763,
+    "completion_count": 8
+  },
+  {
+    "problem_idx": 2765,
+    "completion_count": 12
+  },
+  {
+    "problem_idx": 2769,
+    "completion_count": 14
+  },
+  {
+    "problem_idx": 2770,
+    "completion_count": 8
+  },
+  {
+    "problem_idx": 2771,
+    "completion_count": 14
+  },
+  {
+    "problem_idx": 2772,
+    "completion_count": 6
+  },
+  {
+    "problem_idx": 2778,
+    "completion_count": 11
+  },
+  {
+    "problem_idx": 2781,
+    "completion_count": 14
+  },
+  {
+    "problem_idx": 2787,
+    "completion_count": 11
+  },
+  {
+    "problem_idx": 2788,
+    "completion_count": 19
+  },
+  {
+    "problem_idx": 2798,
+    "completion_count": 14
+  },
+  {
+    "problem_idx": 2806,
+    "completion_count": 13
+  },
+  {
+    "problem_idx": 2807,
+    "completion_count": 16
+  },
+  {
+    "problem_idx": 2810,
+    "completion_count": 18
+  },
+  {
+    "problem_idx": 2812,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 2815,
+    "completion_count": 16
+  },
+  {
+    "problem_idx": 2816,
+    "completion_count": 18
+  },
+  {
+    "problem_idx": 2817,
+    "completion_count": 13
+  },
+  {
+    "problem_idx": 2824,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 2828,
+    "completion_count": 12
+  },
+  {
+    "problem_idx": 2830,
+    "completion_count": 9
+  },
+  {
+    "problem_idx": 2833,
+    "completion_count": 18
+  },
+  {
+    "problem_idx": 2834,
+    "completion_count": 7
+  },
+  {
+    "problem_idx": 2839,
+    "completion_count": 13
+  },
+  {
+    "problem_idx": 2840,
+    "completion_count": 9
+  },
+  {
+    "problem_idx": 2841,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 2842,
+    "completion_count": 5
+  },
+  {
+    "problem_idx": 2843,
+    "completion_count": 18
+  },
+  {
+    "problem_idx": 2845,
+    "completion_count": 12
+  },
+  {
+    "problem_idx": 2848,
+    "completion_count": 19
+  },
+  {
+    "problem_idx": 2849,
+    "completion_count": 11
+  },
+  {
+    "problem_idx": 2851,
+    "completion_count": 7
+  },
+  {
+    "problem_idx": 2855,
+    "completion_count": 11
+  },
+  {
+    "problem_idx": 2861,
+    "completion_count": 12
+  },
+  {
+    "problem_idx": 2864,
+    "completion_count": 12
+  },
+  {
+    "problem_idx": 2865,
+    "completion_count": 10
+  },
+  {
+    "problem_idx": 2866,
+    "completion_count": 13
+  },
+  {
+    "problem_idx": 2869,
+    "completion_count": 9
+  },
+  {
+    "problem_idx": 2870,
+    "completion_count": 16
+  },
+  {
+    "problem_idx": 2872,
+    "completion_count": 11
+  },
+  {
+    "problem_idx": 2873,
+    "completion_count": 15
+  },
+  {
+    "problem_idx": 2874,
+    "completion_count": 15
+  },
+  {
+    "problem_idx": 2875,
+    "completion_count": 15
+  },
+  {
+    "problem_idx": 2876,
+    "completion_count": 18
+  },
+  {
+    "problem_idx": 2894,
+    "completion_count": 13
+  },
+  {
+    "problem_idx": 2895,
+    "completion_count": 16
+  },
+  {
+    "problem_idx": 2897,
+    "completion_count": 7
+  },
+  {
+    "problem_idx": 2899,
+    "completion_count": 12
+  },
+  {
+    "problem_idx": 2902,
+    "completion_count": 13
+  },
+  {
+    "problem_idx": 2903,
+    "completion_count": 21
+  },
+  {
+    "problem_idx": 2904,
+    "completion_count": 20
+  },
+  {
+    "problem_idx": 2905,
+    "completion_count": 25
+  },
+  {
+    "problem_idx": 2906,
+    "completion_count": 16
+  },
+  {
+    "problem_idx": 2908,
+    "completion_count": 15
+  },
+  {
+    "problem_idx": 2909,
+    "completion_count": 14
+  },
+  {
+    "problem_idx": 2913,
+    "completion_count": 20
+  },
+  {
+    "problem_idx": 2914,
+    "completion_count": 18
+  },
+  {
+    "problem_idx": 2919,
+    "completion_count": 20
+  },
+  {
+    "problem_idx": 2920,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 2923,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 2924,
+    "completion_count": 12
+  },
+  {
+    "problem_idx": 2926,
+    "completion_count": 14
+  },
+  {
+    "problem_idx": 2928,
+    "completion_count": 14
+  },
+  {
+    "problem_idx": 2929,
+    "completion_count": 14
+  },
+  {
+    "problem_idx": 2931,
+    "completion_count": 18
+  },
+  {
+    "problem_idx": 2937,
+    "completion_count": 14
+  },
+  {
+    "problem_idx": 2942,
+    "completion_count": 17
+  },
+  {
+    "problem_idx": 2944,
+    "completion_count": 19
+  },
+  {
+    "problem_idx": 2946,
+    "completion_count": 14
+  },
+  {
+    "problem_idx": 2947,
+    "completion_count": 19
+  },
+  {
+    "problem_idx": 2949,
+    "completion_count": 11
+  },
+  {
+    "problem_idx": 2951,
+    "completion_count": 13
+  }
+]

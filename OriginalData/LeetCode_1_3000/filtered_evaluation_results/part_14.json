@@ -1,0 +1,7835 @@
+[
+  {
+    "problem_idx": 2735,
+    "solution_id": 7,
+    "avg_time": 0.023372366636370618,
+    "avg_memory": 8.19140625,
+    "score": 0.08866371120962635
+  },
+  {
+    "problem_idx": 2735,
+    "solution_id": 4,
+    "avg_time": 0.05481696664355695,
+    "avg_memory": 8.4609375,
+    "score": 0.2404829668612174
+  },
+  {
+    "problem_idx": 2735,
+    "solution_id": 8,
+    "avg_time": 0.0923897666701426,
+    "avg_memory": 7.09765625,
+    "score": 0.2852696607158268
+  },
+  {
+    "problem_idx": 2735,
+    "solution_id": 2,
+    "avg_time": 0.12040493330763032,
+    "avg_memory": 9.106770833333334,
+    "score": 0.5639315590135814
+  },
+  {
+    "problem_idx": 2735,
+    "solution_id": 10,
+    "avg_time": 0.061239033355377614,
+    "avg_memory": 12.5703125,
+    "score": 0.6001495282897968
+  },
+  {
+    "problem_idx": 2735,
+    "solution_id": 3,
+    "avg_time": 0.11668743328967442,
+    "avg_memory": 10.213541666666666,
+    "score": 0.6382852455537258
+  },
+  {
+    "problem_idx": 2735,
+    "solution_id": 11,
+    "avg_time": 0.1007806999841705,
+    "avg_memory": 13.265625,
+    "score": 0.8199519103863531
+  },
+  {
+    "problem_idx": 2735,
+    "solution_id": 9,
+    "avg_time": 0.1367176667166253,
+    "avg_memory": 11.725260416666666,
+    "score": 0.8436221364578693
+  },
+  {
+    "problem_idx": 2735,
+    "solution_id": 5,
+    "avg_time": 0.13184186668756107,
+    "avg_memory": 12.6953125,
+    "score": 0.9021052569701828
+  },
+  {
+    "problem_idx": 2735,
+    "solution_id": 1,
+    "avg_time": 0.14434106667370847,
+    "avg_memory": 12.30859375,
+    "score": 0.9224192526915769
+  },
+  {
+    "problem_idx": 2735,
+    "solution_id": 6,
+    "avg_time": 0.13175190003433576,
+    "avg_memory": 12.98828125,
+    "score": 0.9254826061084793
+  },
+  {
+    "problem_idx": 2739,
+    "solution_id": 11,
+    "avg_time": 0.04175706661771983,
+    "avg_memory": 4.04296875,
+    "score": 0.002228835601413169
+  },
+  {
+    "problem_idx": 2739,
+    "solution_id": 13,
+    "avg_time": 0.04095286662535121,
+    "avg_memory": 4.2109375,
+    "score": 0.010534051935325821
+  },
+  {
+    "problem_idx": 2739,
+    "solution_id": 7,
+    "avg_time": 0.1001775333036979,
+    "avg_memory": 7.4921875,
+    "score": 0.38045635083511886
+  },
+  {
+    "problem_idx": 2739,
+    "solution_id": 12,
+    "avg_time": 0.13188013333516815,
+    "avg_memory": 6.805989583333333,
+    "score": 0.42528546219985364
+  },
+  {
+    "problem_idx": 2739,
+    "solution_id": 4,
+    "avg_time": 0.2091023667016998,
+    "avg_memory": 7.423177083333333,
+    "score": 0.6780129492441124
+  },
+  {
+    "problem_idx": 2739,
+    "solution_id": 3,
+    "avg_time": 0.16086223329572627,
+    "avg_memory": 9.595052083333334,
+    "score": 0.6805234413899099
+  },
+  {
+    "problem_idx": 2739,
+    "solution_id": 5,
+    "avg_time": 0.11950673329799126,
+    "avg_memory": 11.908854166666666,
+    "score": 0.7110155205725847
+  },
+  {
+    "problem_idx": 2739,
+    "solution_id": 10,
+    "avg_time": 0.1252326333972936,
+    "avg_memory": 11.864583333333334,
+    "score": 0.7241084026053203
+  },
+  {
+    "problem_idx": 2739,
+    "solution_id": 8,
+    "avg_time": 0.14535913337022066,
+    "avg_memory": 11.653645833333334,
+    "score": 0.7666600708121725
+  },
+  {
+    "problem_idx": 2739,
+    "solution_id": 1,
+    "avg_time": 0.1752942999980102,
+    "avg_memory": 10.403645833333334,
+    "score": 0.7712322663753886
+  },
+  {
+    "problem_idx": 2739,
+    "solution_id": 14,
+    "avg_time": 0.13938796667692563,
+    "avg_memory": 12.015625,
+    "score": 0.7728123072687785
+  },
+  {
+    "problem_idx": 2739,
+    "solution_id": 2,
+    "avg_time": 0.18466153337309757,
+    "avg_memory": 11.298177083333334,
+    "score": 0.8532934501965856
+  },
+  {
+    "problem_idx": 2739,
+    "solution_id": 9,
+    "avg_time": 0.17846110001361618,
+    "avg_memory": 11.778645833333334,
+    "score": 0.8662412732981886
+  },
+  {
+    "problem_idx": 2739,
+    "solution_id": 6,
+    "avg_time": 0.22136096667964011,
+    "avg_memory": 11.434895833333334,
+    "score": 0.9635799444716642
+  },
+  {
+    "problem_idx": 2742,
+    "solution_id": 19,
+    "avg_time": 0.03282973333261907,
+    "avg_memory": 9.016927083333334,
+    "score": 0.1025927304304677
+  },
+  {
+    "problem_idx": 2742,
+    "solution_id": 15,
+    "avg_time": 0.08463283333306511,
+    "avg_memory": 4.709635416666667,
+    "score": 0.16007527006593208
+  },
+  {
+    "problem_idx": 2742,
+    "solution_id": 4,
+    "avg_time": 0.06270906666759402,
+    "avg_memory": 8.3828125,
+    "score": 0.1798184142289419
+  },
+  {
+    "problem_idx": 2742,
+    "solution_id": 1,
+    "avg_time": 0.07167973334435374,
+    "avg_memory": 7.852864583333333,
+    "score": 0.19491591002486497
+  },
+  {
+    "problem_idx": 2742,
+    "solution_id": 14,
+    "avg_time": 0.09848973333525161,
+    "avg_memory": 7.526041666666667,
+    "score": 0.26997632626193885
+  },
+  {
+    "problem_idx": 2742,
+    "solution_id": 2,
+    "avg_time": 0.06749470004191001,
+    "avg_memory": 11.967447916666666,
+    "score": 0.2799865881190498
+  },
+  {
+    "problem_idx": 2742,
+    "solution_id": 21,
+    "avg_time": 0.0675143333307157,
+    "avg_memory": 13.360677083333334,
+    "score": 0.3132317248086015
+  },
+  {
+    "problem_idx": 2742,
+    "solution_id": 18,
+    "avg_time": 0.10593933332711458,
+    "avg_memory": 8.963541666666666,
+    "score": 0.3272350492069497
+  },
+  {
+    "problem_idx": 2742,
+    "solution_id": 16,
+    "avg_time": 0.12609516666270792,
+    "avg_memory": 7.821614583333333,
+    "score": 0.36231915165111306
+  },
+  {
+    "problem_idx": 2742,
+    "solution_id": 13,
+    "avg_time": 0.12384299995998542,
+    "avg_memory": 8.6015625,
+    "score": 0.3739368956841826
+  },
+  {
+    "problem_idx": 2742,
+    "solution_id": 8,
+    "avg_time": 0.10017503324585657,
+    "avg_memory": 13.391927083333334,
+    "score": 0.41489993920581125
+  },
+  {
+    "problem_idx": 2742,
+    "solution_id": 20,
+    "avg_time": 0.12386506667826325,
+    "avg_memory": 10.51953125,
+    "score": 0.41968800116809457
+  },
+  {
+    "problem_idx": 2742,
+    "solution_id": 12,
+    "avg_time": 0.12173409996709476,
+    "avg_memory": 12.252604166666666,
+    "score": 0.45438215983832453
+  },
+  {
+    "problem_idx": 2742,
+    "solution_id": 11,
+    "avg_time": 0.11215183332872887,
+    "avg_memory": 13.60546875,
+    "score": 0.4569953224214205
+  },
+  {
+    "problem_idx": 2742,
+    "solution_id": 17,
+    "avg_time": 0.11664686670216422,
+    "avg_memory": 13.057291666666666,
+    "score": 0.45782860310656714
+  },
+  {
+    "problem_idx": 2742,
+    "solution_id": 3,
+    "avg_time": 0.13081003333597133,
+    "avg_memory": 11.345052083333334,
+    "score": 0.4608110158636224
+  },
+  {
+    "problem_idx": 2742,
+    "solution_id": 9,
+    "avg_time": 0.12889239999155203,
+    "avg_memory": 12.83203125,
+    "score": 0.4903028341992372
+  },
+  {
+    "problem_idx": 2742,
+    "solution_id": 22,
+    "avg_time": 0.16884803333474943,
+    "avg_memory": 8.626302083333334,
+    "score": 0.5135949124182322
+  },
+  {
+    "problem_idx": 2742,
+    "solution_id": 5,
+    "avg_time": 0.15262333334734043,
+    "avg_memory": 12.73828125,
+    "score": 0.5614001355640598
+  },
+  {
+    "problem_idx": 2742,
+    "solution_id": 6,
+    "avg_time": 0.1681154000107199,
+    "avg_memory": 12.016927083333334,
+    "score": 0.5920902342615346
+  },
+  {
+    "problem_idx": 2742,
+    "solution_id": 10,
+    "avg_time": 0.16946246665126333,
+    "avg_memory": 13.701822916666666,
+    "score": 0.6363842634945851
+  },
+  {
+    "problem_idx": 2742,
+    "solution_id": 7,
+    "avg_time": 0.19463829994977763,
+    "avg_memory": 25.701822916666668,
+    "score": 1.0
+  },
+  {
+    "problem_idx": 2744,
+    "solution_id": 13,
+    "avg_time": 0.04105076671112329,
+    "avg_memory": 4.1953125,
+    "score": 0.0
+  },
+  {
+    "problem_idx": 2744,
+    "solution_id": 5,
+    "avg_time": 0.05010343331377953,
+    "avg_memory": 8.62109375,
+    "score": 0.2905590015728496
+  },
+  {
+    "problem_idx": 2744,
+    "solution_id": 11,
+    "avg_time": 0.10061656660400331,
+    "avg_memory": 5.015625,
+    "score": 0.3393510361862806
+  },
+  {
+    "problem_idx": 2744,
+    "solution_id": 16,
+    "avg_time": 0.07927533332258463,
+    "avg_memory": 8.661458333333334,
+    "score": 0.4366741856434705
+  },
+  {
+    "problem_idx": 2744,
+    "solution_id": 7,
+    "avg_time": 0.061518133307496704,
+    "avg_memory": 11.56640625,
+    "score": 0.5105071093042131
+  },
+  {
+    "problem_idx": 2744,
+    "solution_id": 6,
+    "avg_time": 0.11078716670939077,
+    "avg_memory": 7.375,
+    "score": 0.5206065959498629
+  },
+  {
+    "problem_idx": 2744,
+    "solution_id": 8,
+    "avg_time": 0.04694256671549132,
+    "avg_memory": 13.194010416666666,
+    "score": 0.5290576652530907
+  },
+  {
+    "problem_idx": 2744,
+    "solution_id": 10,
+    "avg_time": 0.053477366687729955,
+    "avg_memory": 12.990885416666666,
+    "score": 0.5500001757001847
+  },
+  {
+    "problem_idx": 2744,
+    "solution_id": 2,
+    "avg_time": 0.08290953332713495,
+    "avg_memory": 12.842447916666666,
+    "score": 0.6869084418523101
+  },
+  {
+    "problem_idx": 2744,
+    "solution_id": 15,
+    "avg_time": 0.10571593333346148,
+    "avg_memory": 11.58203125,
+    "score": 0.7293536463364687
+  },
+  {
+    "problem_idx": 2744,
+    "solution_id": 12,
+    "avg_time": 0.11429156665690243,
+    "avg_memory": 11.51171875,
+    "score": 0.7677408469093717
+  },
+  {
+    "problem_idx": 2744,
+    "solution_id": 14,
+    "avg_time": 0.11004100002658863,
+    "avg_memory": 11.891927083333334,
+    "score": 0.7679032933607742
+  },
+  {
+    "problem_idx": 2744,
+    "solution_id": 4,
+    "avg_time": 0.12438420000641297,
+    "avg_memory": 10.639322916666666,
+    "score": 0.7690430804381803
+  },
+  {
+    "problem_idx": 2744,
+    "solution_id": 3,
+    "avg_time": 0.11793339997529984,
+    "avg_memory": 11.631510416666666,
+    "score": 0.792357996433231
+  },
+  {
+    "problem_idx": 2744,
+    "solution_id": 9,
+    "avg_time": 0.10485283331945539,
+    "avg_memory": 12.985677083333334,
+    "score": 0.8030885460757631
+  },
+  {
+    "problem_idx": 2744,
+    "solution_id": 1,
+    "avg_time": 0.14243193331640214,
+    "avg_memory": 13.048177083333334,
+    "score": 0.9918969758356244
+  },
+  {
+    "problem_idx": 2748,
+    "solution_id": 12,
+    "avg_time": 0.06057000001116345,
+    "avg_memory": 7.459635416666667,
+    "score": 0.11398853092051221
+  },
+  {
+    "problem_idx": 2748,
+    "solution_id": 8,
+    "avg_time": 0.05472236669932803,
+    "avg_memory": 8.274739583333334,
+    "score": 0.15807867879524756
+  },
+  {
+    "problem_idx": 2748,
+    "solution_id": 10,
+    "avg_time": 0.0527756333273525,
+    "avg_memory": 8.47265625,
+    "score": 0.16604225821692412
+  },
+  {
+    "problem_idx": 2748,
+    "solution_id": 13,
+    "avg_time": 0.03866783331613988,
+    "avg_memory": 12.770833333333334,
+    "score": 0.4855952380952382
+  },
+  {
+    "problem_idx": 2748,
+    "solution_id": 15,
+    "avg_time": 0.05561263335403055,
+    "avg_memory": 12.059895833333334,
+    "score": 0.5087834475064952
+  },
+  {
+    "problem_idx": 2748,
+    "solution_id": 16,
+    "avg_time": 0.058692899998277426,
+    "avg_memory": 12.302083333333334,
+    "score": 0.546957370183199
+  },
+  {
+    "problem_idx": 2748,
+    "solution_id": 3,
+    "avg_time": 0.0656094333389774,
+    "avg_memory": 11.981770833333334,
+    "score": 0.5536683445149752
+  },
+  {
+    "problem_idx": 2748,
+    "solution_id": 2,
+    "avg_time": 0.10148929998589058,
+    "avg_memory": 9.973958333333334,
+    "score": 0.5568315593993828
+  },
+  {
+    "problem_idx": 2748,
+    "solution_id": 6,
+    "avg_time": 0.05667276661066959,
+    "avg_memory": 12.928385416666666,
+    "score": 0.5937056102322323
+  },
+  {
+    "problem_idx": 2748,
+    "solution_id": 4,
+    "avg_time": 0.11068189993966371,
+    "avg_memory": 10.23828125,
+    "score": 0.6288405687283694
+  },
+  {
+    "problem_idx": 2748,
+    "solution_id": 5,
+    "avg_time": 0.08740020000065367,
+    "avg_memory": 11.609375,
+    "score": 0.6330294815042884
+  },
+  {
+    "problem_idx": 2748,
+    "solution_id": 7,
+    "avg_time": 0.09431226667948067,
+    "avg_memory": 11.296875,
+    "score": 0.640431495072862
+  },
+  {
+    "problem_idx": 2748,
+    "solution_id": 9,
+    "avg_time": 0.0727007333189249,
+    "avg_memory": 12.55859375,
+    "score": 0.6433126910060359
+  },
+  {
+    "problem_idx": 2748,
+    "solution_id": 14,
+    "avg_time": 0.0759540000775208,
+    "avg_memory": 12.73046875,
+    "score": 0.6759584111153096
+  },
+  {
+    "problem_idx": 2748,
+    "solution_id": 11,
+    "avg_time": 0.07517586663986246,
+    "avg_memory": 12.829427083333334,
+    "score": 0.6809562807178678
+  },
+  {
+    "problem_idx": 2748,
+    "solution_id": 1,
+    "avg_time": 0.13473963333914676,
+    "avg_memory": 12.861979166666666,
+    "score": 0.9939285714285715
+  },
+  {
+    "problem_idx": 2751,
+    "solution_id": 4,
+    "avg_time": 0.05307236663065851,
+    "avg_memory": 12.673177083333334,
+    "score": 0.24842105263157896
+  },
+  {
+    "problem_idx": 2751,
+    "solution_id": 1,
+    "avg_time": 0.07189573332046469,
+    "avg_memory": 11.751302083333334,
+    "score": 0.5
+  },
+  {
+    "problem_idx": 2751,
+    "solution_id": 3,
+    "avg_time": 0.058941199987505875,
+    "avg_memory": 13.477864583333334,
+    "score": 0.6211553915626291
+  },
+  {
+    "problem_idx": 2751,
+    "solution_id": 5,
+    "avg_time": 0.06158433334591488,
+    "avg_memory": 13.606770833333334,
+    "score": 0.7261010704282258
+  },
+  {
+    "problem_idx": 2751,
+    "solution_id": 2,
+    "avg_time": 0.06596443332576503,
+    "avg_memory": 13.518229166666666,
+    "score": 0.8185888327974922
+  },
+  {
+    "problem_idx": 2761,
+    "solution_id": 3,
+    "avg_time": 0.094277900022765,
+    "avg_memory": 7.571614583333333,
+    "score": 0.01425185464091371
+  },
+  {
+    "problem_idx": 2761,
+    "solution_id": 2,
+    "avg_time": 0.048004699987359345,
+    "avg_memory": 10.557291666666666,
+    "score": 0.1003764664682192
+  },
+  {
+    "problem_idx": 2761,
+    "solution_id": 8,
+    "avg_time": 0.10675600000346701,
+    "avg_memory": 14.24609375,
+    "score": 0.24248655609851708
+  },
+  {
+    "problem_idx": 2761,
+    "solution_id": 9,
+    "avg_time": 0.3997702666868766,
+    "avg_memory": 20.592447916666668,
+    "score": 0.5460932898419867
+  },
+  {
+    "problem_idx": 2761,
+    "solution_id": 6,
+    "avg_time": 0.4072107333146657,
+    "avg_memory": 20.904947916666668,
+    "score": 0.5588909477505906
+  },
+  {
+    "problem_idx": 2761,
+    "solution_id": 4,
+    "avg_time": 0.3534002999464671,
+    "avg_memory": 21.623697916666668,
+    "score": 0.5664815668771568
+  },
+  {
+    "problem_idx": 2761,
+    "solution_id": 5,
+    "avg_time": 0.3334719333409642,
+    "avg_memory": 22.444010416666668,
+    "score": 0.5879221128295953
+  },
+  {
+    "problem_idx": 2761,
+    "solution_id": 7,
+    "avg_time": 0.41422733330788714,
+    "avg_memory": 21.9609375,
+    "score": 0.5965536798839863
+  },
+  {
+    "problem_idx": 2761,
+    "solution_id": 1,
+    "avg_time": 1.6714144666912034,
+    "avg_memory": 16.21875,
+    "score": 0.7907109087725441
+  },
+  {
+    "problem_idx": 2762,
+    "solution_id": 1,
+    "avg_time": 0.061166400012249746,
+    "avg_memory": 4.8828125,
+    "score": 0.0
+  },
+  {
+    "problem_idx": 2762,
+    "solution_id": 6,
+    "avg_time": 0.0854455999409159,
+    "avg_memory": 8.397135416666666,
+    "score": 0.3601556632897961
+  },
+  {
+    "problem_idx": 2762,
+    "solution_id": 5,
+    "avg_time": 0.07084506664735575,
+    "avg_memory": 12.9765625,
+    "score": 0.4735295344034298
+  },
+  {
+    "problem_idx": 2762,
+    "solution_id": 12,
+    "avg_time": 0.06445413331190745,
+    "avg_memory": 15.024739583333334,
+    "score": 0.5253085951286947
+  },
+  {
+    "problem_idx": 2762,
+    "solution_id": 11,
+    "avg_time": 0.08949656668119133,
+    "avg_memory": 14.049479166666666,
+    "score": 0.6700017581467406
+  },
+  {
+    "problem_idx": 2762,
+    "solution_id": 8,
+    "avg_time": 0.09462793330506732,
+    "avg_memory": 14.795572916666666,
+    "score": 0.7462850740521345
+  },
+  {
+    "problem_idx": 2762,
+    "solution_id": 3,
+    "avg_time": 0.09677703337122996,
+    "avg_memory": 14.904947916666666,
+    "score": 0.7682208205006779
+  },
+  {
+    "problem_idx": 2762,
+    "solution_id": 4,
+    "avg_time": 0.12611930006338903,
+    "avg_memory": 10.442708333333334,
+    "score": 0.7741045063551162
+  },
+  {
+    "problem_idx": 2762,
+    "solution_id": 2,
+    "avg_time": 0.10689546664555867,
+    "avg_memory": 13.888020833333334,
+    "score": 0.7959765577402704
+  },
+  {
+    "problem_idx": 2762,
+    "solution_id": 10,
+    "avg_time": 0.11170003330335021,
+    "avg_memory": 13.567708333333334,
+    "score": 0.8171700618401725
+  },
+  {
+    "problem_idx": 2762,
+    "solution_id": 9,
+    "avg_time": 0.11923933335735153,
+    "avg_memory": 12.424479166666666,
+    "score": 0.8188451963597084
+  },
+  {
+    "problem_idx": 2762,
+    "solution_id": 13,
+    "avg_time": 0.10743293333022545,
+    "avg_memory": 14.934895833333334,
+    "score": 0.8517251614723073
+  },
+  {
+    "problem_idx": 2762,
+    "solution_id": 7,
+    "avg_time": 0.11169363337103277,
+    "avg_memory": 14.490885416666666,
+    "score": 0.8626336987044094
+  },
+  {
+    "problem_idx": 2763,
+    "solution_id": 3,
+    "avg_time": 0.045012333313934505,
+    "avg_memory": 9.014322916666666,
+    "score": 0.006330597889800702
+  },
+  {
+    "problem_idx": 2763,
+    "solution_id": 7,
+    "avg_time": 0.05829823335322241,
+    "avg_memory": 8.944010416666666,
+    "score": 0.12913868692260508
+  },
+  {
+    "problem_idx": 2763,
+    "solution_id": 8,
+    "avg_time": 0.06479593335340421,
+    "avg_memory": 13.639322916666666,
+    "score": 0.6150394621387569
+  },
+  {
+    "problem_idx": 2763,
+    "solution_id": 5,
+    "avg_time": 0.07832273332557331,
+    "avg_memory": 12.837239583333334,
+    "score": 0.6743039824067578
+  },
+  {
+    "problem_idx": 2763,
+    "solution_id": 6,
+    "avg_time": 0.07118723335831116,
+    "avg_memory": 13.631510416666666,
+    "score": 0.6764593726436177
+  },
+  {
+    "problem_idx": 2763,
+    "solution_id": 2,
+    "avg_time": 0.07351199999296416,
+    "avg_memory": 13.802083333333334,
+    "score": 0.7144136201297837
+  },
+  {
+    "problem_idx": 2763,
+    "solution_id": 4,
+    "avg_time": 0.08348340001733352,
+    "avg_memory": 14.497395833333334,
+    "score": 0.8739380112674084
+  },
+  {
+    "problem_idx": 2763,
+    "solution_id": 1,
+    "avg_time": 0.09645276668015867,
+    "avg_memory": 13.255208333333334,
+    "score": 0.8881594372801875
+  },
+  {
+    "problem_idx": 2765,
+    "solution_id": 2,
+    "avg_time": 0.05672199996964385,
+    "avg_memory": 7.837239583333333,
+    "score": 0.05975042918558041
+  },
+  {
+    "problem_idx": 2765,
+    "solution_id": 3,
+    "avg_time": 0.05753819997577617,
+    "avg_memory": 12.44140625,
+    "score": 0.4426274858470626
+  },
+  {
+    "problem_idx": 2765,
+    "solution_id": 11,
+    "avg_time": 0.05121486665060123,
+    "avg_memory": 13.3125,
+    "score": 0.4447852760736196
+  },
+  {
+    "problem_idx": 2765,
+    "solution_id": 10,
+    "avg_time": 0.06672006666970749,
+    "avg_memory": 13.104166666666666,
+    "score": 0.5960871040115236
+  },
+  {
+    "problem_idx": 2765,
+    "solution_id": 5,
+    "avg_time": 0.07258243334945291,
+    "avg_memory": 13.333333333333334,
+    "score": 0.6783081469017354
+  },
+  {
+    "problem_idx": 2765,
+    "solution_id": 6,
+    "avg_time": 0.0730547666316852,
+    "avg_memory": 13.8203125,
+    "score": 0.7229927688951596
+  },
+  {
+    "problem_idx": 2765,
+    "solution_id": 7,
+    "avg_time": 0.08493213336138676,
+    "avg_memory": 12.49609375,
+    "score": 0.7442844410765377
+  },
+  {
+    "problem_idx": 2765,
+    "solution_id": 9,
+    "avg_time": 0.07832573338722189,
+    "avg_memory": 13.58203125,
+    "score": 0.7608239892588402
+  },
+  {
+    "problem_idx": 2765,
+    "solution_id": 12,
+    "avg_time": 0.0757792000270759,
+    "avg_memory": 13.9921875,
+    "score": 0.7665142419608599
+  },
+  {
+    "problem_idx": 2765,
+    "solution_id": 1,
+    "avg_time": 0.09729933327374359,
+    "avg_memory": 11.904947916666666,
+    "score": 0.8304421408927438
+  },
+  {
+    "problem_idx": 2765,
+    "solution_id": 8,
+    "avg_time": 0.08787386662637194,
+    "avg_memory": 13.46484375,
+    "score": 0.854898044014488
+  },
+  {
+    "problem_idx": 2765,
+    "solution_id": 4,
+    "avg_time": 0.09401239998017748,
+    "avg_memory": 13.864583333333334,
+    "score": 0.9539719653107804
+  },
+  {
+    "problem_idx": 2769,
+    "solution_id": 6,
+    "avg_time": 0.043882033322006464,
+    "avg_memory": 6.587239583333333,
+    "score": 0.03800818359004673
+  },
+  {
+    "problem_idx": 2769,
+    "solution_id": 7,
+    "avg_time": 0.054775266675278544,
+    "avg_memory": 8.044270833333334,
+    "score": 0.23760345018418474
+  },
+  {
+    "problem_idx": 2769,
+    "solution_id": 13,
+    "avg_time": 0.06061139997715751,
+    "avg_memory": 7.830729166666667,
+    "score": 0.2591531268346533
+  },
+  {
+    "problem_idx": 2769,
+    "solution_id": 5,
+    "avg_time": 0.0704861666696767,
+    "avg_memory": 7.259114583333333,
+    "score": 0.2775532004554252
+  },
+  {
+    "problem_idx": 2769,
+    "solution_id": 14,
+    "avg_time": 0.03832123335450888,
+    "avg_memory": 11.244791666666666,
+    "score": 0.4000223663609931
+  },
+  {
+    "problem_idx": 2769,
+    "solution_id": 4,
+    "avg_time": 0.06426049997874846,
+    "avg_memory": 11.0,
+    "score": 0.5562934146292584
+  },
+  {
+    "problem_idx": 2769,
+    "solution_id": 8,
+    "avg_time": 0.0815625333149607,
+    "avg_memory": 9.80859375,
+    "score": 0.5722270712804104
+  },
+  {
+    "problem_idx": 2769,
+    "solution_id": 9,
+    "avg_time": 0.06753753335215151,
+    "avg_memory": 11.467447916666666,
+    "score": 0.6188396239682761
+  },
+  {
+    "problem_idx": 2769,
+    "solution_id": 10,
+    "avg_time": 0.071555233366477,
+    "avg_memory": 11.40625,
+    "score": 0.6410445924075941
+  },
+  {
+    "problem_idx": 2769,
+    "solution_id": 12,
+    "avg_time": 0.10555853333789855,
+    "avg_memory": 10.442708333333334,
+    "score": 0.7907023202088657
+  },
+  {
+    "problem_idx": 2769,
+    "solution_id": 11,
+    "avg_time": 0.0876980999795099,
+    "avg_memory": 11.9765625,
+    "score": 0.8003637524824823
+  },
+  {
+    "problem_idx": 2769,
+    "solution_id": 3,
+    "avg_time": 0.11073126663298656,
+    "avg_memory": 10.690104166666666,
+    "score": 0.8473061029543215
+  },
+  {
+    "problem_idx": 2769,
+    "solution_id": 1,
+    "avg_time": 0.10562630001610766,
+    "avg_memory": 11.485677083333334,
+    "score": 0.8807427826430012
+  },
+  {
+    "problem_idx": 2769,
+    "solution_id": 2,
+    "avg_time": 0.11147389999435593,
+    "avg_memory": 12.408854166666666,
+    "score": 1.0
+  },
+  {
+    "problem_idx": 2770,
+    "solution_id": 8,
+    "avg_time": 0.031219700002111495,
+    "avg_memory": 8.770833333333334,
+    "score": 0.0
+  },
+  {
+    "problem_idx": 2770,
+    "solution_id": 6,
+    "avg_time": 0.06636329996399581,
+    "avg_memory": 9.950520833333334,
+    "score": 0.40125019392046063
+  },
+  {
+    "problem_idx": 2770,
+    "solution_id": 2,
+    "avg_time": 0.07669006664461146,
+    "avg_memory": 10.911458333333334,
+    "score": 0.5872919223925956
+  },
+  {
+    "problem_idx": 2770,
+    "solution_id": 5,
+    "avg_time": 0.058285900042392313,
+    "avg_memory": 13.123697916666666,
+    "score": 0.6910654558432411
+  },
+  {
+    "problem_idx": 2770,
+    "solution_id": 4,
+    "avg_time": 0.06315070002650221,
+    "avg_memory": 13.063802083333334,
+    "score": 0.7218525148596834
+  },
+  {
+    "problem_idx": 2770,
+    "solution_id": 7,
+    "avg_time": 0.0626609333169957,
+    "avg_memory": 13.278645833333334,
+    "score": 0.741914320546455
+  },
+  {
+    "problem_idx": 2770,
+    "solution_id": 1,
+    "avg_time": 0.09620393335353583,
+    "avg_memory": 12.533854166666666,
+    "score": 0.9173887926054303
+  },
+  {
+    "problem_idx": 2770,
+    "solution_id": 3,
+    "avg_time": 0.09510746668092906,
+    "avg_memory": 12.80859375,
+    "score": 0.9394261018344539
+  },
+  {
+    "problem_idx": 2771,
+    "solution_id": 13,
+    "avg_time": 0.06064806669019163,
+    "avg_memory": 9.373697916666666,
+    "score": 0.0
+  },
+  {
+    "problem_idx": 2771,
+    "solution_id": 6,
+    "avg_time": 0.09696499999457349,
+    "avg_memory": 9.850260416666666,
+    "score": 0.33864589403475903
+  },
+  {
+    "problem_idx": 2771,
+    "solution_id": 1,
+    "avg_time": 0.0740036000109588,
+    "avg_memory": 11.776041666666666,
+    "score": 0.3626882980166415
+  },
+  {
+    "problem_idx": 2771,
+    "solution_id": 8,
+    "avg_time": 0.10853866666244964,
+    "avg_memory": 10.37890625,
+    "score": 0.48685709115929815
+  },
+  {
+    "problem_idx": 2771,
+    "solution_id": 4,
+    "avg_time": 0.11474043332661192,
+    "avg_memory": 10.020833333333334,
+    "score": 0.4976943135471313
+  },
+  {
+    "problem_idx": 2771,
+    "solution_id": 2,
+    "avg_time": 0.08021889999508858,
+    "avg_memory": 13.147135416666666,
+    "score": 0.558539436034136
+  },
+  {
+    "problem_idx": 2771,
+    "solution_id": 12,
+    "avg_time": 0.09840259995932381,
+    "avg_memory": 12.033854166666666,
+    "score": 0.5835342824968417
+  },
+  {
+    "problem_idx": 2771,
+    "solution_id": 11,
+    "avg_time": 0.09900873332905273,
+    "avg_memory": 12.0390625,
+    "score": 0.588892725452131
+  },
+  {
+    "problem_idx": 2771,
+    "solution_id": 5,
+    "avg_time": 0.09440306667238474,
+    "avg_memory": 12.440104166666666,
+    "score": 0.5952938547833984
+  },
+  {
+    "problem_idx": 2771,
+    "solution_id": 7,
+    "avg_time": 0.0766680333763361,
+    "avg_memory": 14.049479166666666,
+    "score": 0.6269024182869356
+  },
+  {
+    "problem_idx": 2771,
+    "solution_id": 14,
+    "avg_time": 0.1030002999662732,
+    "avg_memory": 12.43359375,
+    "score": 0.6627007887498997
+  },
+  {
+    "problem_idx": 2771,
+    "solution_id": 3,
+    "avg_time": 0.11507499997969717,
+    "avg_memory": 11.94921875,
+    "score": 0.7065545579240816
+  },
+  {
+    "problem_idx": 2771,
+    "solution_id": 10,
+    "avg_time": 0.11685553328910221,
+    "avg_memory": 11.861979166666666,
+    "score": 0.7113302028133504
+  },
+  {
+    "problem_idx": 2771,
+    "solution_id": 9,
+    "avg_time": 0.12376729996564488,
+    "avg_memory": 12.528645833333334,
+    "score": 0.8373712057922585
+  },
+  {
+    "problem_idx": 2772,
+    "solution_id": 6,
+    "avg_time": 0.046284766673731305,
+    "avg_memory": 12.52734375,
+    "score": 0.43325828240591824
+  },
+  {
+    "problem_idx": 2772,
+    "solution_id": 1,
+    "avg_time": 0.08076036667140822,
+    "avg_memory": 9.01953125,
+    "score": 0.5
+  },
+  {
+    "problem_idx": 2772,
+    "solution_id": 3,
+    "avg_time": 0.0643433000271519,
+    "avg_memory": 11.334635416666666,
+    "score": 0.5478471381780545
+  },
+  {
+    "problem_idx": 2772,
+    "solution_id": 5,
+    "avg_time": 0.051386300047549106,
+    "avg_memory": 13.067708333333334,
+    "score": 0.5739875937498051
+  },
+  {
+    "problem_idx": 2772,
+    "solution_id": 2,
+    "avg_time": 0.06548013336335619,
+    "avg_memory": 12.393229166666666,
+    "score": 0.6950840814784554
+  },
+  {
+    "problem_idx": 2772,
+    "solution_id": 4,
+    "avg_time": 0.06735546665731817,
+    "avg_memory": 12.65234375,
+    "score": 0.7542859203051717
+  },
+  {
+    "problem_idx": 2778,
+    "solution_id": 5,
+    "avg_time": 0.05884486661913494,
+    "avg_memory": 8.54296875,
+    "score": 0.030363577462487096
+  },
+  {
+    "problem_idx": 2778,
+    "solution_id": 3,
+    "avg_time": 0.08954473332657169,
+    "avg_memory": 8.670572916666666,
+    "score": 0.28367230674433536
+  },
+  {
+    "problem_idx": 2778,
+    "solution_id": 6,
+    "avg_time": 0.07872303334685664,
+    "avg_memory": 10.221354166666666,
+    "score": 0.35981634357695824
+  },
+  {
+    "problem_idx": 2778,
+    "solution_id": 9,
+    "avg_time": 0.05496216666263839,
+    "avg_memory": 13.139322916666666,
+    "score": 0.476511879049676
+  },
+  {
+    "problem_idx": 2778,
+    "solution_id": 2,
+    "avg_time": 0.0766654333177333,
+    "avg_memory": 11.739583333333334,
+    "score": 0.5011228617925148
+  },
+  {
+    "problem_idx": 2778,
+    "solution_id": 10,
+    "avg_time": 0.11153220005022983,
+    "avg_memory": 10.153645833333334,
+    "score": 0.6093718879634196
+  },
+  {
+    "problem_idx": 2778,
+    "solution_id": 11,
+    "avg_time": 0.07502933335490525,
+    "avg_memory": 13.365885416666666,
+    "score": 0.6569297079713264
+  },
+  {
+    "problem_idx": 2778,
+    "solution_id": 8,
+    "avg_time": 0.10937940003350377,
+    "avg_memory": 11.473958333333334,
+    "score": 0.7294155625650123
+  },
+  {
+    "problem_idx": 2778,
+    "solution_id": 4,
+    "avg_time": 0.10030526663952817,
+    "avg_memory": 12.575520833333334,
+    "score": 0.7726546845894926
+  },
+  {
+    "problem_idx": 2778,
+    "solution_id": 1,
+    "avg_time": 0.11526066670194268,
+    "avg_memory": 11.4921875,
+    "score": 0.7772982251576038
+  },
+  {
+    "problem_idx": 2778,
+    "solution_id": 7,
+    "avg_time": 0.1188989666212971,
+    "avg_memory": 11.795572916666666,
+    "score": 0.8372030237580994
+  },
+  {
+    "problem_idx": 2781,
+    "solution_id": 11,
+    "avg_time": 0.03755456667083005,
+    "avg_memory": 7.864583333333333,
+    "score": 0.0
+  },
+  {
+    "problem_idx": 2781,
+    "solution_id": 6,
+    "avg_time": 0.06831293335805337,
+    "avg_memory": 8.055989583333334,
+    "score": 0.22311653420876704
+  },
+  {
+    "problem_idx": 2781,
+    "solution_id": 14,
+    "avg_time": 0.03894110000692308,
+    "avg_memory": 10.998697916666666,
+    "score": 0.31890658310473663
+  },
+  {
+    "problem_idx": 2781,
+    "solution_id": 9,
+    "avg_time": 0.07309326669201255,
+    "avg_memory": 10.59765625,
+    "score": 0.5060108108764345
+  },
+  {
+    "problem_idx": 2781,
+    "solution_id": 12,
+    "avg_time": 0.056048666670297585,
+    "avg_memory": 12.01171875,
+    "score": 0.532585365504143
+  },
+  {
+    "problem_idx": 2781,
+    "solution_id": 1,
+    "avg_time": 0.08780023331443469,
+    "avg_memory": 10.94140625,
+    "score": 0.6376173470744242
+  },
+  {
+    "problem_idx": 2781,
+    "solution_id": 7,
+    "avg_time": 0.0678610000371312,
+    "avg_memory": 12.287760416666666,
+    "score": 0.6382839646519536
+  },
+  {
+    "problem_idx": 2781,
+    "solution_id": 5,
+    "avg_time": 0.0725782666898643,
+    "avg_memory": 12.321614583333334,
+    "score": 0.6729468855310672
+  },
+  {
+    "problem_idx": 2781,
+    "solution_id": 13,
+    "avg_time": 0.09083613326462607,
+    "avg_memory": 11.1484375,
+    "score": 0.6782305131348079
+  },
+  {
+    "problem_idx": 2781,
+    "solution_id": 3,
+    "avg_time": 0.08890716665579627,
+    "avg_memory": 11.38671875,
+    "score": 0.6889703116437489
+  },
+  {
+    "problem_idx": 2781,
+    "solution_id": 4,
+    "avg_time": 0.07017796665119629,
+    "avg_memory": 12.924479166666666,
+    "score": 0.7165842995760423
+  },
+  {
+    "problem_idx": 2781,
+    "solution_id": 8,
+    "avg_time": 0.09366833337116987,
+    "avg_memory": 12.28125,
+    "score": 0.8089735752016833
+  },
+  {
+    "problem_idx": 2781,
+    "solution_id": 2,
+    "avg_time": 0.11286796668233971,
+    "avg_memory": 11.197916666666666,
+    "score": 0.8293875450334534
+  },
+  {
+    "problem_idx": 2781,
+    "solution_id": 10,
+    "avg_time": 0.10956866666674614,
+    "avg_memory": 12.071614583333334,
+    "score": 0.8938193038597475
+  },
+  {
+    "problem_idx": 2787,
+    "solution_id": 7,
+    "avg_time": 0.04006400005891919,
+    "avg_memory": 8.247395833333334,
+    "score": 0.0
+  },
+  {
+    "problem_idx": 2787,
+    "solution_id": 10,
+    "avg_time": 0.0772137667130058,
+    "avg_memory": 8.734375,
+    "score": 0.10098488453216255
+  },
+  {
+    "problem_idx": 2787,
+    "solution_id": 3,
+    "avg_time": 0.08980766664414357,
+    "avg_memory": 11.203125,
+    "score": 0.19449318984505345
+  },
+  {
+    "problem_idx": 2787,
+    "solution_id": 5,
+    "avg_time": 0.10431506667130937,
+    "avg_memory": 12.951822916666666,
+    "score": 0.27403039296633136
+  },
+  {
+    "problem_idx": 2787,
+    "solution_id": 6,
+    "avg_time": 0.08825113337176542,
+    "avg_memory": 16.34375,
+    "score": 0.32305720532517707
+  },
+  {
+    "problem_idx": 2787,
+    "solution_id": 11,
+    "avg_time": 0.12060266671081384,
+    "avg_memory": 15.067708333333334,
+    "score": 0.36725417602247845
+  },
+  {
+    "problem_idx": 2787,
+    "solution_id": 2,
+    "avg_time": 0.12227686665331323,
+    "avg_memory": 15.962239583333334,
+    "score": 0.3942571148706723
+  },
+  {
+    "problem_idx": 2787,
+    "solution_id": 8,
+    "avg_time": 0.09683910000603646,
+    "avg_memory": 18.697916666666668,
+    "score": 0.40407898957404964
+  },
+  {
+    "problem_idx": 2787,
+    "solution_id": 4,
+    "avg_time": 0.20020179993783435,
+    "avg_memory": 15.61328125,
+    "score": 0.5708199406716217
+  },
+  {
+    "problem_idx": 2787,
+    "solution_id": 1,
+    "avg_time": 0.14578450001621,
+    "avg_memory": 24.9296875,
+    "score": 0.6809652372901239
+  },
+  {
+    "problem_idx": 2787,
+    "solution_id": 9,
+    "avg_time": 0.2500571000079314,
+    "avg_memory": 27.6796875,
+    "score": 1.0
+  },
+  {
+    "problem_idx": 2788,
+    "solution_id": 12,
+    "avg_time": 0.012713066690290967,
+    "avg_memory": 4.044270833333333,
+    "score": 0.013291799834452434
+  },
+  {
+    "problem_idx": 2788,
+    "solution_id": 8,
+    "avg_time": 0.007903866663885614,
+    "avg_memory": 4.352864583333333,
+    "score": 0.017181383210091345
+  },
+  {
+    "problem_idx": 2788,
+    "solution_id": 16,
+    "avg_time": 0.09291970004172374,
+    "avg_memory": 5.229166666666667,
+    "score": 0.3009398198245743
+  },
+  {
+    "problem_idx": 2788,
+    "solution_id": 17,
+    "avg_time": 0.09261500001108895,
+    "avg_memory": 7.006510416666667,
+    "score": 0.39905374932149446
+  },
+  {
+    "problem_idx": 2788,
+    "solution_id": 14,
+    "avg_time": 0.06996953336056322,
+    "avg_memory": 8.13671875,
+    "score": 0.39939149307566346
+  },
+  {
+    "problem_idx": 2788,
+    "solution_id": 1,
+    "avg_time": 0.10584516664190839,
+    "avg_memory": 7.059895833333333,
+    "score": 0.43859195599424816
+  },
+  {
+    "problem_idx": 2788,
+    "solution_id": 9,
+    "avg_time": 0.08009476664786537,
+    "avg_memory": 8.526041666666666,
+    "score": 0.4490519834878538
+  },
+  {
+    "problem_idx": 2788,
+    "solution_id": 15,
+    "avg_time": 0.08721626666374505,
+    "avg_memory": 8.313802083333334,
+    "score": 0.45691784997274926
+  },
+  {
+    "problem_idx": 2788,
+    "solution_id": 11,
+    "avg_time": 0.07725603327465554,
+    "avg_memory": 12.399739583333334,
+    "score": 0.6568796950257815
+  },
+  {
+    "problem_idx": 2788,
+    "solution_id": 7,
+    "avg_time": 0.13926349999383092,
+    "avg_memory": 10.052083333333334,
+    "score": 0.6975486399065643
+  },
+  {
+    "problem_idx": 2788,
+    "solution_id": 4,
+    "avg_time": 0.14957566667969027,
+    "avg_memory": 9.9453125,
+    "score": 0.7201050773534771
+  },
+  {
+    "problem_idx": 2788,
+    "solution_id": 3,
+    "avg_time": 0.16795153329924992,
+    "avg_memory": 9.858072916666666,
+    "score": 0.7660356206656302
+  },
+  {
+    "problem_idx": 2788,
+    "solution_id": 5,
+    "avg_time": 0.10578059998806566,
+    "avg_memory": 13.024739583333334,
+    "score": 0.7705144183340373
+  },
+  {
+    "problem_idx": 2788,
+    "solution_id": 6,
+    "avg_time": 0.1311045333277434,
+    "avg_memory": 12.6484375,
+    "score": 0.8195542664184939
+  },
+  {
+    "problem_idx": 2788,
+    "solution_id": 18,
+    "avg_time": 0.13824710001548132,
+    "avg_memory": 12.477864583333334,
+    "score": 0.8297982067626084
+  },
+  {
+    "problem_idx": 2788,
+    "solution_id": 19,
+    "avg_time": 0.1536704000706474,
+    "avg_memory": 11.717447916666666,
+    "score": 0.8300883012759269
+  },
+  {
+    "problem_idx": 2788,
+    "solution_id": 2,
+    "avg_time": 0.18881239998154342,
+    "avg_memory": 10.671875,
+    "score": 0.8690010149340293
+  },
+  {
+    "problem_idx": 2788,
+    "solution_id": 13,
+    "avg_time": 0.15187823333932707,
+    "avg_memory": 12.963541666666666,
+    "score": 0.8945130518055503
+  },
+  {
+    "problem_idx": 2788,
+    "solution_id": 10,
+    "avg_time": 0.17641956665708372,
+    "avg_memory": 12.77734375,
+    "score": 0.9519742403583866
+  },
+  {
+    "problem_idx": 2798,
+    "solution_id": 9,
+    "avg_time": 0.054510666678349175,
+    "avg_memory": 7.739583333333333,
+    "score": 0.10898894287105132
+  },
+  {
+    "problem_idx": 2798,
+    "solution_id": 5,
+    "avg_time": 0.06083810003474355,
+    "avg_memory": 7.721354166666667,
+    "score": 0.1584689498868243
+  },
+  {
+    "problem_idx": 2798,
+    "solution_id": 1,
+    "avg_time": 0.092807533335872,
+    "avg_memory": 6.876302083333333,
+    "score": 0.34809300410154226
+  },
+  {
+    "problem_idx": 2798,
+    "solution_id": 14,
+    "avg_time": 0.04957113337392608,
+    "avg_memory": 11.549479166666666,
+    "score": 0.3747128836917937
+  },
+  {
+    "problem_idx": 2798,
+    "solution_id": 8,
+    "avg_time": 0.06480129994452,
+    "avg_memory": 11.458333333333334,
+    "score": 0.4900213941085727
+  },
+  {
+    "problem_idx": 2798,
+    "solution_id": 10,
+    "avg_time": 0.05917439997817079,
+    "avg_memory": 13.111979166666666,
+    "score": 0.5773151771285703
+  },
+  {
+    "problem_idx": 2798,
+    "solution_id": 7,
+    "avg_time": 0.08488603332079947,
+    "avg_memory": 11.078125,
+    "score": 0.6212355402284537
+  },
+  {
+    "problem_idx": 2798,
+    "solution_id": 4,
+    "avg_time": 0.09423023330358167,
+    "avg_memory": 10.493489583333334,
+    "score": 0.6495867287878027
+  },
+  {
+    "problem_idx": 2798,
+    "solution_id": 2,
+    "avg_time": 0.08981049999905129,
+    "avg_memory": 11.50390625,
+    "score": 0.6950227902591268
+  },
+  {
+    "problem_idx": 2798,
+    "solution_id": 6,
+    "avg_time": 0.11167580001832296,
+    "avg_memory": 9.57421875,
+    "score": 0.7163290874921696
+  },
+  {
+    "problem_idx": 2798,
+    "solution_id": 11,
+    "avg_time": 0.08501819998491555,
+    "avg_memory": 12.791666666666666,
+    "score": 0.7596978083184394
+  },
+  {
+    "problem_idx": 2798,
+    "solution_id": 3,
+    "avg_time": 0.095549066667445,
+    "avg_memory": 11.735677083333334,
+    "score": 0.759807814470268
+  },
+  {
+    "problem_idx": 2798,
+    "solution_id": 13,
+    "avg_time": 0.08514419997421403,
+    "avg_memory": 12.795572916666666,
+    "score": 0.7610254425460611
+  },
+  {
+    "problem_idx": 2798,
+    "solution_id": 12,
+    "avg_time": 0.08412010001484305,
+    "avg_memory": 12.979166666666666,
+    "score": 0.7675017269662587
+  },
+  {
+    "problem_idx": 2806,
+    "solution_id": 11,
+    "avg_time": 0.0071919333810607595,
+    "avg_memory": 3.8880208333333335,
+    "score": 0.0
+  },
+  {
+    "problem_idx": 2806,
+    "solution_id": 10,
+    "avg_time": 0.07117229995007317,
+    "avg_memory": 6.38671875,
+    "score": 0.39057249728910237
+  },
+  {
+    "problem_idx": 2806,
+    "solution_id": 4,
+    "avg_time": 0.06368303333874792,
+    "avg_memory": 7.149739583333333,
+    "score": 0.4089960206652275
+  },
+  {
+    "problem_idx": 2806,
+    "solution_id": 6,
+    "avg_time": 0.037552433321252465,
+    "avg_memory": 9.541666666666666,
+    "score": 0.4568506359870279
+  },
+  {
+    "problem_idx": 2806,
+    "solution_id": 13,
+    "avg_time": 0.08604073334330072,
+    "avg_memory": 11.325520833333334,
+    "score": 0.7461774316661387
+  },
+  {
+    "problem_idx": 2806,
+    "solution_id": 9,
+    "avg_time": 0.10853313328698277,
+    "avg_memory": 10.7578125,
+    "score": 0.7956038105519192
+  },
+  {
+    "problem_idx": 2806,
+    "solution_id": 3,
+    "avg_time": 0.1201110000256449,
+    "avg_memory": 10.454427083333334,
+    "score": 0.820367645887253
+  },
+  {
+    "problem_idx": 2806,
+    "solution_id": 12,
+    "avg_time": 0.11493456666357815,
+    "avg_memory": 10.77734375,
+    "score": 0.8206762664493321
+  },
+  {
+    "problem_idx": 2806,
+    "solution_id": 7,
+    "avg_time": 0.11112693332446118,
+    "avg_memory": 11.044270833333334,
+    "score": 0.8226898301094225
+  },
+  {
+    "problem_idx": 2806,
+    "solution_id": 5,
+    "avg_time": 0.11406896666934092,
+    "avg_memory": 11.229166666666666,
+    "score": 0.8449033440342071
+  },
+  {
+    "problem_idx": 2806,
+    "solution_id": 2,
+    "avg_time": 0.10653786667777847,
+    "avg_memory": 11.802083333333334,
+    "score": 0.8516183143993523
+  },
+  {
+    "problem_idx": 2806,
+    "solution_id": 8,
+    "avg_time": 0.11498349998146296,
+    "avg_memory": 12.115885416666666,
+    "score": 0.9022008349954346
+  },
+  {
+    "problem_idx": 2806,
+    "solution_id": 1,
+    "avg_time": 0.14119409998723617,
+    "avg_memory": 11.494791666666666,
+    "score": 0.9622566861845229
+  },
+  {
+    "problem_idx": 2807,
+    "solution_id": 15,
+    "avg_time": 0.028119799952643614,
+    "avg_memory": 3.2239583333333335,
+    "score": 0.012686874228500906
+  },
+  {
+    "problem_idx": 2807,
+    "solution_id": 13,
+    "avg_time": 0.03252863332939645,
+    "avg_memory": 2.9830729166666665,
+    "score": 0.02124237347194479
+  },
+  {
+    "problem_idx": 2807,
+    "solution_id": 3,
+    "avg_time": 0.030449833332871396,
+    "avg_memory": 3.8919270833333335,
+    "score": 0.05909365903455718
+  },
+  {
+    "problem_idx": 2807,
+    "solution_id": 11,
+    "avg_time": 0.05343896670577427,
+    "avg_memory": 8.6875,
+    "score": 0.422430170291811
+  },
+  {
+    "problem_idx": 2807,
+    "solution_id": 9,
+    "avg_time": 0.05995849997270852,
+    "avg_memory": 8.61328125,
+    "score": 0.44993326109253945
+  },
+  {
+    "problem_idx": 2807,
+    "solution_id": 12,
+    "avg_time": 0.0725650666669632,
+    "avg_memory": 8.721354166666666,
+    "score": 0.516365404819387
+  },
+  {
+    "problem_idx": 2807,
+    "solution_id": 8,
+    "avg_time": 0.07917716668453068,
+    "avg_memory": 8.345052083333334,
+    "score": 0.5284044690620463
+  },
+  {
+    "problem_idx": 2807,
+    "solution_id": 5,
+    "avg_time": 0.10920700004013877,
+    "avg_memory": 9.276041666666666,
+    "score": 0.7221254445404819
+  },
+  {
+    "problem_idx": 2807,
+    "solution_id": 14,
+    "avg_time": 0.08369326661340892,
+    "avg_memory": 11.897135416666666,
+    "score": 0.737243629323582
+  },
+  {
+    "problem_idx": 2807,
+    "solution_id": 2,
+    "avg_time": 0.1082399666775018,
+    "avg_memory": 10.42578125,
+    "score": 0.7780202508710685
+  },
+  {
+    "problem_idx": 2807,
+    "solution_id": 6,
+    "avg_time": 0.08607376669533551,
+    "avg_memory": 12.4765625,
+    "score": 0.779230286229514
+  },
+  {
+    "problem_idx": 2807,
+    "solution_id": 10,
+    "avg_time": 0.12935940001625568,
+    "avg_memory": 10.192708333333334,
+    "score": 0.8675012151346978
+  },
+  {
+    "problem_idx": 2807,
+    "solution_id": 16,
+    "avg_time": 0.11207830001755308,
+    "avg_memory": 11.903645833333334,
+    "score": 0.87434956351532
+  },
+  {
+    "problem_idx": 2807,
+    "solution_id": 7,
+    "avg_time": 0.13189430007090172,
+    "avg_memory": 11.481770833333334,
+    "score": 0.947606638321218
+  },
+  {
+    "problem_idx": 2807,
+    "solution_id": 1,
+    "avg_time": 0.12922126664003977,
+    "avg_memory": 11.74609375,
+    "score": 0.9486488636317907
+  },
+  {
+    "problem_idx": 2807,
+    "solution_id": 4,
+    "avg_time": 0.12868973333388567,
+    "avg_memory": 12.375,
+    "score": 0.9792108904977835
+  },
+  {
+    "problem_idx": 2810,
+    "solution_id": 8,
+    "avg_time": 0.00022466666996479034,
+    "avg_memory": 0.0,
+    "score": 0.0
+  },
+  {
+    "problem_idx": 2810,
+    "solution_id": 7,
+    "avg_time": 0.0654401999975865,
+    "avg_memory": 7.72265625,
+    "score": 0.5465267108662072
+  },
+  {
+    "problem_idx": 2810,
+    "solution_id": 9,
+    "avg_time": 0.07239800000873704,
+    "avg_memory": 7.057291666666667,
+    "score": 0.5467402708081646
+  },
+  {
+    "problem_idx": 2810,
+    "solution_id": 14,
+    "avg_time": 0.06997229997068644,
+    "avg_memory": 8.078125,
+    "score": 0.5774383644191852
+  },
+  {
+    "problem_idx": 2810,
+    "solution_id": 2,
+    "avg_time": 0.09238160001890112,
+    "avg_memory": 7.0625,
+    "score": 0.6221022495381807
+  },
+  {
+    "problem_idx": 2810,
+    "solution_id": 4,
+    "avg_time": 0.09893503331113607,
+    "avg_memory": 8.408854166666666,
+    "score": 0.6992691738229935
+  },
+  {
+    "problem_idx": 2810,
+    "solution_id": 11,
+    "avg_time": 0.06954493334827323,
+    "avg_memory": 11.912760416666666,
+    "score": 0.7254145307219344
+  },
+  {
+    "problem_idx": 2810,
+    "solution_id": 16,
+    "avg_time": 0.08087866667968531,
+    "avg_memory": 11.622395833333334,
+    "score": 0.7567142830215027
+  },
+  {
+    "problem_idx": 2810,
+    "solution_id": 17,
+    "avg_time": 0.09736340004019439,
+    "avg_memory": 11.1171875,
+    "score": 0.7990063331061901
+  },
+  {
+    "problem_idx": 2810,
+    "solution_id": 18,
+    "avg_time": 0.08768379998703797,
+    "avg_memory": 12.21875,
+    "score": 0.8055714573929924
+  },
+  {
+    "problem_idx": 2810,
+    "solution_id": 13,
+    "avg_time": 0.11831993334150563,
+    "avg_memory": 9.567708333333334,
+    "score": 0.81738145895378
+  },
+  {
+    "problem_idx": 2810,
+    "solution_id": 5,
+    "avg_time": 0.10185019997879863,
+    "avg_memory": 11.276041666666666,
+    "score": 0.8220779656342962
+  },
+  {
+    "problem_idx": 2810,
+    "solution_id": 3,
+    "avg_time": 0.10985286669650425,
+    "avg_memory": 11.28515625,
+    "score": 0.8525317377708567
+  },
+  {
+    "problem_idx": 2810,
+    "solution_id": 15,
+    "avg_time": 0.1078977999665464,
+    "avg_memory": 11.485677083333334,
+    "score": 0.8530007074630874
+  },
+  {
+    "problem_idx": 2810,
+    "solution_id": 1,
+    "avg_time": 0.10145333331699173,
+    "avg_memory": 12.817708333333334,
+    "score": 0.8807234956164637
+  },
+  {
+    "problem_idx": 2810,
+    "solution_id": 12,
+    "avg_time": 0.12457589999151726,
+    "avg_memory": 11.106770833333334,
+    "score": 0.9009468733111917
+  },
+  {
+    "problem_idx": 2810,
+    "solution_id": 6,
+    "avg_time": 0.13316716668972126,
+    "avg_memory": 10.860677083333334,
+    "score": 0.9236590816741161
+  },
+  {
+    "problem_idx": 2810,
+    "solution_id": 10,
+    "avg_time": 0.13161140001223734,
+    "avg_memory": 11.247395833333334,
+    "score": 0.9328931362460944
+  },
+  {
+    "problem_idx": 2812,
+    "solution_id": 15,
+    "avg_time": 0.014147933339700103,
+    "avg_memory": 5.296875,
+    "score": 0.11680216802168021
+  },
+  {
+    "problem_idx": 2812,
+    "solution_id": 3,
+    "avg_time": 0.059544666670262814,
+    "avg_memory": 1.9296875,
+    "score": 0.13735352947659699
+  },
+  {
+    "problem_idx": 2812,
+    "solution_id": 16,
+    "avg_time": 0.0611413666823258,
+    "avg_memory": 7.97265625,
+    "score": 0.35180514249989747
+  },
+  {
+    "problem_idx": 2812,
+    "solution_id": 9,
+    "avg_time": 0.05773236664632956,
+    "avg_memory": 8.649739583333334,
+    "score": 0.36497768543359843
+  },
+  {
+    "problem_idx": 2812,
+    "solution_id": 17,
+    "avg_time": 0.056421100006749235,
+    "avg_memory": 9.356770833333334,
+    "score": 0.3855360284614721
+  },
+  {
+    "problem_idx": 2812,
+    "solution_id": 13,
+    "avg_time": 0.06219153331282238,
+    "avg_memory": 11.06640625,
+    "score": 0.46229962696555466
+  },
+  {
+    "problem_idx": 2812,
+    "solution_id": 8,
+    "avg_time": 0.10511876669867586,
+    "avg_memory": 7.567708333333333,
+    "score": 0.4708173266204908
+  },
+  {
+    "problem_idx": 2812,
+    "solution_id": 7,
+    "avg_time": 0.08116253333476682,
+    "avg_memory": 10.96875,
+    "score": 0.5163112409923492
+  },
+  {
+    "problem_idx": 2812,
+    "solution_id": 12,
+    "avg_time": 0.11184839997440577,
+    "avg_memory": 9.529947916666666,
+    "score": 0.559245526297306
+  },
+  {
+    "problem_idx": 2812,
+    "solution_id": 11,
+    "avg_time": 0.09643200001058479,
+    "avg_memory": 12.46875,
+    "score": 0.6145434542751267
+  },
+  {
+    "problem_idx": 2812,
+    "solution_id": 2,
+    "avg_time": 0.1630517333590736,
+    "avg_memory": 9.31640625,
+    "score": 0.7067602475404232
+  },
+  {
+    "problem_idx": 2812,
+    "solution_id": 14,
+    "avg_time": 0.11128563336872806,
+    "avg_memory": 15.192708333333334,
+    "score": 0.7539746027638438
+  },
+  {
+    "problem_idx": 2812,
+    "solution_id": 1,
+    "avg_time": 0.1416338333316768,
+    "avg_memory": 13.513020833333334,
+    "score": 0.7875313181535508
+  },
+  {
+    "problem_idx": 2812,
+    "solution_id": 5,
+    "avg_time": 0.14517166663426906,
+    "avg_memory": 15.78125,
+    "score": 0.8769165981607016
+  },
+  {
+    "problem_idx": 2812,
+    "solution_id": 10,
+    "avg_time": 0.1558354999870062,
+    "avg_memory": 16.00390625,
+    "score": 0.9169049451560769
+  },
+  {
+    "problem_idx": 2812,
+    "solution_id": 4,
+    "avg_time": 0.16752936667762697,
+    "avg_memory": 16.34375,
+    "score": 0.9640748282863836
+  },
+  {
+    "problem_idx": 2812,
+    "solution_id": 6,
+    "avg_time": 0.17940299996795753,
+    "avg_memory": 15.920572916666666,
+    "score": 0.9853206865401987
+  },
+  {
+    "problem_idx": 2815,
+    "solution_id": 15,
+    "avg_time": 0.04240526662518581,
+    "avg_memory": 2.8541666666666665,
+    "score": 0.00017768301350390902
+  },
+  {
+    "problem_idx": 2815,
+    "solution_id": 5,
+    "avg_time": 0.05214180001833787,
+    "avg_memory": 2.8502604166666665,
+    "score": 0.013773629064764634
+  },
+  {
+    "problem_idx": 2815,
+    "solution_id": 8,
+    "avg_time": 0.06651196671494593,
+    "avg_memory": 6.372395833333333,
+    "score": 0.1943130028468022
+  },
+  {
+    "problem_idx": 2815,
+    "solution_id": 14,
+    "avg_time": 0.05805513336478422,
+    "avg_memory": 7.170572916666667,
+    "score": 0.21865624312059562
+  },
+  {
+    "problem_idx": 2815,
+    "solution_id": 4,
+    "avg_time": 0.07145210002393772,
+    "avg_memory": 7.361979166666667,
+    "score": 0.24631451240461616
+  },
+  {
+    "problem_idx": 2815,
+    "solution_id": 6,
+    "avg_time": 0.06900323333684355,
+    "avg_memory": 8.533854166666666,
+    "score": 0.2961551669107899
+  },
+  {
+    "problem_idx": 2815,
+    "solution_id": 13,
+    "avg_time": 0.0671044000191614,
+    "avg_memory": 11.53515625,
+    "score": 0.42998879519396765
+  },
+  {
+    "problem_idx": 2815,
+    "solution_id": 7,
+    "avg_time": 0.08871113330436249,
+    "avg_memory": 11.458333333333334,
+    "score": 0.4570599774350348
+  },
+  {
+    "problem_idx": 2815,
+    "solution_id": 10,
+    "avg_time": 0.10627836660326768,
+    "avg_memory": 12.5234375,
+    "score": 0.5303594141444046
+  },
+  {
+    "problem_idx": 2815,
+    "solution_id": 3,
+    "avg_time": 0.14168450003489852,
+    "avg_memory": 11.625,
+    "score": 0.53957903350722
+  },
+  {
+    "problem_idx": 2815,
+    "solution_id": 1,
+    "avg_time": 0.13110683330645165,
+    "avg_memory": 12.1484375,
+    "score": 0.5484250326200794
+  },
+  {
+    "problem_idx": 2815,
+    "solution_id": 9,
+    "avg_time": 0.17247936665080488,
+    "avg_memory": 11.341145833333334,
+    "score": 0.5702308598425487
+  },
+  {
+    "problem_idx": 2815,
+    "solution_id": 12,
+    "avg_time": 0.11606696667149663,
+    "avg_memory": 13.3125,
+    "score": 0.5800986672144777
+  },
+  {
+    "problem_idx": 2815,
+    "solution_id": 2,
+    "avg_time": 0.15661966668752333,
+    "avg_memory": 13.03515625,
+    "score": 0.6248503926798408
+  },
+  {
+    "problem_idx": 2815,
+    "solution_id": 11,
+    "avg_time": 0.1634469999698922,
+    "avg_memory": 13.080729166666666,
+    "score": 0.6365815374780088
+  },
+  {
+    "problem_idx": 2815,
+    "solution_id": 16,
+    "avg_time": 0.39585363333268714,
+    "avg_memory": 13.842447916666666,
+    "score": 1.0
+  },
+  {
+    "problem_idx": 2816,
+    "solution_id": 10,
+    "avg_time": 0.05170719996870806,
+    "avg_memory": 3.8541666666666665,
+    "score": 0.07489318498930578
+  },
+  {
+    "problem_idx": 2816,
+    "solution_id": 8,
+    "avg_time": 0.03725993330590427,
+    "avg_memory": 8.662760416666666,
+    "score": 0.2722500864026444
+  },
+  {
+    "problem_idx": 2816,
+    "solution_id": 18,
+    "avg_time": 0.037130299994411566,
+    "avg_memory": 12.375,
+    "score": 0.4812472422415061
+  },
+  {
+    "problem_idx": 2816,
+    "solution_id": 15,
+    "avg_time": 0.0634254333563149,
+    "avg_memory": 10.92578125,
+    "score": 0.5344960852263974
+  },
+  {
+    "problem_idx": 2816,
+    "solution_id": 5,
+    "avg_time": 0.062148366627904274,
+    "avg_memory": 11.743489583333334,
+    "score": 0.5741180350585219
+  },
+  {
+    "problem_idx": 2816,
+    "solution_id": 9,
+    "avg_time": 0.06203283330736061,
+    "avg_memory": 11.880208333333334,
+    "score": 0.5812461718398627
+  },
+  {
+    "problem_idx": 2816,
+    "solution_id": 16,
+    "avg_time": 0.05641420003181944,
+    "avg_memory": 12.70703125,
+    "score": 0.5990768061359747
+  },
+  {
+    "problem_idx": 2816,
+    "solution_id": 14,
+    "avg_time": 0.062487999986236296,
+    "avg_memory": 12.385416666666666,
+    "score": 0.6121183347208102
+  },
+  {
+    "problem_idx": 2816,
+    "solution_id": 17,
+    "avg_time": 0.08113263337872922,
+    "avg_memory": 11.365885416666666,
+    "score": 0.65032871984903
+  },
+  {
+    "problem_idx": 2816,
+    "solution_id": 13,
+    "avg_time": 0.08589883334934711,
+    "avg_memory": 11.321614583333334,
+    "score": 0.6723161305318428
+  },
+  {
+    "problem_idx": 2816,
+    "solution_id": 4,
+    "avg_time": 0.08285603334661573,
+    "avg_memory": 11.670572916666666,
+    "score": 0.6763916158228414
+  },
+  {
+    "problem_idx": 2816,
+    "solution_id": 6,
+    "avg_time": 0.07853649999015033,
+    "avg_memory": 12.583333333333334,
+    "score": 0.7057504195898505
+  },
+  {
+    "problem_idx": 2816,
+    "solution_id": 1,
+    "avg_time": 0.10214003334597994,
+    "avg_memory": 11.151041666666666,
+    "score": 0.7461263851682199
+  },
+  {
+    "problem_idx": 2816,
+    "solution_id": 3,
+    "avg_time": 0.09712343333133806,
+    "avg_memory": 12.287760416666666,
+    "score": 0.7845527193769485
+  },
+  {
+    "problem_idx": 2816,
+    "solution_id": 12,
+    "avg_time": 0.111756999976933,
+    "avg_memory": 11.299479166666666,
+    "score": 0.8039200144281156
+  },
+  {
+    "problem_idx": 2816,
+    "solution_id": 11,
+    "avg_time": 0.10495616666351755,
+    "avg_memory": 11.947916666666666,
+    "score": 0.8056017312873731
+  },
+  {
+    "problem_idx": 2816,
+    "solution_id": 2,
+    "avg_time": 0.09945529998124887,
+    "avg_memory": 12.610677083333334,
+    "score": 0.8147713581523963
+  },
+  {
+    "problem_idx": 2816,
+    "solution_id": 7,
+    "avg_time": 0.13444823337097964,
+    "avg_memory": 12.036458333333334,
+    "score": 0.9621267833504927
+  },
+  {
+    "problem_idx": 2817,
+    "solution_id": 13,
+    "avg_time": 0.04860343333954612,
+    "avg_memory": 3.234375,
+    "score": 0.0
+  },
+  {
+    "problem_idx": 2817,
+    "solution_id": 9,
+    "avg_time": 0.07824833334113161,
+    "avg_memory": 7.451822916666667,
+    "score": 0.3225249363147308
+  },
+  {
+    "problem_idx": 2817,
+    "solution_id": 11,
+    "avg_time": 0.06517116663356622,
+    "avg_memory": 9.311197916666666,
+    "score": 0.34327320638501124
+  },
+  {
+    "problem_idx": 2817,
+    "solution_id": 3,
+    "avg_time": 0.09568160000101973,
+    "avg_memory": 8.272135416666666,
+    "score": 0.43944853727583366
+  },
+  {
+    "problem_idx": 2817,
+    "solution_id": 8,
+    "avg_time": 0.05018363330358019,
+    "avg_memory": 14.041666666666666,
+    "score": 0.4809757662951136
+  },
+  {
+    "problem_idx": 2817,
+    "solution_id": 7,
+    "avg_time": 0.07013389999823023,
+    "avg_memory": 14.032552083333334,
+    "score": 0.5732400171823899
+  },
+  {
+    "problem_idx": 2817,
+    "solution_id": 5,
+    "avg_time": 0.07835889999599506,
+    "avg_memory": 14.643229166666666,
+    "score": 0.6382062590479997
+  },
+  {
+    "problem_idx": 2817,
+    "solution_id": 2,
+    "avg_time": 0.09732579998672009,
+    "avg_memory": 13.497395833333334,
+    "score": 0.6760856388447327
+  },
+  {
+    "problem_idx": 2817,
+    "solution_id": 6,
+    "avg_time": 0.11462800002967317,
+    "avg_memory": 13.147135416666666,
+    "score": 0.7410993972812314
+  },
+  {
+    "problem_idx": 2817,
+    "solution_id": 1,
+    "avg_time": 0.11413876665756106,
+    "avg_memory": 14.411458333333334,
+    "score": 0.7942367616952059
+  },
+  {
+    "problem_idx": 2817,
+    "solution_id": 12,
+    "avg_time": 0.1562521999779468,
+    "avg_memory": 10.755208333333334,
+    "score": 0.8296051129879023
+  },
+  {
+    "problem_idx": 2817,
+    "solution_id": 4,
+    "avg_time": 0.14218976666840413,
+    "avg_memory": 12.4375,
+    "score": 0.838016295524903
+  },
+  {
+    "problem_idx": 2817,
+    "solution_id": 10,
+    "avg_time": 0.14647109996682653,
+    "avg_memory": 14.334635416666666,
+    "score": 0.9410450723865029
+  },
+  {
+    "problem_idx": 2824,
+    "solution_id": 5,
+    "avg_time": 0.00020866670335332552,
+    "avg_memory": 0.0,
+    "score": 0.0
+  },
+  {
+    "problem_idx": 2824,
+    "solution_id": 16,
+    "avg_time": 0.005530633342762788,
+    "avg_memory": 4.563802083333333,
+    "score": 0.18964510395990986
+  },
+  {
+    "problem_idx": 2824,
+    "solution_id": 6,
+    "avg_time": 0.05058636671553055,
+    "avg_memory": 4.2578125,
+    "score": 0.29766743962412745
+  },
+  {
+    "problem_idx": 2824,
+    "solution_id": 12,
+    "avg_time": 0.04249966668430716,
+    "avg_memory": 8.744791666666666,
+    "score": 0.44870904450875354
+  },
+  {
+    "problem_idx": 2824,
+    "solution_id": 8,
+    "avg_time": 0.1225986999925226,
+    "avg_memory": 7.459635416666667,
+    "score": 0.6122476115638791
+  },
+  {
+    "problem_idx": 2824,
+    "solution_id": 17,
+    "avg_time": 0.10879426666845878,
+    "avg_memory": 10.716145833333334,
+    "score": 0.70077134655728
+  },
+  {
+    "problem_idx": 2824,
+    "solution_id": 15,
+    "avg_time": 0.14391653328978768,
+    "avg_memory": 9.076822916666666,
+    "score": 0.7311119853961973
+  },
+  {
+    "problem_idx": 2824,
+    "solution_id": 7,
+    "avg_time": 0.16361513334171227,
+    "avg_memory": 8.268229166666666,
+    "score": 0.7523907422209439
+  },
+  {
+    "problem_idx": 2824,
+    "solution_id": 1,
+    "avg_time": 0.16809819995736083,
+    "avg_memory": 8.0703125,
+    "score": 0.7566991299903056
+  },
+  {
+    "problem_idx": 2824,
+    "solution_id": 3,
+    "avg_time": 0.10282700000486027,
+    "avg_memory": 12.8046875,
+    "score": 0.7652187272615161
+  },
+  {
+    "problem_idx": 2824,
+    "solution_id": 14,
+    "avg_time": 0.1035979666824763,
+    "avg_memory": 12.924479166666666,
+    "score": 0.7718749305160029
+  },
+  {
+    "problem_idx": 2824,
+    "solution_id": 4,
+    "avg_time": 0.12517779999567816,
+    "avg_memory": 11.697916666666666,
+    "score": 0.7820827844019338
+  },
+  {
+    "problem_idx": 2824,
+    "solution_id": 11,
+    "avg_time": 0.1545836666288475,
+    "avg_memory": 10.450520833333334,
+    "score": 0.8122964404602386
+  },
+  {
+    "problem_idx": 2824,
+    "solution_id": 2,
+    "avg_time": 0.14065553337180367,
+    "avg_memory": 12.01953125,
+    "score": 0.8356004496432177
+  },
+  {
+    "problem_idx": 2824,
+    "solution_id": 9,
+    "avg_time": 0.1297519333117331,
+    "avg_memory": 12.953125,
+    "score": 0.8425115189713761
+  },
+  {
+    "problem_idx": 2824,
+    "solution_id": 13,
+    "avg_time": 0.16028569999616593,
+    "avg_memory": 13.002604166666666,
+    "score": 0.9255937188719459
+  },
+  {
+    "problem_idx": 2824,
+    "solution_id": 10,
+    "avg_time": 0.18827186664566398,
+    "avg_memory": 11.630208333333334,
+    "score": 0.9472261165631886
+  },
+  {
+    "problem_idx": 2828,
+    "solution_id": 11,
+    "avg_time": 0.04696056665852666,
+    "avg_memory": 6.864583333333333,
+    "score": 0.0
+  },
+  {
+    "problem_idx": 2828,
+    "solution_id": 7,
+    "avg_time": 0.05221016662350545,
+    "avg_memory": 11.985677083333334,
+    "score": 0.477633574104823
+  },
+  {
+    "problem_idx": 2828,
+    "solution_id": 3,
+    "avg_time": 0.059409666690044105,
+    "avg_memory": 11.98828125,
+    "score": 0.5514078459583756
+  },
+  {
+    "problem_idx": 2828,
+    "solution_id": 5,
+    "avg_time": 0.06376879999879748,
+    "avg_memory": 12.170572916666666,
+    "score": 0.6110386525491294
+  },
+  {
+    "problem_idx": 2828,
+    "solution_id": 12,
+    "avg_time": 0.06607963334924231,
+    "avg_memory": 11.959635416666666,
+    "score": 0.6171844521390918
+  },
+  {
+    "problem_idx": 2828,
+    "solution_id": 2,
+    "avg_time": 0.08925626671407372,
+    "avg_memory": 9.35546875,
+    "score": 0.6383743471122594
+  },
+  {
+    "problem_idx": 2828,
+    "solution_id": 9,
+    "avg_time": 0.07504133332986385,
+    "avg_memory": 11.66796875,
+    "score": 0.684599505744022
+  },
+  {
+    "problem_idx": 2828,
+    "solution_id": 4,
+    "avg_time": 0.0661545000039041,
+    "avg_memory": 12.903645833333334,
+    "score": 0.6961080680811149
+  },
+  {
+    "problem_idx": 2828,
+    "solution_id": 6,
+    "avg_time": 0.071833400016961,
+    "avg_memory": 12.81640625,
+    "score": 0.7469075288383954
+  },
+  {
+    "problem_idx": 2828,
+    "solution_id": 8,
+    "avg_time": 0.08344643334082018,
+    "avg_memory": 11.59765625,
+    "score": 0.7646545366098454
+  },
+  {
+    "problem_idx": 2828,
+    "solution_id": 10,
+    "avg_time": 0.0783807000067706,
+    "avg_memory": 12.79296875,
+    "score": 0.8118620466777784
+  },
+  {
+    "problem_idx": 2828,
+    "solution_id": 1,
+    "avg_time": 0.09589769997789215,
+    "avg_memory": 12.26953125,
+    "score": 0.9474989219491159
+  },
+  {
+    "problem_idx": 2830,
+    "solution_id": 9,
+    "avg_time": 0.060072033355633415,
+    "avg_memory": 15.1171875,
+    "score": 0.13222925195385188
+  },
+  {
+    "problem_idx": 2830,
+    "solution_id": 3,
+    "avg_time": 0.07563916663639247,
+    "avg_memory": 10.490885416666666,
+    "score": 0.14358483961654325
+  },
+  {
+    "problem_idx": 2830,
+    "solution_id": 2,
+    "avg_time": 0.06814346664274733,
+    "avg_memory": 15.940104166666666,
+    "score": 0.2301974904100315
+  },
+  {
+    "problem_idx": 2830,
+    "solution_id": 5,
+    "avg_time": 0.07606286664182942,
+    "avg_memory": 16.62890625,
+    "score": 0.3229301649936078
+  },
+  {
+    "problem_idx": 2830,
+    "solution_id": 4,
+    "avg_time": 0.09282439997574936,
+    "avg_memory": 12.421875,
+    "score": 0.3572860327337311
+  },
+  {
+    "problem_idx": 2830,
+    "solution_id": 6,
+    "avg_time": 0.08296716671126585,
+    "avg_memory": 16.6171875,
+    "score": 0.38627764527514197
+  },
+  {
+    "problem_idx": 2830,
+    "solution_id": 7,
+    "avg_time": 0.09367886666829388,
+    "avg_memory": 14.565104166666666,
+    "score": 0.4264251907859613
+  },
+  {
+    "problem_idx": 2830,
+    "solution_id": 1,
+    "avg_time": 0.0995766333071515,
+    "avg_memory": 13.3671875,
+    "score": 0.4465848382317479
+  },
+  {
+    "problem_idx": 2830,
+    "solution_id": 8,
+    "avg_time": 0.11428086669184268,
+    "avg_memory": 27.984375,
+    "score": 1.0
+  },
+  {
+    "problem_idx": 2833,
+    "solution_id": 5,
+    "avg_time": 0.024812933329182368,
+    "avg_memory": 4.076822916666667,
+    "score": 0.0
+  },
+  {
+    "problem_idx": 2833,
+    "solution_id": 7,
+    "avg_time": 0.02736669996132453,
+    "avg_memory": 7.90625,
+    "score": 0.24903405511368892
+  },
+  {
+    "problem_idx": 2833,
+    "solution_id": 13,
+    "avg_time": 0.08028716667710493,
+    "avg_memory": 6.907552083333333,
+    "score": 0.443291848950552
+  },
+  {
+    "problem_idx": 2833,
+    "solution_id": 8,
+    "avg_time": 0.11863929995646079,
+    "avg_memory": 4.263020833333333,
+    "score": 0.4653585161068717
+  },
+  {
+    "problem_idx": 2833,
+    "solution_id": 11,
+    "avg_time": 0.08543803333304822,
+    "avg_memory": 7.048177083333333,
+    "score": 0.4768987170116842
+  },
+  {
+    "problem_idx": 2833,
+    "solution_id": 15,
+    "avg_time": 0.07921236664211999,
+    "avg_memory": 8.125,
+    "score": 0.5133383539074214
+  },
+  {
+    "problem_idx": 2833,
+    "solution_id": 10,
+    "avg_time": 0.09938040003180504,
+    "avg_memory": 7.184895833333333,
+    "score": 0.5527897895844638
+  },
+  {
+    "problem_idx": 2833,
+    "solution_id": 1,
+    "avg_time": 0.09694113330139469,
+    "avg_memory": 8.123697916666666,
+    "score": 0.5990142369848823
+  },
+  {
+    "problem_idx": 2833,
+    "solution_id": 9,
+    "avg_time": 0.0961449999595061,
+    "avg_memory": 9.052083333333334,
+    "score": 0.6525429237960705
+  },
+  {
+    "problem_idx": 2833,
+    "solution_id": 16,
+    "avg_time": 0.07490710002214958,
+    "avg_memory": 11.563802083333334,
+    "score": 0.7050514433494869
+  },
+  {
+    "problem_idx": 2833,
+    "solution_id": 14,
+    "avg_time": 0.10891506669577211,
+    "avg_memory": 9.860677083333334,
+    "score": 0.7642892612927422
+  },
+  {
+    "problem_idx": 2833,
+    "solution_id": 12,
+    "avg_time": 0.09155786662207295,
+    "avg_memory": 11.98828125,
+    "score": 0.811828688839509
+  },
+  {
+    "problem_idx": 2833,
+    "solution_id": 17,
+    "avg_time": 0.1155552666556711,
+    "avg_memory": 10.82421875,
+    "score": 0.8559613267327733
+  },
+  {
+    "problem_idx": 2833,
+    "solution_id": 2,
+    "avg_time": 0.104293500034449,
+    "avg_memory": 11.819010416666666,
+    "score": 0.8629706761249165
+  },
+  {
+    "problem_idx": 2833,
+    "solution_id": 18,
+    "avg_time": 0.11132196670708557,
+    "avg_memory": 11.455729166666666,
+    "score": 0.8745153659609057
+  },
+  {
+    "problem_idx": 2833,
+    "solution_id": 6,
+    "avg_time": 0.10526490001939237,
+    "avg_memory": 12.166666666666666,
+    "score": 0.8891566689545761
+  },
+  {
+    "problem_idx": 2833,
+    "solution_id": 3,
+    "avg_time": 0.12817999999970198,
+    "avg_memory": 10.623697916666666,
+    "score": 0.904635441815548
+  },
+  {
+    "problem_idx": 2833,
+    "solution_id": 4,
+    "avg_time": 0.11555983331830551,
+    "avg_memory": 11.763020833333334,
+    "score": 0.9140069153910473
+  },
+  {
+    "problem_idx": 2834,
+    "solution_id": 1,
+    "avg_time": 0.05474450000716994,
+    "avg_memory": 7.00390625,
+    "score": 0.0
+  },
+  {
+    "problem_idx": 2834,
+    "solution_id": 7,
+    "avg_time": 0.059378733315194644,
+    "avg_memory": 12.01171875,
+    "score": 0.5876046442066726
+  },
+  {
+    "problem_idx": 2834,
+    "solution_id": 4,
+    "avg_time": 0.06931693331959347,
+    "avg_memory": 10.962239583333334,
+    "score": 0.6875827260795654
+  },
+  {
+    "problem_idx": 2834,
+    "solution_id": 6,
+    "avg_time": 0.06706000003032386,
+    "avg_memory": 12.084635416666666,
+    "score": 0.751879561272129
+  },
+  {
+    "problem_idx": 2834,
+    "solution_id": 3,
+    "avg_time": 0.07336976662433396,
+    "avg_memory": 11.265625,
+    "score": 0.8003287290593198
+  },
+  {
+    "problem_idx": 2834,
+    "solution_id": 5,
+    "avg_time": 0.07140916667412966,
+    "avg_memory": 11.858072916666666,
+    "score": 0.8185335026167819
+  },
+  {
+    "problem_idx": 2834,
+    "solution_id": 2,
+    "avg_time": 0.07919170001211266,
+    "avg_memory": 10.526041666666666,
+    "score": 0.8466171194259354
+  },
+  {
+    "problem_idx": 2839,
+    "solution_id": 9,
+    "avg_time": 0.06780929999270786,
+    "avg_memory": 10.0703125,
+    "score": 0.42834926360632475
+  },
+  {
+    "problem_idx": 2839,
+    "solution_id": 13,
+    "avg_time": 0.06852296666086961,
+    "avg_memory": 10.27734375,
+    "score": 0.47687753633574825
+  },
+  {
+    "problem_idx": 2839,
+    "solution_id": 11,
+    "avg_time": 0.07751146665153404,
+    "avg_memory": 10.07421875,
+    "score": 0.4861369283172834
+  },
+  {
+    "problem_idx": 2839,
+    "solution_id": 3,
+    "avg_time": 0.1108951666392386,
+    "avg_memory": 9.223958333333334,
+    "score": 0.5
+  },
+  {
+    "problem_idx": 2839,
+    "solution_id": 7,
+    "avg_time": 0.025715333331997197,
+    "avg_memory": 11.55859375,
+    "score": 0.5
+  },
+  {
+    "problem_idx": 2839,
+    "solution_id": 10,
+    "avg_time": 0.042165599996224046,
+    "avg_memory": 11.54296875,
+    "score": 0.5932156327654365
+  },
+  {
+    "problem_idx": 2839,
+    "solution_id": 5,
+    "avg_time": 0.06360113329719752,
+    "avg_memory": 11.16796875,
+    "score": 0.6387284728753138
+  },
+  {
+    "problem_idx": 2839,
+    "solution_id": 6,
+    "avg_time": 0.05431959999259561,
+    "avg_memory": 11.471354166666666,
+    "score": 0.6492213873179781
+  },
+  {
+    "problem_idx": 2839,
+    "solution_id": 12,
+    "avg_time": 0.09915280000617106,
+    "avg_memory": 10.298177083333334,
+    "score": 0.6611344325043371
+  },
+  {
+    "problem_idx": 2839,
+    "solution_id": 2,
+    "avg_time": 0.07783493329770863,
+    "avg_memory": 11.123697916666666,
+    "score": 0.712798623277135
+  },
+  {
+    "problem_idx": 2839,
+    "solution_id": 4,
+    "avg_time": 0.09499936667270958,
+    "avg_memory": 11.203125,
+    "score": 0.8305633111726203
+  },
+  {
+    "problem_idx": 2839,
+    "solution_id": 8,
+    "avg_time": 0.09427836665417999,
+    "avg_memory": 11.385416666666666,
+    "score": 0.8653718025341833
+  },
+  {
+    "problem_idx": 2839,
+    "solution_id": 1,
+    "avg_time": 0.10841603332664818,
+    "avg_memory": 11.095052083333334,
+    "score": 0.8861726928968828
+  },
+  {
+    "problem_idx": 2840,
+    "solution_id": 1,
+    "avg_time": 0.0517528666726624,
+    "avg_memory": 8.125,
+    "score": 0.06237843845512645
+  },
+  {
+    "problem_idx": 2840,
+    "solution_id": 6,
+    "avg_time": 0.06664136669132859,
+    "avg_memory": 7.540364583333333,
+    "score": 0.14648518228128826
+  },
+  {
+    "problem_idx": 2840,
+    "solution_id": 2,
+    "avg_time": 0.06614723328190546,
+    "avg_memory": 8.360677083333334,
+    "score": 0.22914780788845482
+  },
+  {
+    "problem_idx": 2840,
+    "solution_id": 7,
+    "avg_time": 0.06355733335173379,
+    "avg_memory": 11.979166666666666,
+    "score": 0.5897457307399508
+  },
+  {
+    "problem_idx": 2840,
+    "solution_id": 5,
+    "avg_time": 0.07478360001308222,
+    "avg_memory": 11.015625,
+    "score": 0.5973925451356854
+  },
+  {
+    "problem_idx": 2840,
+    "solution_id": 8,
+    "avg_time": 0.08093083335552365,
+    "avg_memory": 11.490885416666666,
+    "score": 0.7085825606954606
+  },
+  {
+    "problem_idx": 2840,
+    "solution_id": 9,
+    "avg_time": 0.07671749999281019,
+    "avg_memory": 12.2265625,
+    "score": 0.7456223835780998
+  },
+  {
+    "problem_idx": 2840,
+    "solution_id": 4,
+    "avg_time": 0.10139656660612673,
+    "avg_memory": 10.953125,
+    "score": 0.8525640541471118
+  },
+  {
+    "problem_idx": 2840,
+    "solution_id": 3,
+    "avg_time": 0.10257200000341982,
+    "avg_memory": 12.126302083333334,
+    "score": 0.9893025840511254
+  },
+  {
+    "problem_idx": 2841,
+    "solution_id": 1,
+    "avg_time": 0.06874059998275091,
+    "avg_memory": 5.51171875,
+    "score": 0.18619333392973297
+  },
+  {
+    "problem_idx": 2841,
+    "solution_id": 11,
+    "avg_time": 0.030752033344469965,
+    "avg_memory": 9.08203125,
+    "score": 0.2099219108865411
+  },
+  {
+    "problem_idx": 2841,
+    "solution_id": 4,
+    "avg_time": 0.059061800013296306,
+    "avg_memory": 6.794270833333333,
+    "score": 0.21416422376157482
+  },
+  {
+    "problem_idx": 2841,
+    "solution_id": 5,
+    "avg_time": 0.07088676665443927,
+    "avg_memory": 7.524739583333333,
+    "score": 0.31507093652909407
+  },
+  {
+    "problem_idx": 2841,
+    "solution_id": 12,
+    "avg_time": 0.05979956670974692,
+    "avg_memory": 8.513020833333334,
+    "score": 0.31883673890258996
+  },
+  {
+    "problem_idx": 2841,
+    "solution_id": 6,
+    "avg_time": 0.07456566668891658,
+    "avg_memory": 8.40625,
+    "score": 0.3849320616916855
+  },
+  {
+    "problem_idx": 2841,
+    "solution_id": 7,
+    "avg_time": 0.0876436000301813,
+    "avg_memory": 11.4375,
+    "score": 0.6272578446061212
+  },
+  {
+    "problem_idx": 2841,
+    "solution_id": 2,
+    "avg_time": 0.09252020002653201,
+    "avg_memory": 11.66015625,
+    "score": 0.6642509308054745
+  },
+  {
+    "problem_idx": 2841,
+    "solution_id": 3,
+    "avg_time": 0.08287386666052043,
+    "avg_memory": 13.151041666666666,
+    "score": 0.7046302218765021
+  },
+  {
+    "problem_idx": 2841,
+    "solution_id": 16,
+    "avg_time": 0.10438286672191073,
+    "avg_memory": 11.713541666666666,
+    "score": 0.7255322865481368
+  },
+  {
+    "problem_idx": 2841,
+    "solution_id": 8,
+    "avg_time": 0.10347100001915048,
+    "avg_memory": 12.393229166666666,
+    "score": 0.76102620712553
+  },
+  {
+    "problem_idx": 2841,
+    "solution_id": 14,
+    "avg_time": 0.0995206666411832,
+    "avg_memory": 13.329427083333334,
+    "score": 0.7967096102172149
+  },
+  {
+    "problem_idx": 2841,
+    "solution_id": 9,
+    "avg_time": 0.12461773333294938,
+    "avg_memory": 11.583333333333334,
+    "score": 0.8170536280587201
+  },
+  {
+    "problem_idx": 2841,
+    "solution_id": 10,
+    "avg_time": 0.11384906666353345,
+    "avg_memory": 12.5,
+    "score": 0.8181699698513449
+  },
+  {
+    "problem_idx": 2841,
+    "solution_id": 13,
+    "avg_time": 0.10875020001549274,
+    "avg_memory": 14.015625,
+    "score": 0.8822923573602327
+  },
+  {
+    "problem_idx": 2841,
+    "solution_id": 15,
+    "avg_time": 0.13276579999364913,
+    "avg_memory": 12.0234375,
+    "score": 0.8828663298116675
+  },
+  {
+    "problem_idx": 2842,
+    "solution_id": 3,
+    "avg_time": 0.05028639997666081,
+    "avg_memory": 11.278645833333334,
+    "score": 0.16651857254325442
+  },
+  {
+    "problem_idx": 2842,
+    "solution_id": 5,
+    "avg_time": 0.04712553333956748,
+    "avg_memory": 11.6171875,
+    "score": 0.2539062499999998
+  },
+  {
+    "problem_idx": 2842,
+    "solution_id": 4,
+    "avg_time": 0.05661656664839635,
+    "avg_memory": 11.44921875,
+    "score": 0.6279296874999997
+  },
+  {
+    "problem_idx": 2842,
+    "solution_id": 1,
+    "avg_time": 0.054531466642705105,
+    "avg_memory": 11.645833333333334,
+    "score": 0.6655448401500188
+  },
+  {
+    "problem_idx": 2842,
+    "solution_id": 2,
+    "avg_time": 0.051513633341528475,
+    "avg_memory": 11.9453125,
+    "score": 0.7311708250923026
+  },
+  {
+    "problem_idx": 2843,
+    "solution_id": 17,
+    "avg_time": 0.031116466658810776,
+    "avg_memory": 3.8125,
+    "score": 0.0
+  },
+  {
+    "problem_idx": 2843,
+    "solution_id": 12,
+    "avg_time": 0.039770699959869184,
+    "avg_memory": 7.393229166666667,
+    "score": 0.21089089620720605
+  },
+  {
+    "problem_idx": 2843,
+    "solution_id": 3,
+    "avg_time": 0.045715333350623645,
+    "avg_memory": 8.5625,
+    "score": 0.2855993731886389
+  },
+  {
+    "problem_idx": 2843,
+    "solution_id": 5,
+    "avg_time": 0.09863810000630717,
+    "avg_memory": 11.411458333333334,
+    "score": 0.5396461893062509
+  },
+  {
+    "problem_idx": 2843,
+    "solution_id": 14,
+    "avg_time": 0.11827289999928325,
+    "avg_memory": 11.540364583333334,
+    "score": 0.5834419446153267
+  },
+  {
+    "problem_idx": 2843,
+    "solution_id": 10,
+    "avg_time": 0.0966671333493044,
+    "avg_memory": 12.692708333333334,
+    "score": 0.6056122074683215
+  },
+  {
+    "problem_idx": 2843,
+    "solution_id": 7,
+    "avg_time": 0.13910486669434854,
+    "avg_memory": 11.76953125,
+    "score": 0.6349316310736088
+  },
+  {
+    "problem_idx": 2843,
+    "solution_id": 8,
+    "avg_time": 0.15699346673985323,
+    "avg_memory": 12.256510416666666,
+    "score": 0.6949233864274769
+  },
+  {
+    "problem_idx": 2843,
+    "solution_id": 6,
+    "avg_time": 0.1581673000085478,
+    "avg_memory": 12.768229166666666,
+    "score": 0.7249436981751135
+  },
+  {
+    "problem_idx": 2843,
+    "solution_id": 2,
+    "avg_time": 0.20483613336303583,
+    "avg_memory": 12.0078125,
+    "score": 0.7710393643712341
+  },
+  {
+    "problem_idx": 2843,
+    "solution_id": 15,
+    "avg_time": 0.22105036672049513,
+    "avg_memory": 12.731770833333334,
+    "score": 0.8407781005495376
+  },
+  {
+    "problem_idx": 2843,
+    "solution_id": 11,
+    "avg_time": 0.21843469996626177,
+    "avg_memory": 13.009114583333334,
+    "score": 0.8509560136974648
+  },
+  {
+    "problem_idx": 2843,
+    "solution_id": 13,
+    "avg_time": 0.22958906666220477,
+    "avg_memory": 12.8828125,
+    "score": 0.8649878605018637
+  },
+  {
+    "problem_idx": 2843,
+    "solution_id": 18,
+    "avg_time": 0.2514388000126928,
+    "avg_memory": 12.8203125,
+    "score": 0.9025271314989264
+  },
+  {
+    "problem_idx": 2843,
+    "solution_id": 16,
+    "avg_time": 0.25589870001810294,
+    "avg_memory": 12.782552083333334,
+    "score": 0.9088301665222638
+  },
+  {
+    "problem_idx": 2843,
+    "solution_id": 1,
+    "avg_time": 0.26120916664755595,
+    "avg_memory": 12.81640625,
+    "score": 0.9206203372672763
+  },
+  {
+    "problem_idx": 2843,
+    "solution_id": 4,
+    "avg_time": 0.2887342333172758,
+    "avg_memory": 12.78125,
+    "score": 0.9702794293197041
+  },
+  {
+    "problem_idx": 2843,
+    "solution_id": 9,
+    "avg_time": 0.29798500003137934,
+    "avg_memory": 12.763020833333334,
+    "score": 0.9866204162537165
+  },
+  {
+    "problem_idx": 2845,
+    "solution_id": 11,
+    "avg_time": 0.0315474666422233,
+    "avg_memory": 3.2174479166666665,
+    "score": 0.0
+  },
+  {
+    "problem_idx": 2845,
+    "solution_id": 10,
+    "avg_time": 0.034038733302926026,
+    "avg_memory": 8.266927083333334,
+    "score": 0.12292617299590014
+  },
+  {
+    "problem_idx": 2845,
+    "solution_id": 9,
+    "avg_time": 0.057748833360771336,
+    "avg_memory": 7.393229166666667,
+    "score": 0.1884285470554798
+  },
+  {
+    "problem_idx": 2845,
+    "solution_id": 3,
+    "avg_time": 0.07335743335230897,
+    "avg_memory": 8.890625,
+    "score": 0.27832912755278016
+  },
+  {
+    "problem_idx": 2845,
+    "solution_id": 12,
+    "avg_time": 0.05957353332390388,
+    "avg_memory": 13.010416666666666,
+    "score": 0.32177257138063775
+  },
+  {
+    "problem_idx": 2845,
+    "solution_id": 5,
+    "avg_time": 0.0701187999996667,
+    "avg_memory": 13.147135416666666,
+    "score": 0.36276191061022334
+  },
+  {
+    "problem_idx": 2845,
+    "solution_id": 7,
+    "avg_time": 0.07304919996143629,
+    "avg_memory": 12.838541666666666,
+    "score": 0.36632955532090083
+  },
+  {
+    "problem_idx": 2845,
+    "solution_id": 1,
+    "avg_time": 0.0842444666583712,
+    "avg_memory": 11.09765625,
+    "score": 0.3672758703694695
+  },
+  {
+    "problem_idx": 2845,
+    "solution_id": 4,
+    "avg_time": 0.08821806668614347,
+    "avg_memory": 12.03125,
+    "score": 0.4026305327689096
+  },
+  {
+    "problem_idx": 2845,
+    "solution_id": 6,
+    "avg_time": 0.09639973329224934,
+    "avg_memory": 12.27734375,
+    "score": 0.43759294756596484
+  },
+  {
+    "problem_idx": 2845,
+    "solution_id": 8,
+    "avg_time": 0.10454506667641301,
+    "avg_memory": 11.875,
+    "score": 0.45778890106559733
+  },
+  {
+    "problem_idx": 2845,
+    "solution_id": 2,
+    "avg_time": 0.17065436664658287,
+    "avg_memory": 25.369791666666668,
+    "score": 1.0
+  },
+  {
+    "problem_idx": 2848,
+    "solution_id": 14,
+    "avg_time": 0.04598880000412464,
+    "avg_memory": 2.8802083333333335,
+    "score": 0.0
+  },
+  {
+    "problem_idx": 2848,
+    "solution_id": 16,
+    "avg_time": 0.049646866701853774,
+    "avg_memory": 4.65625,
+    "score": 0.09611654915468823
+  },
+  {
+    "problem_idx": 2848,
+    "solution_id": 18,
+    "avg_time": 0.08563506665329139,
+    "avg_memory": 3.171875,
+    "score": 0.14300593616635332
+  },
+  {
+    "problem_idx": 2848,
+    "solution_id": 17,
+    "avg_time": 0.06819749999946605,
+    "avg_memory": 7.221354166666667,
+    "score": 0.2781647094461884
+  },
+  {
+    "problem_idx": 2848,
+    "solution_id": 2,
+    "avg_time": 0.09347836665498714,
+    "avg_memory": 7.622395833333333,
+    "score": 0.37954928531271176
+  },
+  {
+    "problem_idx": 2848,
+    "solution_id": 1,
+    "avg_time": 0.11494353332091123,
+    "avg_memory": 7.048177083333333,
+    "score": 0.4222666610366954
+  },
+  {
+    "problem_idx": 2848,
+    "solution_id": 12,
+    "avg_time": 0.09051059997485329,
+    "avg_memory": 11.899739583333334,
+    "score": 0.5726572379436754
+  },
+  {
+    "problem_idx": 2848,
+    "solution_id": 11,
+    "avg_time": 0.11138729999462764,
+    "avg_memory": 11.247395833333334,
+    "score": 0.6097535188121876
+  },
+  {
+    "problem_idx": 2848,
+    "solution_id": 4,
+    "avg_time": 0.14964550000149757,
+    "avg_memory": 8.665364583333334,
+    "score": 0.612002172467366
+  },
+  {
+    "problem_idx": 2848,
+    "solution_id": 9,
+    "avg_time": 0.10226120000394683,
+    "avg_memory": 12.619791666666666,
+    "score": 0.6450798263694344
+  },
+  {
+    "problem_idx": 2848,
+    "solution_id": 6,
+    "avg_time": 0.09089326668375482,
+    "avg_memory": 13.427083333333334,
+    "score": 0.6463114819670993
+  },
+  {
+    "problem_idx": 2848,
+    "solution_id": 10,
+    "avg_time": 0.1136563332984224,
+    "avg_memory": 12.77734375,
+    "score": 0.6896775367393788
+  },
+  {
+    "problem_idx": 2848,
+    "solution_id": 8,
+    "avg_time": 0.13280489994212985,
+    "avg_memory": 11.885416666666666,
+    "score": 0.7097850444858015
+  },
+  {
+    "problem_idx": 2848,
+    "solution_id": 5,
+    "avg_time": 0.13872836662145951,
+    "avg_memory": 12.122395833333334,
+    "score": 0.7403199460135037
+  },
+  {
+    "problem_idx": 2848,
+    "solution_id": 3,
+    "avg_time": 0.1994438333204016,
+    "avg_memory": 8.272135416666666,
+    "score": 0.7556172839506172
+  },
+  {
+    "problem_idx": 2848,
+    "solution_id": 13,
+    "avg_time": 0.15666773337094733,
+    "avg_memory": 12.81640625,
+    "score": 0.8316727229055789
+  },
+  {
+    "problem_idx": 2848,
+    "solution_id": 19,
+    "avg_time": 0.17051500000525266,
+    "avg_memory": 12.8203125,
+    "score": 0.876976228210527
+  },
+  {
+    "problem_idx": 2848,
+    "solution_id": 15,
+    "avg_time": 0.19391403335612267,
+    "avg_memory": 11.833333333333334,
+    "score": 0.906426788572311
+  },
+  {
+    "problem_idx": 2848,
+    "solution_id": 7,
+    "avg_time": 0.1936628333060071,
+    "avg_memory": 12.9609375,
+    "score": 0.9590650977222637
+  },
+  {
+    "problem_idx": 2849,
+    "solution_id": 10,
+    "avg_time": 0.033854800004822515,
+    "avg_memory": 4.22265625,
+    "score": 0.0
+  },
+  {
+    "problem_idx": 2849,
+    "solution_id": 1,
+    "avg_time": 0.07639589998871088,
+    "avg_memory": 8.1640625,
+    "score": 0.4996809340194877
+  },
+  {
+    "problem_idx": 2849,
+    "solution_id": 6,
+    "avg_time": 0.07898456665376823,
+    "avg_memory": 10.15625,
+    "score": 0.6384273733651683
+  },
+  {
+    "problem_idx": 2849,
+    "solution_id": 5,
+    "avg_time": 0.07538499993582566,
+    "avg_memory": 10.760416666666666,
+    "score": 0.6541192771286837
+  },
+  {
+    "problem_idx": 2849,
+    "solution_id": 2,
+    "avg_time": 0.08068483334500343,
+    "avg_memory": 12.309895833333334,
+    "score": 0.7818099611788205
+  },
+  {
+    "problem_idx": 2849,
+    "solution_id": 9,
+    "avg_time": 0.0886796332973366,
+    "avg_memory": 12.091145833333334,
+    "score": 0.8163960250933371
+  },
+  {
+    "problem_idx": 2849,
+    "solution_id": 11,
+    "avg_time": 0.09682160002800326,
+    "avg_memory": 11.30078125,
+    "score": 0.8165271723872262
+  },
+  {
+    "problem_idx": 2849,
+    "solution_id": 7,
+    "avg_time": 0.10357889998704195,
+    "avg_memory": 11.065104166666666,
+    "score": 0.8426197792646148
+  },
+  {
+    "problem_idx": 2849,
+    "solution_id": 3,
+    "avg_time": 0.10199436661787331,
+    "avg_memory": 11.243489583333334,
+    "score": 0.8441133232228728
+  },
+  {
+    "problem_idx": 2849,
+    "solution_id": 8,
+    "avg_time": 0.09599726666541149,
+    "avg_memory": 12.204427083333334,
+    "score": 0.8674351863947883
+  },
+  {
+    "problem_idx": 2849,
+    "solution_id": 4,
+    "avg_time": 0.11694276670459658,
+    "avg_memory": 11.712239583333334,
+    "score": 0.9630494284334246
+  },
+  {
+    "problem_idx": 2851,
+    "solution_id": 2,
+    "avg_time": 0.045143433342066906,
+    "avg_memory": 8.108072916666666,
+    "score": 0.0
+  },
+  {
+    "problem_idx": 2851,
+    "solution_id": 4,
+    "avg_time": 0.05540316664458563,
+    "avg_memory": 11.729166666666666,
+    "score": 0.4592774221822435
+  },
+  {
+    "problem_idx": 2851,
+    "solution_id": 7,
+    "avg_time": 0.067557766684331,
+    "avg_memory": 10.859375,
+    "score": 0.489419888439668
+  },
+  {
+    "problem_idx": 2851,
+    "solution_id": 3,
+    "avg_time": 0.0730420332790042,
+    "avg_memory": 11.153645833333334,
+    "score": 0.5714261130479796
+  },
+  {
+    "problem_idx": 2851,
+    "solution_id": 6,
+    "avg_time": 0.08083866664674133,
+    "avg_memory": 12.490885416666666,
+    "score": 0.779540949764569
+  },
+  {
+    "problem_idx": 2851,
+    "solution_id": 5,
+    "avg_time": 0.07642826666900267,
+    "avg_memory": 13.127604166666666,
+    "score": 0.8005892998141061
+  },
+  {
+    "problem_idx": 2851,
+    "solution_id": 1,
+    "avg_time": 0.09718259998286764,
+    "avg_memory": 12.852864583333334,
+    "score": 0.9726329442282751
+  },
+  {
+    "problem_idx": 2855,
+    "solution_id": 8,
+    "avg_time": 0.04113989998586476,
+    "avg_memory": 7.725260416666667,
+    "score": 0.006493506493506542
+  },
+  {
+    "problem_idx": 2855,
+    "solution_id": 2,
+    "avg_time": 0.08542673336341977,
+    "avg_memory": 7.645833333333333,
+    "score": 0.1986699661700368
+  },
+  {
+    "problem_idx": 2855,
+    "solution_id": 7,
+    "avg_time": 0.09822253331852455,
+    "avg_memory": 10.161458333333334,
+    "score": 0.46173489203555484
+  },
+  {
+    "problem_idx": 2855,
+    "solution_id": 9,
+    "avg_time": 0.07112323329783976,
+    "avg_memory": 11.735677083333334,
+    "score": 0.46886707198928673
+  },
+  {
+    "problem_idx": 2855,
+    "solution_id": 5,
+    "avg_time": 0.07814893336035311,
+    "avg_memory": 13.5078125,
+    "score": 0.6452639510296677
+  },
+  {
+    "problem_idx": 2855,
+    "solution_id": 6,
+    "avg_time": 0.08715280001827826,
+    "avg_memory": 13.565104166666666,
+    "score": 0.6903389813924738
+  },
+  {
+    "problem_idx": 2855,
+    "solution_id": 3,
+    "avg_time": 0.12662559996048608,
+    "avg_memory": 12.098958333333334,
+    "score": 0.7475495342788431
+  },
+  {
+    "problem_idx": 2855,
+    "solution_id": 10,
+    "avg_time": 0.1242713665900131,
+    "avg_memory": 13.4140625,
+    "score": 0.8445039196083468
+  },
+  {
+    "problem_idx": 2855,
+    "solution_id": 11,
+    "avg_time": 0.1369210333408167,
+    "avg_memory": 13.62890625,
+    "score": 0.9188145079952894
+  },
+  {
+    "problem_idx": 2855,
+    "solution_id": 4,
+    "avg_time": 0.1397318000284334,
+    "avg_memory": 13.76171875,
+    "score": 0.9422815530546325
+  },
+  {
+    "problem_idx": 2855,
+    "solution_id": 1,
+    "avg_time": 0.15259819997784993,
+    "avg_memory": 13.489583333333334,
+    "score": 0.9777517564402811
+  },
+  {
+    "problem_idx": 2861,
+    "solution_id": 7,
+    "avg_time": 0.03159546661966791,
+    "avg_memory": 8.928385416666666,
+    "score": 0.0
+  },
+  {
+    "problem_idx": 2861,
+    "solution_id": 11,
+    "avg_time": 0.06287333330449958,
+    "avg_memory": 12.506510416666666,
+    "score": 0.470787934210389
+  },
+  {
+    "problem_idx": 2861,
+    "solution_id": 9,
+    "avg_time": 0.09163706664306422,
+    "avg_memory": 10.774739583333334,
+    "score": 0.48089720209630415
+  },
+  {
+    "problem_idx": 2861,
+    "solution_id": 2,
+    "avg_time": 0.06665763332663725,
+    "avg_memory": 13.846354166666666,
+    "score": 0.6041045224800935
+  },
+  {
+    "problem_idx": 2861,
+    "solution_id": 6,
+    "avg_time": 0.10874576664840181,
+    "avg_memory": 11.220052083333334,
+    "score": 0.6111247915802225
+  },
+  {
+    "problem_idx": 2861,
+    "solution_id": 10,
+    "avg_time": 0.053954800008796155,
+    "avg_memory": 14.80859375,
+    "score": 0.6162631587314803
+  },
+  {
+    "problem_idx": 2861,
+    "solution_id": 1,
+    "avg_time": 0.09750806664427121,
+    "avg_memory": 12.635416666666666,
+    "score": 0.6693745491166396
+  },
+  {
+    "problem_idx": 2861,
+    "solution_id": 3,
+    "avg_time": 0.08600879999964188,
+    "avg_memory": 13.432291666666666,
+    "score": 0.6741345996268251
+  },
+  {
+    "problem_idx": 2861,
+    "solution_id": 8,
+    "avg_time": 0.0769600000154848,
+    "avg_memory": 14.036458333333334,
+    "score": 0.6759526207938025
+  },
+  {
+    "problem_idx": 2861,
+    "solution_id": 4,
+    "avg_time": 0.07989790003436308,
+    "avg_memory": 14.8671875,
+    "score": 0.7618179845471754
+  },
+  {
+    "problem_idx": 2861,
+    "solution_id": 5,
+    "avg_time": 0.12383976660203189,
+    "avg_memory": 13.513020833333334,
+    "score": 0.8859899144924359
+  },
+  {
+    "problem_idx": 2864,
+    "solution_id": 2,
+    "avg_time": 0.040244866628199816,
+    "avg_memory": 2.7044270833333335,
+    "score": 0.0
+  },
+  {
+    "problem_idx": 2864,
+    "solution_id": 8,
+    "avg_time": 0.07643053331412375,
+    "avg_memory": 8.078125,
+    "score": 0.5041115943878051
+  },
+  {
+    "problem_idx": 2864,
+    "solution_id": 5,
+    "avg_time": 0.07934600002287577,
+    "avg_memory": 10.091145833333334,
+    "score": 0.629801235949028
+  },
+  {
+    "problem_idx": 2864,
+    "solution_id": 11,
+    "avg_time": 0.07001003331970423,
+    "avg_memory": 11.8125,
+    "score": 0.6670680190745071
+  },
+  {
+    "problem_idx": 2864,
+    "solution_id": 10,
+    "avg_time": 0.081915233284235,
+    "avg_memory": 10.600260416666666,
+    "score": 0.6724627126901797
+  },
+  {
+    "problem_idx": 2864,
+    "solution_id": 6,
+    "avg_time": 0.10638460000821699,
+    "avg_memory": 9.270833333333334,
+    "score": 0.7461230485230477
+  },
+  {
+    "problem_idx": 2864,
+    "solution_id": 1,
+    "avg_time": 0.08853913331404328,
+    "avg_memory": 11.286458333333334,
+    "score": 0.7487253568691516
+  },
+  {
+    "problem_idx": 2864,
+    "solution_id": 9,
+    "avg_time": 0.09699253334353368,
+    "avg_memory": 11.610677083333334,
+    "score": 0.8163574644919327
+  },
+  {
+    "problem_idx": 2864,
+    "solution_id": 12,
+    "avg_time": 0.10595396669426312,
+    "avg_memory": 11.21484375,
+    "score": 0.8482361002311547
+  },
+  {
+    "problem_idx": 2864,
+    "solution_id": 7,
+    "avg_time": 0.10236953326966614,
+    "avg_memory": 11.990885416666666,
+    "score": 0.8687440294125486
+  },
+  {
+    "problem_idx": 2864,
+    "solution_id": 3,
+    "avg_time": 0.12448306668860216,
+    "avg_memory": 9.615885416666666,
+    "score": 0.8721256309590577
+  },
+  {
+    "problem_idx": 2864,
+    "solution_id": 4,
+    "avg_time": 0.10840159999982764,
+    "avg_memory": 11.56640625,
+    "score": 0.8816929204256321
+  },
+  {
+    "problem_idx": 2865,
+    "solution_id": 8,
+    "avg_time": 0.07743156662521263,
+    "avg_memory": 10.434895833333334,
+    "score": 0.19467469691945352
+  },
+  {
+    "problem_idx": 2865,
+    "solution_id": 10,
+    "avg_time": 0.09940409997943789,
+    "avg_memory": 9.85546875,
+    "score": 0.35407852023445485
+  },
+  {
+    "problem_idx": 2865,
+    "solution_id": 2,
+    "avg_time": 0.064752299998266,
+    "avg_memory": 13.654947916666666,
+    "score": 0.42698273339186416
+  },
+  {
+    "problem_idx": 2865,
+    "solution_id": 4,
+    "avg_time": 0.07194243332681556,
+    "avg_memory": 13.786458333333334,
+    "score": 0.515231895483926
+  },
+  {
+    "problem_idx": 2865,
+    "solution_id": 1,
+    "avg_time": 0.08074650001556923,
+    "avg_memory": 12.9921875,
+    "score": 0.5159338976631608
+  },
+  {
+    "problem_idx": 2865,
+    "solution_id": 6,
+    "avg_time": 0.0916399999987334,
+    "avg_memory": 12.49609375,
+    "score": 0.5714950428001131
+  },
+  {
+    "problem_idx": 2865,
+    "solution_id": 7,
+    "avg_time": 0.10547426665046562,
+    "avg_memory": 12.09375,
+    "score": 0.667641044785305
+  },
+  {
+    "problem_idx": 2865,
+    "solution_id": 5,
+    "avg_time": 0.10940036662699033,
+    "avg_memory": 12.122395833333334,
+    "score": 0.7109778607773554
+  },
+  {
+    "problem_idx": 2865,
+    "solution_id": 9,
+    "avg_time": 0.11368466669227928,
+    "avg_memory": 12.27734375,
+    "score": 0.7721685689201054
+  },
+  {
+    "problem_idx": 2865,
+    "solution_id": 3,
+    "avg_time": 0.10867586665942024,
+    "avg_memory": 14.3046875,
+    "score": 0.9488191521147917
+  },
+  {
+    "problem_idx": 2866,
+    "solution_id": 8,
+    "avg_time": 0.03610163333360106,
+    "avg_memory": 8.205729166666666,
+    "score": 0.0898028994744188
+  },
+  {
+    "problem_idx": 2866,
+    "solution_id": 2,
+    "avg_time": 0.03245283333429446,
+    "avg_memory": 9.25390625,
+    "score": 0.15777777777777777
+  },
+  {
+    "problem_idx": 2866,
+    "solution_id": 13,
+    "avg_time": 0.06664316666622956,
+    "avg_memory": 7.60546875,
+    "score": 0.21828728492037386
+  },
+  {
+    "problem_idx": 2866,
+    "solution_id": 1,
+    "avg_time": 0.08804863330442458,
+    "avg_memory": 7.404947916666667,
+    "score": 0.3271260975806018
+  },
+  {
+    "problem_idx": 2866,
+    "solution_id": 5,
+    "avg_time": 0.0658825666566069,
+    "avg_memory": 11.572916666666666,
+    "score": 0.5523674644025334
+  },
+  {
+    "problem_idx": 2866,
+    "solution_id": 10,
+    "avg_time": 0.07795023332194735,
+    "avg_memory": 11.647135416666666,
+    "score": 0.6297070375104052
+  },
+  {
+    "problem_idx": 2866,
+    "solution_id": 4,
+    "avg_time": 0.08688253335033853,
+    "avg_memory": 11.795572916666666,
+    "score": 0.6949314235061687
+  },
+  {
+    "problem_idx": 2866,
+    "solution_id": 3,
+    "avg_time": 0.08230893333287288,
+    "avg_memory": 12.640625,
+    "score": 0.7401314383400082
+  },
+  {
+    "problem_idx": 2866,
+    "solution_id": 11,
+    "avg_time": 0.0875824666582048,
+    "avg_memory": 13.264322916666666,
+    "score": 0.8243831695917601
+  },
+  {
+    "problem_idx": 2866,
+    "solution_id": 12,
+    "avg_time": 0.10048446668467174,
+    "avg_memory": 12.40625,
+    "score": 0.827076410802217
+  },
+  {
+    "problem_idx": 2866,
+    "solution_id": 6,
+    "avg_time": 0.09992943331599236,
+    "avg_memory": 12.748697916666666,
+    "score": 0.8530328125843941
+  },
+  {
+    "problem_idx": 2866,
+    "solution_id": 7,
+    "avg_time": 0.1174289333478858,
+    "avg_memory": 11.615885416666666,
+    "score": 0.8593333333333333
+  },
+  {
+    "problem_idx": 2866,
+    "solution_id": 9,
+    "avg_time": 0.10189626664699365,
+    "avg_memory": 13.143229166666666,
+    "score": 0.8982723410950777
+  },
+  {
+    "problem_idx": 2869,
+    "solution_id": 6,
+    "avg_time": 0.016469433321617544,
+    "avg_memory": 4.09765625,
+    "score": 0.0
+  },
+  {
+    "problem_idx": 2869,
+    "solution_id": 2,
+    "avg_time": 0.08564603336465855,
+    "avg_memory": 10.1953125,
+    "score": 0.7608081658185537
+  },
+  {
+    "problem_idx": 2869,
+    "solution_id": 4,
+    "avg_time": 0.07077109996074189,
+    "avg_memory": 12.299479166666666,
+    "score": 0.7818515485872011
+  },
+  {
+    "problem_idx": 2869,
+    "solution_id": 1,
+    "avg_time": 0.09669116667161386,
+    "avg_memory": 9.446614583333334,
+    "score": 0.7891735886245249
+  },
+  {
+    "problem_idx": 2869,
+    "solution_id": 5,
+    "avg_time": 0.0677381999945889,
+    "avg_memory": 13.041666666666666,
+    "score": 0.8030722085723768
+  },
+  {
+    "problem_idx": 2869,
+    "solution_id": 7,
+    "avg_time": 0.0697479333418111,
+    "avg_memory": 13.048177083333334,
+    "score": 0.8159502877328303
+  },
+  {
+    "problem_idx": 2869,
+    "solution_id": 3,
+    "avg_time": 0.07455070002470165,
+    "avg_memory": 12.635416666666666,
+    "score": 0.8235700965335464
+  },
+  {
+    "problem_idx": 2869,
+    "solution_id": 8,
+    "avg_time": 0.07670133331945787,
+    "avg_memory": 13.346354166666666,
+    "score": 0.8754088666661994
+  },
+  {
+    "problem_idx": 2870,
+    "solution_id": 14,
+    "avg_time": 0.03127483340601126,
+    "avg_memory": 7.850260416666667,
+    "score": 0.0
+  },
+  {
+    "problem_idx": 2870,
+    "solution_id": 13,
+    "avg_time": 0.05069936668345084,
+    "avg_memory": 12.796875,
+    "score": 0.19050614506578284
+  },
+  {
+    "problem_idx": 2870,
+    "solution_id": 9,
+    "avg_time": 0.0775725666899234,
+    "avg_memory": 9.58984375,
+    "score": 0.19209147426134215
+  },
+  {
+    "problem_idx": 2870,
+    "solution_id": 5,
+    "avg_time": 0.04493499997382363,
+    "avg_memory": 14.703125,
+    "score": 0.22192282562188445
+  },
+  {
+    "problem_idx": 2870,
+    "solution_id": 7,
+    "avg_time": 0.06012560000332693,
+    "avg_memory": 13.712239583333334,
+    "score": 0.2442437110241113
+  },
+  {
+    "problem_idx": 2870,
+    "solution_id": 10,
+    "avg_time": 0.08551743331675728,
+    "avg_memory": 11.0390625,
+    "score": 0.2550489001269574
+  },
+  {
+    "problem_idx": 2870,
+    "solution_id": 12,
+    "avg_time": 0.0834669000081097,
+    "avg_memory": 12.602864583333334,
+    "score": 0.2893110171619097
+  },
+  {
+    "problem_idx": 2870,
+    "solution_id": 1,
+    "avg_time": 0.08230456667176138,
+    "avg_memory": 12.927083333333334,
+    "score": 0.2940778084516383
+  },
+  {
+    "problem_idx": 2870,
+    "solution_id": 6,
+    "avg_time": 0.08827736671082675,
+    "avg_memory": 12.578125,
+    "score": 0.30391369914183375
+  },
+  {
+    "problem_idx": 2870,
+    "solution_id": 15,
+    "avg_time": 0.09321013333586355,
+    "avg_memory": 12.377604166666666,
+    "score": 0.3143221674992227
+  },
+  {
+    "problem_idx": 2870,
+    "solution_id": 2,
+    "avg_time": 0.11752773336290072,
+    "avg_memory": 9.916666666666666,
+    "score": 0.3272545787823464
+  },
+  {
+    "problem_idx": 2870,
+    "solution_id": 11,
+    "avg_time": 0.08426306672239055,
+    "avg_memory": 14.072916666666666,
+    "score": 0.3301525410881909
+  },
+  {
+    "problem_idx": 2870,
+    "solution_id": 3,
+    "avg_time": 0.09602216666098684,
+    "avg_memory": 14.002604166666666,
+    "score": 0.36559212722531986
+  },
+  {
+    "problem_idx": 2870,
+    "solution_id": 8,
+    "avg_time": 0.1629795666473607,
+    "avg_memory": 22.8046875,
+    "score": 0.8072567476824435
+  },
+  {
+    "problem_idx": 2870,
+    "solution_id": 16,
+    "avg_time": 0.17573663328463832,
+    "avg_memory": 22.627604166666668,
+    "score": 0.8430764901677803
+  },
+  {
+    "problem_idx": 2870,
+    "solution_id": 4,
+    "avg_time": 0.18902053330869725,
+    "avg_memory": 27.032552083333332,
+    "score": 1.0
+  },
+  {
+    "problem_idx": 2872,
+    "solution_id": 9,
+    "avg_time": 0.038363199991484485,
+    "avg_memory": 7.782552083333333,
+    "score": 0.055475669816150236
+  },
+  {
+    "problem_idx": 2872,
+    "solution_id": 11,
+    "avg_time": 0.027738299996902544,
+    "avg_memory": 9.63671875,
+    "score": 0.12475906781145964
+  },
+  {
+    "problem_idx": 2872,
+    "solution_id": 4,
+    "avg_time": 0.04850799993922313,
+    "avg_memory": 12.489583333333334,
+    "score": 0.42516091200328004
+  },
+  {
+    "problem_idx": 2872,
+    "solution_id": 5,
+    "avg_time": 0.11494763335213065,
+    "avg_memory": 9.555989583333334,
+    "score": 0.5746722450782886
+  },
+  {
+    "problem_idx": 2872,
+    "solution_id": 10,
+    "avg_time": 0.11251490000480165,
+    "avg_memory": 11.0078125,
+    "score": 0.6596572930380622
+  },
+  {
+    "problem_idx": 2872,
+    "solution_id": 3,
+    "avg_time": 0.08618679999684294,
+    "avg_memory": 13.546875,
+    "score": 0.6930335077256508
+  },
+  {
+    "problem_idx": 2872,
+    "solution_id": 2,
+    "avg_time": 0.1056946999936675,
+    "avg_memory": 12.345052083333334,
+    "score": 0.7140242810428747
+  },
+  {
+    "problem_idx": 2872,
+    "solution_id": 1,
+    "avg_time": 0.0835862000240013,
+    "avg_memory": 15.213541666666666,
+    "score": 0.7915980068902855
+  },
+  {
+    "problem_idx": 2872,
+    "solution_id": 6,
+    "avg_time": 0.12350009998772293,
+    "avg_memory": 12.227864583333334,
+    "score": 0.7991063606097775
+  },
+  {
+    "problem_idx": 2872,
+    "solution_id": 7,
+    "avg_time": 0.09052013334197302,
+    "avg_memory": 15.111979166666666,
+    "score": 0.8209683612829739
+  },
+  {
+    "problem_idx": 2872,
+    "solution_id": 8,
+    "avg_time": 0.1126137333145986,
+    "avg_memory": 15.08984375,
+    "score": 0.9348360252134142
+  },
+  {
+    "problem_idx": 2873,
+    "solution_id": 6,
+    "avg_time": 0.03770443331450224,
+    "avg_memory": 7.764322916666667,
+    "score": 0.0
+  },
+  {
+    "problem_idx": 2873,
+    "solution_id": 11,
+    "avg_time": 0.04119016668604066,
+    "avg_memory": 9.053385416666666,
+    "score": 0.11253206889242895
+  },
+  {
+    "problem_idx": 2873,
+    "solution_id": 15,
+    "avg_time": 0.05039763338087747,
+    "avg_memory": 13.680989583333334,
+    "score": 0.49958179441282613
+  },
+  {
+    "problem_idx": 2873,
+    "solution_id": 13,
+    "avg_time": 0.057823566642279424,
+    "avg_memory": 13.385416666666666,
+    "score": 0.5158981634572312
+  },
+  {
+    "problem_idx": 2873,
+    "solution_id": 9,
+    "avg_time": 0.06745336662667493,
+    "avg_memory": 12.903645833333334,
+    "score": 0.5298236380838145
+  },
+  {
+    "problem_idx": 2873,
+    "solution_id": 12,
+    "avg_time": 0.07030626669681321,
+    "avg_memory": 14.053385416666666,
+    "score": 0.6288817632401609
+  },
+  {
+    "problem_idx": 2873,
+    "solution_id": 8,
+    "avg_time": 0.09981786669231951,
+    "avg_memory": 11.99609375,
+    "score": 0.6288940539053356
+  },
+  {
+    "problem_idx": 2873,
+    "solution_id": 5,
+    "avg_time": 0.09527603335057695,
+    "avg_memory": 12.82421875,
+    "score": 0.6664627535732521
+  },
+  {
+    "problem_idx": 2873,
+    "solution_id": 1,
+    "avg_time": 0.11641286662779748,
+    "avg_memory": 11.66015625,
+    "score": 0.6891981708606414
+  },
+  {
+    "problem_idx": 2873,
+    "solution_id": 3,
+    "avg_time": 0.08886379996935527,
+    "avg_memory": 14.15625,
+    "score": 0.7314658328687844
+  },
+  {
+    "problem_idx": 2873,
+    "solution_id": 7,
+    "avg_time": 0.09048163332045078,
+    "avg_memory": 14.162760416666666,
+    "score": 0.7402285569798784
+  },
+  {
+    "problem_idx": 2873,
+    "solution_id": 4,
+    "avg_time": 0.11011393333319575,
+    "avg_memory": 13.067708333333334,
+    "score": 0.7603284865727385
+  },
+  {
+    "problem_idx": 2873,
+    "solution_id": 14,
+    "avg_time": 0.11753239994868636,
+    "avg_memory": 14.162760416666666,
+    "score": 0.8787489313806431
+  },
+  {
+    "problem_idx": 2873,
+    "solution_id": 10,
+    "avg_time": 0.12580959995587668,
+    "avg_memory": 14.571614583333334,
+    "score": 0.9511650570770165
+  },
+  {
+    "problem_idx": 2873,
+    "solution_id": 2,
+    "avg_time": 0.13534626667387784,
+    "avg_memory": 14.041666666666666,
+    "score": 0.9610749808722263
+  },
+  {
+    "problem_idx": 2874,
+    "solution_id": 6,
+    "avg_time": 0.03549916665845861,
+    "avg_memory": 4.303385416666667,
+    "score": 0.024382216093678438
+  },
+  {
+    "problem_idx": 2874,
+    "solution_id": 3,
+    "avg_time": 0.031350766657851636,
+    "avg_memory": 7.533854166666667,
+    "score": 0.17410526315789474
+  },
+  {
+    "problem_idx": 2874,
+    "solution_id": 15,
+    "avg_time": 0.07327516660249482,
+    "avg_memory": 5.93359375,
+    "score": 0.334270260177316
+  },
+  {
+    "problem_idx": 2874,
+    "solution_id": 5,
+    "avg_time": 0.0488310333651801,
+    "avg_memory": 8.786458333333334,
+    "score": 0.34435428197106094
+  },
+  {
+    "problem_idx": 2874,
+    "solution_id": 2,
+    "avg_time": 0.0799189666674162,
+    "avg_memory": 8.274739583333334,
+    "score": 0.49949462579203263
+  },
+  {
+    "problem_idx": 2874,
+    "solution_id": 7,
+    "avg_time": 0.051752733338313796,
+    "avg_memory": 13.096354166666666,
+    "score": 0.5938072718595269
+  },
+  {
+    "problem_idx": 2874,
+    "solution_id": 14,
+    "avg_time": 0.05077536671888083,
+    "avg_memory": 13.384114583333334,
+    "score": 0.6035715726404083
+  },
+  {
+    "problem_idx": 2874,
+    "solution_id": 13,
+    "avg_time": 0.07880193332675844,
+    "avg_memory": 11.596354166666666,
+    "score": 0.671946807514044
+  },
+  {
+    "problem_idx": 2874,
+    "solution_id": 10,
+    "avg_time": 0.06655473335801314,
+    "avg_memory": 13.407552083333334,
+    "score": 0.6975779392807848
+  },
+  {
+    "problem_idx": 2874,
+    "solution_id": 8,
+    "avg_time": 0.07248819995826732,
+    "avg_memory": 13.580729166666666,
+    "score": 0.7417852155344857
+  },
+  {
+    "problem_idx": 2874,
+    "solution_id": 12,
+    "avg_time": 0.09128640002260606,
+    "avg_memory": 12.186197916666666,
+    "score": 0.7771137194269572
+  },
+  {
+    "problem_idx": 2874,
+    "solution_id": 1,
+    "avg_time": 0.09453216664648305,
+    "avg_memory": 12.209635416666666,
+    "score": 0.7974538668119646
+  },
+  {
+    "problem_idx": 2874,
+    "solution_id": 4,
+    "avg_time": 0.09185419999994338,
+    "avg_memory": 13.153645833333334,
+    "score": 0.8325913139989238
+  },
+  {
+    "problem_idx": 2874,
+    "solution_id": 9,
+    "avg_time": 0.10519940002510945,
+    "avg_memory": 12.1484375,
+    "score": 0.856852272755473
+  },
+  {
+    "problem_idx": 2874,
+    "solution_id": 11,
+    "avg_time": 0.11642096668947488,
+    "avg_memory": 13.3046875,
+    "score": 0.9851228070175437
+  },
+  {
+    "problem_idx": 2875,
+    "solution_id": 11,
+    "avg_time": 0.03575766668654978,
+    "avg_memory": 6.673177083333333,
+    "score": 0.0
+  },
+  {
+    "problem_idx": 2875,
+    "solution_id": 2,
+    "avg_time": 0.04118846663429091,
+    "avg_memory": 8.404947916666666,
+    "score": 0.04654312017110737
+  },
+  {
+    "problem_idx": 2875,
+    "solution_id": 3,
+    "avg_time": 0.08516449997356783,
+    "avg_memory": 8.42578125,
+    "score": 0.1196844430629275
+  },
+  {
+    "problem_idx": 2875,
+    "solution_id": 14,
+    "avg_time": 0.042738600013156734,
+    "avg_memory": 12.10546875,
+    "score": 0.1293788008051083
+  },
+  {
+    "problem_idx": 2875,
+    "solution_id": 8,
+    "avg_time": 0.057922999995450176,
+    "avg_memory": 12.848958333333334,
+    "score": 0.17060570387060606
+  },
+  {
+    "problem_idx": 2875,
+    "solution_id": 7,
+    "avg_time": 0.06862593333547314,
+    "avg_memory": 12.065104166666666,
+    "score": 0.171293197418729
+  },
+  {
+    "problem_idx": 2875,
+    "solution_id": 9,
+    "avg_time": 0.07421569999617834,
+    "avg_memory": 11.83984375,
+    "score": 0.1756462485817455
+  },
+  {
+    "problem_idx": 2875,
+    "solution_id": 13,
+    "avg_time": 0.05966353334952146,
+    "avg_memory": 13.12890625,
+    "score": 0.17955544743975904
+  },
+  {
+    "problem_idx": 2875,
+    "solution_id": 4,
+    "avg_time": 0.07547636663851638,
+    "avg_memory": 12.0,
+    "score": 0.18120422863365526
+  },
+  {
+    "problem_idx": 2875,
+    "solution_id": 15,
+    "avg_time": 0.06564939999952912,
+    "avg_memory": 12.82421875,
+    "score": 0.1828402558286393
+  },
+  {
+    "problem_idx": 2875,
+    "solution_id": 12,
+    "avg_time": 0.07625116667865466,
+    "avg_memory": 12.65625,
+    "score": 0.19672060006506625
+  },
+  {
+    "problem_idx": 2875,
+    "solution_id": 6,
+    "avg_time": 0.0935396666948994,
+    "avg_memory": 11.553385416666666,
+    "score": 0.20137346606183687
+  },
+  {
+    "problem_idx": 2875,
+    "solution_id": 5,
+    "avg_time": 0.0782075000461191,
+    "avg_memory": 12.842447916666666,
+    "score": 0.2039933778886519
+  },
+  {
+    "problem_idx": 2875,
+    "solution_id": 10,
+    "avg_time": 0.10103320000537981,
+    "avg_memory": 12.440104166666666,
+    "score": 0.232994882390395
+  },
+  {
+    "problem_idx": 2875,
+    "solution_id": 1,
+    "avg_time": 0.33825043332763016,
+    "avg_memory": 29.72265625,
+    "score": 1.0
+  },
+  {
+    "problem_idx": 2876,
+    "solution_id": 5,
+    "avg_time": 0.035360966615068413,
+    "avg_memory": 8.6328125,
+    "score": 0.08531039936733888
+  },
+  {
+    "problem_idx": 2876,
+    "solution_id": 6,
+    "avg_time": 0.05959416669793427,
+    "avg_memory": 7.509114583333333,
+    "score": 0.11829983204625916
+  },
+  {
+    "problem_idx": 2876,
+    "solution_id": 10,
+    "avg_time": 0.04736686668669184,
+    "avg_memory": 8.481770833333334,
+    "score": 0.13245292552203455
+  },
+  {
+    "problem_idx": 2876,
+    "solution_id": 14,
+    "avg_time": 0.10075466664663206,
+    "avg_memory": 7.852864583333333,
+    "score": 0.34533136801929976
+  },
+  {
+    "problem_idx": 2876,
+    "solution_id": 1,
+    "avg_time": 0.10469366664377351,
+    "avg_memory": 7.734375,
+    "score": 0.3555648344991359
+  },
+  {
+    "problem_idx": 2876,
+    "solution_id": 12,
+    "avg_time": 0.11035376670770347,
+    "avg_memory": 7.571614583333333,
+    "score": 0.37083922689439824
+  },
+  {
+    "problem_idx": 2876,
+    "solution_id": 9,
+    "avg_time": 0.06141516663289318,
+    "avg_memory": 14.095052083333334,
+    "score": 0.627189453958563
+  },
+  {
+    "problem_idx": 2876,
+    "solution_id": 15,
+    "avg_time": 0.0852847999970739,
+    "avg_memory": 12.819010416666666,
+    "score": 0.6468382173981637
+  },
+  {
+    "problem_idx": 2876,
+    "solution_id": 8,
+    "avg_time": 0.08268416665184002,
+    "avg_memory": 13.295572916666666,
+    "score": 0.6703229475681897
+  },
+  {
+    "problem_idx": 2876,
+    "solution_id": 11,
+    "avg_time": 0.0881912667149057,
+    "avg_memory": 12.962239583333334,
+    "score": 0.6719006534270722
+  },
+  {
+    "problem_idx": 2876,
+    "solution_id": 17,
+    "avg_time": 0.08004356664605439,
+    "avg_memory": 13.5625,
+    "score": 0.6776971898964358
+  },
+  {
+    "problem_idx": 2876,
+    "solution_id": 7,
+    "avg_time": 0.1361111000102634,
+    "avg_memory": 10.100260416666666,
+    "score": 0.6885525709255134
+  },
+  {
+    "problem_idx": 2876,
+    "solution_id": 4,
+    "avg_time": 0.11082913338517149,
+    "avg_memory": 12.149739583333334,
+    "score": 0.7207280453284384
+  },
+  {
+    "problem_idx": 2876,
+    "solution_id": 18,
+    "avg_time": 0.11679066667178024,
+    "avg_memory": 11.829427083333334,
+    "score": 0.7255127024832778
+  },
+  {
+    "problem_idx": 2876,
+    "solution_id": 13,
+    "avg_time": 0.1066070666614299,
+    "avg_memory": 12.950520833333334,
+    "score": 0.7609118548674407
+  },
+  {
+    "problem_idx": 2876,
+    "solution_id": 2,
+    "avg_time": 0.13269223334888616,
+    "avg_memory": 12.110677083333334,
+    "score": 0.8244921000117194
+  },
+  {
+    "problem_idx": 2876,
+    "solution_id": 16,
+    "avg_time": 0.12114243329657863,
+    "avg_memory": 13.268229166666666,
+    "score": 0.8559897311898056
+  },
+  {
+    "problem_idx": 2876,
+    "solution_id": 3,
+    "avg_time": 0.13778376664655903,
+    "avg_memory": 13.212239583333334,
+    "score": 0.9329774614472124
+  },
+  {
+    "problem_idx": 2894,
+    "solution_id": 9,
+    "avg_time": 0.053029666654765606,
+    "avg_memory": 6.481770833333333,
+    "score": 0.09452346345711436
+  },
+  {
+    "problem_idx": 2894,
+    "solution_id": 13,
+    "avg_time": 0.03990860003978014,
+    "avg_memory": 12.428385416666666,
+    "score": 0.4857477132524994
+  },
+  {
+    "problem_idx": 2894,
+    "solution_id": 6,
+    "avg_time": 0.05440646666102111,
+    "avg_memory": 11.990885416666666,
+    "score": 0.5544524932398393
+  },
+  {
+    "problem_idx": 2894,
+    "solution_id": 1,
+    "avg_time": 0.09354740000950794,
+    "avg_memory": 8.7421875,
+    "score": 0.5710526172252381
+  },
+  {
+    "problem_idx": 2894,
+    "solution_id": 7,
+    "avg_time": 0.07266529998742044,
+    "avg_memory": 10.733072916666666,
+    "score": 0.5832440568177646
+  },
+  {
+    "problem_idx": 2894,
+    "solution_id": 11,
+    "avg_time": 0.06271426662957917,
+    "avg_memory": 11.670572916666666,
+    "score": 0.5881367949009568
+  },
+  {
+    "problem_idx": 2894,
+    "solution_id": 5,
+    "avg_time": 0.07316996665516247,
+    "avg_memory": 11.252604166666666,
+    "score": 0.6293174277476523
+  },
+  {
+    "problem_idx": 2894,
+    "solution_id": 3,
+    "avg_time": 0.08306083339266479,
+    "avg_memory": 11.305989583333334,
+    "score": 0.7049314780273312
+  },
+  {
+    "problem_idx": 2894,
+    "solution_id": 8,
+    "avg_time": 0.07942580000963062,
+    "avg_memory": 11.686197916666666,
+    "score": 0.7098021134513373
+  },
+  {
+    "problem_idx": 2894,
+    "solution_id": 12,
+    "avg_time": 0.07363210001494735,
+    "avg_memory": 12.602864583333334,
+    "score": 0.7429422935714778
+  },
+  {
+    "problem_idx": 2894,
+    "solution_id": 4,
+    "avg_time": 0.08613566670101136,
+    "avg_memory": 11.934895833333334,
+    "score": 0.778454461538244
+  },
+  {
+    "problem_idx": 2894,
+    "solution_id": 2,
+    "avg_time": 0.10931499996998657,
+    "avg_memory": 10.45703125,
+    "score": 0.8247181450755159
+  },
+  {
+    "problem_idx": 2894,
+    "solution_id": 10,
+    "avg_time": 0.08851473332227518,
+    "avg_memory": 12.4296875,
+    "score": 0.8360100630444984
+  },
+  {
+    "problem_idx": 2895,
+    "solution_id": 3,
+    "avg_time": 0.029122099978849292,
+    "avg_memory": 4.419270833333333,
+    "score": 0.0
+  },
+  {
+    "problem_idx": 2895,
+    "solution_id": 2,
+    "avg_time": 0.05763126669141153,
+    "avg_memory": 7.0078125,
+    "score": 0.26065709124995123
+  },
+  {
+    "problem_idx": 2895,
+    "solution_id": 14,
+    "avg_time": 0.04214776668231934,
+    "avg_memory": 8.622395833333334,
+    "score": 0.2777368065305201
+  },
+  {
+    "problem_idx": 2895,
+    "solution_id": 15,
+    "avg_time": 0.06955223336505394,
+    "avg_memory": 7.291666666666667,
+    "score": 0.32770780631971175
+  },
+  {
+    "problem_idx": 2895,
+    "solution_id": 16,
+    "avg_time": 0.07787306661096711,
+    "avg_memory": 9.236979166666666,
+    "score": 0.4662774932621888
+  },
+  {
+    "problem_idx": 2895,
+    "solution_id": 1,
+    "avg_time": 0.1284738666533182,
+    "avg_memory": 7.25,
+    "score": 0.5832394119110319
+  },
+  {
+    "problem_idx": 2895,
+    "solution_id": 5,
+    "avg_time": 0.06921063336388518,
+    "avg_memory": 13.537760416666666,
+    "score": 0.6542809619471814
+  },
+  {
+    "problem_idx": 2895,
+    "solution_id": 9,
+    "avg_time": 0.07494609996986885,
+    "avg_memory": 13.32421875,
+    "score": 0.6681516117627336
+  },
+  {
+    "problem_idx": 2895,
+    "solution_id": 11,
+    "avg_time": 0.10087839999080946,
+    "avg_memory": 12.16796875,
+    "score": 0.7208477059225877
+  },
+  {
+    "problem_idx": 2895,
+    "solution_id": 10,
+    "avg_time": 0.09034529995794098,
+    "avg_memory": 13.606770833333334,
+    "score": 0.7503475441709546
+  },
+  {
+    "problem_idx": 2895,
+    "solution_id": 13,
+    "avg_time": 0.11487469996791333,
+    "avg_memory": 11.575520833333334,
+    "score": 0.7509492830725719
+  },
+  {
+    "problem_idx": 2895,
+    "solution_id": 4,
+    "avg_time": 0.10924713336862624,
+    "avg_memory": 12.083333333333334,
+    "score": 0.7530067440925479
+  },
+  {
+    "problem_idx": 2895,
+    "solution_id": 8,
+    "avg_time": 0.14343533335098377,
+    "avg_memory": 10.125,
+    "score": 0.7996854055532758
+  },
+  {
+    "problem_idx": 2895,
+    "solution_id": 7,
+    "avg_time": 0.11107179995936652,
+    "avg_memory": 13.424479166666666,
+    "score": 0.8314295386946976
+  },
+  {
+    "problem_idx": 2895,
+    "solution_id": 6,
+    "avg_time": 0.10736693333213528,
+    "avg_memory": 13.938802083333334,
+    "score": 0.8422387375684157
+  },
+  {
+    "problem_idx": 2895,
+    "solution_id": 12,
+    "avg_time": 0.1294954666712632,
+    "avg_memory": 13.326822916666666,
+    "score": 0.9068844192594816
+  },
+  {
+    "problem_idx": 2897,
+    "solution_id": 7,
+    "avg_time": 0.04040686665878942,
+    "avg_memory": 11.184895833333334,
+    "score": 0.2574790586358198
+  },
+  {
+    "problem_idx": 2897,
+    "solution_id": 1,
+    "avg_time": 0.07318836671765894,
+    "avg_memory": 9.50390625,
+    "score": 0.3690499338386814
+  },
+  {
+    "problem_idx": 2897,
+    "solution_id": 5,
+    "avg_time": 0.0702564666668574,
+    "avg_memory": 12.768229166666666,
+    "score": 0.8360429781524916
+  },
+  {
+    "problem_idx": 2897,
+    "solution_id": 2,
+    "avg_time": 0.0848202333242322,
+    "avg_memory": 11.881510416666666,
+    "score": 0.8641802951735141
+  },
+  {
+    "problem_idx": 2897,
+    "solution_id": 6,
+    "avg_time": 0.07407083331296842,
+    "avg_memory": 12.716145833333334,
+    "score": 0.871006967327514
+  },
+  {
+    "problem_idx": 2897,
+    "solution_id": 4,
+    "avg_time": 0.08231806669694681,
+    "avg_memory": 12.130208333333334,
+    "score": 0.87410456204411
+  },
+  {
+    "problem_idx": 2897,
+    "solution_id": 3,
+    "avg_time": 0.07807389996014535,
+    "avg_memory": 12.4921875,
+    "score": 0.8817690305755603
+  },
+  {
+    "problem_idx": 2899,
+    "solution_id": 3,
+    "avg_time": 0.08676523331087083,
+    "avg_memory": 4.264322916666667,
+    "score": 0.25683375750231674
+  },
+  {
+    "problem_idx": 2899,
+    "solution_id": 11,
+    "avg_time": 0.09188596663686137,
+    "avg_memory": 7.716145833333333,
+    "score": 0.43881660079829277
+  },
+  {
+    "problem_idx": 2899,
+    "solution_id": 9,
+    "avg_time": 0.0731114666365708,
+    "avg_memory": 9.786458333333334,
+    "score": 0.4429492741845755
+  },
+  {
+    "problem_idx": 2899,
+    "solution_id": 8,
+    "avg_time": 0.03333773335907608,
+    "avg_memory": 14.700520833333334,
+    "score": 0.4757806007360798
+  },
+  {
+    "problem_idx": 2899,
+    "solution_id": 12,
+    "avg_time": 0.08496023330371827,
+    "avg_memory": 10.859375,
+    "score": 0.5488217063807939
+  },
+  {
+    "problem_idx": 2899,
+    "solution_id": 10,
+    "avg_time": 0.04940826667007059,
+    "avg_memory": 14.928385416666666,
+    "score": 0.5634222128012601
+  },
+  {
+    "problem_idx": 2899,
+    "solution_id": 5,
+    "avg_time": 0.07852670003194362,
+    "avg_memory": 12.381510416666666,
+    "score": 0.5872881046768179
+  },
+  {
+    "problem_idx": 2899,
+    "solution_id": 7,
+    "avg_time": 0.06851813336834311,
+    "avg_memory": 14.946614583333334,
+    "score": 0.656117177294804
+  },
+  {
+    "problem_idx": 2899,
+    "solution_id": 6,
+    "avg_time": 0.09761099994648248,
+    "avg_memory": 15.12109375,
+    "score": 0.8039252258799241
+  },
+  {
+    "problem_idx": 2899,
+    "solution_id": 1,
+    "avg_time": 0.13459000003058463,
+    "avg_memory": 13.200520833333334,
+    "score": 0.8941307766273863
+  },
+  {
+    "problem_idx": 2899,
+    "solution_id": 4,
+    "avg_time": 0.11580826668068767,
+    "avg_memory": 15.231770833333334,
+    "score": 0.8964478400696344
+  },
+  {
+    "problem_idx": 2899,
+    "solution_id": 2,
+    "avg_time": 0.13734956667758524,
+    "avg_memory": 13.3203125,
+    "score": 0.9128576516680517
+  },
+  {
+    "problem_idx": 2902,
+    "solution_id": 1,
+    "avg_time": 0.07430380000732839,
+    "avg_memory": 6.36328125,
+    "score": 0.0
+  },
+  {
+    "problem_idx": 2902,
+    "solution_id": 13,
+    "avg_time": 0.08985566666039328,
+    "avg_memory": 10.709635416666666,
+    "score": 0.24394996990697615
+  },
+  {
+    "problem_idx": 2902,
+    "solution_id": 7,
+    "avg_time": 0.0849202333483845,
+    "avg_memory": 11.919270833333334,
+    "score": 0.29926364287146984
+  },
+  {
+    "problem_idx": 2902,
+    "solution_id": 5,
+    "avg_time": 0.09907343331724405,
+    "avg_memory": 11.697916666666666,
+    "score": 0.3071353097240111
+  },
+  {
+    "problem_idx": 2902,
+    "solution_id": 3,
+    "avg_time": 0.0931682666996494,
+    "avg_memory": 12.015625,
+    "score": 0.3154044421238044
+  },
+  {
+    "problem_idx": 2902,
+    "solution_id": 6,
+    "avg_time": 0.09663323328519861,
+    "avg_memory": 12.5859375,
+    "score": 0.349348873094156
+  },
+  {
+    "problem_idx": 2902,
+    "solution_id": 4,
+    "avg_time": 0.11884306670011331,
+    "avg_memory": 12.544270833333334,
+    "score": 0.377373780116768
+  },
+  {
+    "problem_idx": 2902,
+    "solution_id": 9,
+    "avg_time": 0.11285123333800584,
+    "avg_memory": 14.201822916666666,
+    "score": 0.4542168073364655
+  },
+  {
+    "problem_idx": 2902,
+    "solution_id": 11,
+    "avg_time": 0.18160716665443033,
+    "avg_memory": 14.3828125,
+    "score": 0.5568668208683457
+  },
+  {
+    "problem_idx": 2902,
+    "solution_id": 2,
+    "avg_time": 0.29055139996732277,
+    "avg_memory": 14.9296875,
+    "score": 0.73285113421018
+  },
+  {
+    "problem_idx": 2902,
+    "solution_id": 10,
+    "avg_time": 0.35424186669600505,
+    "avg_memory": 16.115885416666668,
+    "score": 0.8801575938742929
+  },
+  {
+    "problem_idx": 2902,
+    "solution_id": 8,
+    "avg_time": 0.39254346668409806,
+    "avg_memory": 16.044270833333332,
+    "score": 0.9284998370779622
+  },
+  {
+    "problem_idx": 2902,
+    "solution_id": 12,
+    "avg_time": 0.44249066671667,
+    "avg_memory": 15.911458333333334,
+    "score": 0.9895193591455274
+  },
+  {
+    "problem_idx": 2903,
+    "solution_id": 11,
+    "avg_time": 0.05309513335426649,
+    "avg_memory": 3.17578125,
+    "score": 0.03470128019387478
+  },
+  {
+    "problem_idx": 2903,
+    "solution_id": 2,
+    "avg_time": 0.043825933282884456,
+    "avg_memory": 4.75390625,
+    "score": 0.0764186633039092
+  },
+  {
+    "problem_idx": 2903,
+    "solution_id": 15,
+    "avg_time": 0.06096936661439637,
+    "avg_memory": 4.651041666666667,
+    "score": 0.1356177754810603
+  },
+  {
+    "problem_idx": 2903,
+    "solution_id": 8,
+    "avg_time": 0.09506769998309512,
+    "avg_memory": 7.983072916666667,
+    "score": 0.42462165957374187
+  },
+  {
+    "problem_idx": 2903,
+    "solution_id": 16,
+    "avg_time": 0.07107760000508279,
+    "avg_memory": 10.9921875,
+    "score": 0.48052195130174336
+  },
+  {
+    "problem_idx": 2903,
+    "solution_id": 20,
+    "avg_time": 0.07257133334254225,
+    "avg_memory": 12.165364583333334,
+    "score": 0.54292365300012
+  },
+  {
+    "problem_idx": 2903,
+    "solution_id": 19,
+    "avg_time": 0.05664689997987201,
+    "avg_memory": 13.44921875,
+    "score": 0.5454760282104555
+  },
+  {
+    "problem_idx": 2903,
+    "solution_id": 9,
+    "avg_time": 0.12306156665241967,
+    "avg_memory": 8.485677083333334,
+    "score": 0.5537607865429379
+  },
+  {
+    "problem_idx": 2903,
+    "solution_id": 7,
+    "avg_time": 0.08007163333240896,
+    "avg_memory": 12.26171875,
+    "score": 0.5756684943705669
+  },
+  {
+    "problem_idx": 2903,
+    "solution_id": 14,
+    "avg_time": 0.11694530001841486,
+    "avg_memory": 9.725260416666666,
+    "score": 0.590888423767657
+  },
+  {
+    "problem_idx": 2903,
+    "solution_id": 13,
+    "avg_time": 0.07546596667574097,
+    "avg_memory": 12.985677083333334,
+    "score": 0.5934829192458564
+  },
+  {
+    "problem_idx": 2903,
+    "solution_id": 3,
+    "avg_time": 0.10004390000055234,
+    "avg_memory": 11.645833333333334,
+    "score": 0.6206155928442574
+  },
+  {
+    "problem_idx": 2903,
+    "solution_id": 6,
+    "avg_time": 0.08097779999176662,
+    "avg_memory": 13.411458333333334,
+    "score": 0.6347355809037023
+  },
+  {
+    "problem_idx": 2903,
+    "solution_id": 21,
+    "avg_time": 0.09369826669959973,
+    "avg_memory": 13.118489583333334,
+    "score": 0.6681708004544809
+  },
+  {
+    "problem_idx": 2903,
+    "solution_id": 12,
+    "avg_time": 0.09824646667887767,
+    "avg_memory": 13.055989583333334,
+    "score": 0.682171501305744
+  },
+  {
+    "problem_idx": 2903,
+    "solution_id": 18,
+    "avg_time": 0.09353293334910025,
+    "avg_memory": 13.501302083333334,
+    "score": 0.6860890393573655
+  },
+  {
+    "problem_idx": 2903,
+    "solution_id": 4,
+    "avg_time": 0.09771596663631499,
+    "avg_memory": 13.393229166666666,
+    "score": 0.6965158491505141
+  },
+  {
+    "problem_idx": 2903,
+    "solution_id": 17,
+    "avg_time": 0.10987353332651158,
+    "avg_memory": 13.205729166666666,
+    "score": 0.7329509171180952
+  },
+  {
+    "problem_idx": 2903,
+    "solution_id": 5,
+    "avg_time": 0.16447140000915775,
+    "avg_memory": 11.990885416666666,
+    "score": 0.8785227482980342
+  },
+  {
+    "problem_idx": 2903,
+    "solution_id": 10,
+    "avg_time": 0.16666403335208693,
+    "avg_memory": 11.854166666666666,
+    "score": 0.8801109225984443
+  },
+  {
+    "problem_idx": 2903,
+    "solution_id": 1,
+    "avg_time": 0.17738296661991626,
+    "avg_memory": 12.157552083333334,
+    "score": 0.9349306431273645
+  },
+  {
+    "problem_idx": 2904,
+    "solution_id": 8,
+    "avg_time": 0.02490976662375033,
+    "avg_memory": 7.263020833333333,
+    "score": 0.0
+  },
+  {
+    "problem_idx": 2904,
+    "solution_id": 15,
+    "avg_time": 0.027283699989008408,
+    "avg_memory": 7.877604166666667,
+    "score": 0.06357304754931173
+  },
+  {
+    "problem_idx": 2904,
+    "solution_id": 11,
+    "avg_time": 0.0845118333818391,
+    "avg_memory": 8.615885416666666,
+    "score": 0.37199869419802656
+  },
+  {
+    "problem_idx": 2904,
+    "solution_id": 5,
+    "avg_time": 0.12399296668202926,
+    "avg_memory": 7.709635416666667,
+    "score": 0.4616843723507357
+  },
+  {
+    "problem_idx": 2904,
+    "solution_id": 9,
+    "avg_time": 0.05169209997014453,
+    "avg_memory": 12.171875,
+    "score": 0.5411534015109033
+  },
+  {
+    "problem_idx": 2904,
+    "solution_id": 2,
+    "avg_time": 0.06678579996029536,
+    "avg_memory": 11.640625,
+    "score": 0.5593717539735901
+  },
+  {
+    "problem_idx": 2904,
+    "solution_id": 16,
+    "avg_time": 0.04386819999975463,
+    "avg_memory": 12.809895833333334,
+    "score": 0.5632441307852716
+  },
+  {
+    "problem_idx": 2904,
+    "solution_id": 18,
+    "avg_time": 0.06395626665713887,
+    "avg_memory": 11.825520833333334,
+    "score": 0.5633743117246521
+  },
+  {
+    "problem_idx": 2904,
+    "solution_id": 17,
+    "avg_time": 0.07817496669789155,
+    "avg_memory": 11.377604166666666,
+    "score": 0.5851048836462405
+  },
+  {
+    "problem_idx": 2904,
+    "solution_id": 19,
+    "avg_time": 0.10221123334486037,
+    "avg_memory": 10.444010416666666,
+    "score": 0.6065001978821776
+  },
+  {
+    "problem_idx": 2904,
+    "solution_id": 12,
+    "avg_time": 0.08523026667535305,
+    "avg_memory": 12.270833333333334,
+    "score": 0.6928862443068
+  },
+  {
+    "problem_idx": 2904,
+    "solution_id": 3,
+    "avg_time": 0.10657456660798441,
+    "avg_memory": 11.557291666666666,
+    "score": 0.7219282618755684
+  },
+  {
+    "problem_idx": 2904,
+    "solution_id": 1,
+    "avg_time": 0.1182240666821599,
+    "avg_memory": 11.024739583333334,
+    "score": 0.7253348923472558
+  },
+  {
+    "problem_idx": 2904,
+    "solution_id": 6,
+    "avg_time": 0.13682949997019023,
+    "avg_memory": 10.541666666666666,
+    "score": 0.7627292598022333
+  },
+  {
+    "problem_idx": 2904,
+    "solution_id": 10,
+    "avg_time": 0.12229896670517822,
+    "avg_memory": 11.3671875,
+    "score": 0.7725030506430133
+  },
+  {
+    "problem_idx": 2904,
+    "solution_id": 14,
+    "avg_time": 0.09107936666502307,
+    "avg_memory": 13.013020833333334,
+    "score": 0.7823859574949659
+  },
+  {
+    "problem_idx": 2904,
+    "solution_id": 7,
+    "avg_time": 0.14207139999295273,
+    "avg_memory": 11.110677083333334,
+    "score": 0.8345788043478262
+  },
+  {
+    "problem_idx": 2904,
+    "solution_id": 13,
+    "avg_time": 0.11507683332699041,
+    "avg_memory": 12.55078125,
+    "score": 0.8446030074198752
+  },
+  {
+    "problem_idx": 2904,
+    "solution_id": 20,
+    "avg_time": 0.12942259995422015,
+    "avg_memory": 12.421875,
+    "score": 0.8946158860369074
+  },
+  {
+    "problem_idx": 2904,
+    "solution_id": 4,
+    "avg_time": 0.1397493666736409,
+    "avg_memory": 12.713541666666666,
+    "score": 0.9640488038545381
+  },
+  {
+    "problem_idx": 2905,
+    "solution_id": 15,
+    "avg_time": 0.020820099976845086,
+    "avg_memory": 9.013020833333334,
+    "score": 0.14429530201342286
+  },
+  {
+    "problem_idx": 2905,
+    "solution_id": 4,
+    "avg_time": 0.07446613333498438,
+    "avg_memory": 7.165364583333333,
+    "score": 0.17979343291935726
+  },
+  {
+    "problem_idx": 2905,
+    "solution_id": 24,
+    "avg_time": 0.04627280003235986,
+    "avg_memory": 8.9375,
+    "score": 0.22370152895794052
+  },
+  {
+    "problem_idx": 2905,
+    "solution_id": 6,
+    "avg_time": 0.08008973335381597,
+    "avg_memory": 7.578125,
+    "score": 0.23087590027470936
+  },
+  {
+    "problem_idx": 2905,
+    "solution_id": 10,
+    "avg_time": 0.11176806668906163,
+    "avg_memory": 7.5546875,
+    "score": 0.3352147131855052
+  },
+  {
+    "problem_idx": 2905,
+    "solution_id": 3,
+    "avg_time": 0.12093863337455939,
+    "avg_memory": 7.171875,
+    "score": 0.33605337589354345
+  },
+  {
+    "problem_idx": 2905,
+    "solution_id": 8,
+    "avg_time": 0.10565883328672498,
+    "avg_memory": 9.4765625,
+    "score": 0.46483127876577307
+  },
+  {
+    "problem_idx": 2905,
+    "solution_id": 17,
+    "avg_time": 0.05317236673242102,
+    "avg_memory": 12.231770833333334,
+    "score": 0.5040959597720982
+  },
+  {
+    "problem_idx": 2905,
+    "solution_id": 21,
+    "avg_time": 0.13474109997817627,
+    "avg_memory": 8.99609375,
+    "score": 0.5247769392839302
+  },
+  {
+    "problem_idx": 2905,
+    "solution_id": 18,
+    "avg_time": 0.1434358999831602,
+    "avg_memory": 8.662760416666666,
+    "score": 0.5278852258329552
+  },
+  {
+    "problem_idx": 2905,
+    "solution_id": 25,
+    "avg_time": 0.1146233999946465,
+    "avg_memory": 11.141927083333334,
+    "score": 0.6249347946115006
+  },
+  {
+    "problem_idx": 2905,
+    "solution_id": 1,
+    "avg_time": 0.09598003331727038,
+    "avg_memory": 12.477864583333334,
+    "score": 0.6667838945636371
+  },
+  {
+    "problem_idx": 2905,
+    "solution_id": 12,
+    "avg_time": 0.09596210000260423,
+    "avg_memory": 12.901041666666666,
+    "score": 0.6997723983507971
+  },
+  {
+    "problem_idx": 2905,
+    "solution_id": 20,
+    "avg_time": 0.156209999967056,
+    "avg_memory": 10.561197916666666,
+    "score": 0.7189584596241805
+  },
+  {
+    "problem_idx": 2905,
+    "solution_id": 23,
+    "avg_time": 0.09466246670732896,
+    "avg_memory": 13.440104166666666,
+    "score": 0.7375155483494971
+  },
+  {
+    "problem_idx": 2905,
+    "solution_id": 22,
+    "avg_time": 0.10389993335896482,
+    "avg_memory": 13.26953125,
+    "score": 0.7551535721854927
+  },
+  {
+    "problem_idx": 2905,
+    "solution_id": 13,
+    "avg_time": 0.12982026666092375,
+    "avg_memory": 12.265625,
+    "score": 0.7636235019969358
+  },
+  {
+    "problem_idx": 2905,
+    "solution_id": 7,
+    "avg_time": 0.13692340002550432,
+    "avg_memory": 12.020833333333334,
+    "score": 0.7683121402632773
+  },
+  {
+    "problem_idx": 2905,
+    "solution_id": 16,
+    "avg_time": 0.15489663335029036,
+    "avg_memory": 12.286458333333334,
+    "score": 0.8492933699840213
+  },
+  {
+    "problem_idx": 2905,
+    "solution_id": 9,
+    "avg_time": 0.14418423334912708,
+    "avg_memory": 12.959635416666666,
+    "score": 0.8659637175003885
+  },
+  {
+    "problem_idx": 2905,
+    "solution_id": 5,
+    "avg_time": 0.16425993336209407,
+    "avg_memory": 12.430989583333334,
+    "score": 0.8919616225181308
+  },
+  {
+    "problem_idx": 2905,
+    "solution_id": 19,
+    "avg_time": 0.14436276668372253,
+    "avg_memory": 13.567708333333334,
+    "score": 0.9140503736959222
+  },
+  {
+    "problem_idx": 2905,
+    "solution_id": 11,
+    "avg_time": 0.16652160005954406,
+    "avg_memory": 12.93359375,
+    "score": 0.9387931220094873
+  },
+  {
+    "problem_idx": 2905,
+    "solution_id": 2,
+    "avg_time": 0.1607142333717396,
+    "avg_memory": 13.244791666666666,
+    "score": 0.9436333046977541
+  },
+  {
+    "problem_idx": 2905,
+    "solution_id": 14,
+    "avg_time": 0.17000806665358445,
+    "avg_memory": 13.4765625,
+    "score": 0.9928818385194224
+  },
+  {
+    "problem_idx": 2906,
+    "solution_id": 6,
+    "avg_time": 0.04028193334427973,
+    "avg_memory": 8.205729166666666,
+    "score": 0.03183759083077383
+  },
+  {
+    "problem_idx": 2906,
+    "solution_id": 10,
+    "avg_time": 0.05593863331402341,
+    "avg_memory": 8.645833333333334,
+    "score": 0.09253588618170416
+  },
+  {
+    "problem_idx": 2906,
+    "solution_id": 9,
+    "avg_time": 0.0701015666515256,
+    "avg_memory": 8.727864583333334,
+    "score": 0.13835058260807537
+  },
+  {
+    "problem_idx": 2906,
+    "solution_id": 5,
+    "avg_time": 0.06937566663449009,
+    "avg_memory": 11.670572916666666,
+    "score": 0.2207738986222588
+  },
+  {
+    "problem_idx": 2906,
+    "solution_id": 11,
+    "avg_time": 0.11573970003519207,
+    "avg_memory": 7.098958333333333,
+    "score": 0.23152088922686306
+  },
+  {
+    "problem_idx": 2906,
+    "solution_id": 8,
+    "avg_time": 0.06598543333044897,
+    "avg_memory": 13.192708333333334,
+    "score": 0.2541579746598457
+  },
+  {
+    "problem_idx": 2906,
+    "solution_id": 13,
+    "avg_time": 0.08772433327976614,
+    "avg_memory": 12.942708333333334,
+    "score": 0.31366611208984646
+  },
+  {
+    "problem_idx": 2906,
+    "solution_id": 2,
+    "avg_time": 0.11151126667391509,
+    "avg_memory": 12.236979166666666,
+    "score": 0.3663484666801358
+  },
+  {
+    "problem_idx": 2906,
+    "solution_id": 7,
+    "avg_time": 0.11256113330212732,
+    "avg_memory": 13.013020833333334,
+    "score": 0.3918934560933611
+  },
+  {
+    "problem_idx": 2906,
+    "solution_id": 15,
+    "avg_time": 0.12105376665325214,
+    "avg_memory": 12.626302083333334,
+    "score": 0.40682627907598445
+  },
+  {
+    "problem_idx": 2906,
+    "solution_id": 12,
+    "avg_time": 0.12437060001927118,
+    "avg_memory": 12.791666666666666,
+    "score": 0.4217599580360664
+  },
+  {
+    "problem_idx": 2906,
+    "solution_id": 4,
+    "avg_time": 0.1353635333556061,
+    "avg_memory": 12.145833333333334,
+    "score": 0.4369105049573635
+  },
+  {
+    "problem_idx": 2906,
+    "solution_id": 1,
+    "avg_time": 0.1454277333104983,
+    "avg_memory": 12.4296875,
+    "score": 0.47595507156019756
+  },
+  {
+    "problem_idx": 2906,
+    "solution_id": 14,
+    "avg_time": 0.1485973666422069,
+    "avg_memory": 12.76953125,
+    "score": 0.4954562112580069
+  },
+  {
+    "problem_idx": 2906,
+    "solution_id": 3,
+    "avg_time": 0.2032429666724056,
+    "avg_memory": 14.85546875,
+    "score": 0.7231253277399056
+  },
+  {
+    "problem_idx": 2906,
+    "solution_id": 16,
+    "avg_time": 0.17535283335018903,
+    "avg_memory": 24.48046875,
+    "score": 0.9144269867691035
+  },
+  {
+    "problem_idx": 2908,
+    "solution_id": 6,
+    "avg_time": 0.08156103330353896,
+    "avg_memory": 7.552083333333333,
+    "score": 0.017846466838449773
+  },
+  {
+    "problem_idx": 2908,
+    "solution_id": 11,
+    "avg_time": 0.0937631333169217,
+    "avg_memory": 8.712239583333334,
+    "score": 0.1446369982536675
+  },
+  {
+    "problem_idx": 2908,
+    "solution_id": 13,
+    "avg_time": 0.0759609666808198,
+    "avg_memory": 13.037760416666666,
+    "score": 0.4156471981057616
+  },
+  {
+    "problem_idx": 2908,
+    "solution_id": 2,
+    "avg_time": 0.11678316665347666,
+    "avg_memory": 11.84375,
+    "score": 0.45527104393619944
+  },
+  {
+    "problem_idx": 2908,
+    "solution_id": 10,
+    "avg_time": 0.13743759998275587,
+    "avg_memory": 11.216145833333334,
+    "score": 0.47353996030818446
+  },
+  {
+    "problem_idx": 2908,
+    "solution_id": 7,
+    "avg_time": 0.11709046670390914,
+    "avg_memory": 13.0234375,
+    "score": 0.5456347298474178
+  },
+  {
+    "problem_idx": 2908,
+    "solution_id": 12,
+    "avg_time": 0.10452713332294176,
+    "avg_memory": 13.911458333333334,
+    "score": 0.5728824325144348
+  },
+  {
+    "problem_idx": 2908,
+    "solution_id": 9,
+    "avg_time": 0.12141456668420385,
+    "avg_memory": 13.263020833333334,
+    "score": 0.5775680240251272
+  },
+  {
+    "problem_idx": 2908,
+    "solution_id": 5,
+    "avg_time": 0.1785954333220919,
+    "avg_memory": 11.893229166666666,
+    "score": 0.6560053151425329
+  },
+  {
+    "problem_idx": 2908,
+    "solution_id": 3,
+    "avg_time": 0.18266673331769803,
+    "avg_memory": 11.772135416666666,
+    "score": 0.6598046438017896
+  },
+  {
+    "problem_idx": 2908,
+    "solution_id": 8,
+    "avg_time": 0.14728736660132805,
+    "avg_memory": 14.151041666666666,
+    "score": 0.7273051941423647
+  },
+  {
+    "problem_idx": 2908,
+    "solution_id": 14,
+    "avg_time": 0.17837413334442923,
+    "avg_memory": 13.08203125,
+    "score": 0.74537504974529
+  },
+  {
+    "problem_idx": 2908,
+    "solution_id": 15,
+    "avg_time": 0.21010773330150792,
+    "avg_memory": 11.888020833333334,
+    "score": 0.7560350618013376
+  },
+  {
+    "problem_idx": 2908,
+    "solution_id": 1,
+    "avg_time": 0.23285663329685727,
+    "avg_memory": 12.110677083333334,
+    "score": 0.8454025256511446
+  },
+  {
+    "problem_idx": 2908,
+    "solution_id": 4,
+    "avg_time": 0.21597900001021722,
+    "avg_memory": 13.66796875,
+    "score": 0.9096116223086792
+  },
+  {
+    "problem_idx": 2909,
+    "solution_id": 7,
+    "avg_time": 0.045528933367071055,
+    "avg_memory": 7.766927083333333,
+    "score": 0.0805987088076853
+  },
+  {
+    "problem_idx": 2909,
+    "solution_id": 2,
+    "avg_time": 0.02974919994206478,
+    "avg_memory": 8.739583333333334,
+    "score": 0.08288948069241019
+  },
+  {
+    "problem_idx": 2909,
+    "solution_id": 6,
+    "avg_time": 0.06665389996487647,
+    "avg_memory": 8.313802083333334,
+    "score": 0.2351039835716492
+  },
+  {
+    "problem_idx": 2909,
+    "solution_id": 12,
+    "avg_time": 0.08302616665605456,
+    "avg_memory": 8.81640625,
+    "score": 0.36156097558515216
+  },
+  {
+    "problem_idx": 2909,
+    "solution_id": 9,
+    "avg_time": 0.10168413336699207,
+    "avg_memory": 9.545572916666666,
+    "score": 0.519000309222236
+  },
+  {
+    "problem_idx": 2909,
+    "solution_id": 8,
+    "avg_time": 0.09525129998413225,
+    "avg_memory": 10.397135416666666,
+    "score": 0.5587130028607817
+  },
+  {
+    "problem_idx": 2909,
+    "solution_id": 1,
+    "avg_time": 0.08777460001874715,
+    "avg_memory": 11.518229166666666,
+    "score": 0.6160632759876259
+  },
+  {
+    "problem_idx": 2909,
+    "solution_id": 13,
+    "avg_time": 0.12263483336816232,
+    "avg_memory": 10.264322916666666,
+    "score": 0.6872626134080494
+  },
+  {
+    "problem_idx": 2909,
+    "solution_id": 5,
+    "avg_time": 0.07286773334878187,
+    "avg_memory": 13.352864583333334,
+    "score": 0.6962700326896385
+  },
+  {
+    "problem_idx": 2909,
+    "solution_id": 10,
+    "avg_time": 0.08437843337499847,
+    "avg_memory": 13.311197916666666,
+    "score": 0.7515128257886778
+  },
+  {
+    "problem_idx": 2909,
+    "solution_id": 11,
+    "avg_time": 0.08701960001296054,
+    "avg_memory": 13.283854166666666,
+    "score": 0.762672980726999
+  },
+  {
+    "problem_idx": 2909,
+    "solution_id": 4,
+    "avg_time": 0.11912673331486683,
+    "avg_memory": 11.740885416666666,
+    "score": 0.7951763889935584
+  },
+  {
+    "problem_idx": 2909,
+    "solution_id": 3,
+    "avg_time": 0.11784826665340613,
+    "avg_memory": 11.893229166666666,
+    "score": 0.8016290088469791
+  },
+  {
+    "problem_idx": 2909,
+    "solution_id": 14,
+    "avg_time": 0.1276399332952375,
+    "avg_memory": 13.634114583333334,
+    "score": 1.0
+  },
+  {
+    "problem_idx": 2913,
+    "solution_id": 8,
+    "avg_time": 0.04413613331659386,
+    "avg_memory": 4.446614583333333,
+    "score": 0.0
+  },
+  {
+    "problem_idx": 2913,
+    "solution_id": 10,
+    "avg_time": 0.09292166664575537,
+    "avg_memory": 5.684895833333333,
+    "score": 0.13437052051625614
+  },
+  {
+    "problem_idx": 2913,
+    "solution_id": 16,
+    "avg_time": 0.07522739997754495,
+    "avg_memory": 8.38671875,
+    "score": 0.1556599806269242
+  },
+  {
+    "problem_idx": 2913,
+    "solution_id": 17,
+    "avg_time": 0.08084886668560405,
+    "avg_memory": 8.127604166666666,
+    "score": 0.1622138538108302
+  },
+  {
+    "problem_idx": 2913,
+    "solution_id": 9,
+    "avg_time": 0.10932643331276874,
+    "avg_memory": 7.743489583333333,
+    "score": 0.21604991739868024
+  },
+  {
+    "problem_idx": 2913,
+    "solution_id": 19,
+    "avg_time": 0.10556080002182473,
+    "avg_memory": 8.553385416666666,
+    "score": 0.22580103899659934
+  },
+  {
+    "problem_idx": 2913,
+    "solution_id": 7,
+    "avg_time": 0.1408934333206465,
+    "avg_memory": 7.361979166666667,
+    "score": 0.27671042616593655
+  },
+  {
+    "problem_idx": 2913,
+    "solution_id": 12,
+    "avg_time": 0.09057223331183195,
+    "avg_memory": 12.85546875,
+    "score": 0.2885800065510493
+  },
+  {
+    "problem_idx": 2913,
+    "solution_id": 5,
+    "avg_time": 0.08917466667480767,
+    "avg_memory": 13.365885416666666,
+    "score": 0.29686226239813074
+  },
+  {
+    "problem_idx": 2913,
+    "solution_id": 15,
+    "avg_time": 0.10894320001049589,
+    "avg_memory": 14.243489583333334,
+    "score": 0.3596633520831556
+  },
+  {
+    "problem_idx": 2913,
+    "solution_id": 2,
+    "avg_time": 0.13550169998779893,
+    "avg_memory": 12.395833333333334,
+    "score": 0.37677118682910204
+  },
+  {
+    "problem_idx": 2913,
+    "solution_id": 20,
+    "avg_time": 0.13606876670382917,
+    "avg_memory": 12.640625,
+    "score": 0.3834533233275834
+  },
+  {
+    "problem_idx": 2913,
+    "solution_id": 1,
+    "avg_time": 0.1278300667181611,
+    "avg_memory": 13.485677083333334,
+    "score": 0.38418869268607
+  },
+  {
+    "problem_idx": 2913,
+    "solution_id": 6,
+    "avg_time": 0.13183909999982765,
+    "avg_memory": 13.9140625,
+    "score": 0.4024896268337245
+  },
+  {
+    "problem_idx": 2913,
+    "solution_id": 18,
+    "avg_time": 0.1630449666796873,
+    "avg_memory": 11.514322916666666,
+    "score": 0.41750703769657005
+  },
+  {
+    "problem_idx": 2913,
+    "solution_id": 3,
+    "avg_time": 0.16116629994940013,
+    "avg_memory": 12.1640625,
+    "score": 0.4278318174037963
+  },
+  {
+    "problem_idx": 2913,
+    "solution_id": 11,
+    "avg_time": 0.16032466668790826,
+    "avg_memory": 13.1015625,
+    "score": 0.4468229855346397
+  },
+  {
+    "problem_idx": 2913,
+    "solution_id": 13,
+    "avg_time": 0.16462053327510753,
+    "avg_memory": 13.0078125,
+    "score": 0.4541484699903657
+  },
+  {
+    "problem_idx": 2913,
+    "solution_id": 4,
+    "avg_time": 0.19997499995709708,
+    "avg_memory": 12.817708333333334,
+    "score": 0.527358122467794
+  },
+  {
+    "problem_idx": 2913,
+    "solution_id": 14,
+    "avg_time": 0.2724226000330721,
+    "avg_memory": 26.9453125,
+    "score": 1.0
+  },
+  {
+    "problem_idx": 2914,
+    "solution_id": 11,
+    "avg_time": 0.1266941666835919,
+    "avg_memory": 5.985677083333333,
+    "score": 0.1413518701842596
+  },
+  {
+    "problem_idx": 2914,
+    "solution_id": 8,
+    "avg_time": 0.09195016662124544,
+    "avg_memory": 7.877604166666667,
+    "score": 0.17865157118392272
+  },
+  {
+    "problem_idx": 2914,
+    "solution_id": 17,
+    "avg_time": 0.10016449994873255,
+    "avg_memory": 7.649739583333333,
+    "score": 0.18685915609739087
+  },
+  {
+    "problem_idx": 2914,
+    "solution_id": 2,
+    "avg_time": 0.09900419996120036,
+    "avg_memory": 7.725260416666667,
+    "score": 0.18906217636438147
+  },
+  {
+    "problem_idx": 2914,
+    "solution_id": 15,
+    "avg_time": 0.11749986663926393,
+    "avg_memory": 6.986979166666667,
+    "score": 0.19006798979388917
+  },
+  {
+    "problem_idx": 2914,
+    "solution_id": 10,
+    "avg_time": 0.14542943332344294,
+    "avg_memory": 6.131510416666667,
+    "score": 0.21171251321816967
+  },
+  {
+    "problem_idx": 2914,
+    "solution_id": 12,
+    "avg_time": 0.15415946661960334,
+    "avg_memory": 8.091145833333334,
+    "score": 0.39127661385601986
+  },
+  {
+    "problem_idx": 2914,
+    "solution_id": 1,
+    "avg_time": 0.1789468666926647,
+    "avg_memory": 7.78125,
+    "score": 0.4453502101619281
+  },
+  {
+    "problem_idx": 2914,
+    "solution_id": 16,
+    "avg_time": 0.08184269998067369,
+    "avg_memory": 12.2109375,
+    "score": 0.48302687411598305
+  },
+  {
+    "problem_idx": 2914,
+    "solution_id": 9,
+    "avg_time": 0.17177250003442168,
+    "avg_memory": 9.772135416666666,
+    "score": 0.5772154497290628
+  },
+  {
+    "problem_idx": 2914,
+    "solution_id": 13,
+    "avg_time": 0.13929020004191747,
+    "avg_memory": 11.876302083333334,
+    "score": 0.6381109965248254
+  },
+  {
+    "problem_idx": 2914,
+    "solution_id": 6,
+    "avg_time": 0.18702246663936725,
+    "avg_memory": 10.072916666666666,
+    "score": 0.6486146083766754
+  },
+  {
+    "problem_idx": 2914,
+    "solution_id": 4,
+    "avg_time": 0.18923506664577872,
+    "avg_memory": 10.283854166666666,
+    "score": 0.6719546821045435
+  },
+  {
+    "problem_idx": 2914,
+    "solution_id": 14,
+    "avg_time": 0.17856180004309863,
+    "avg_memory": 11.12890625,
+    "score": 0.7038860957174932
+  },
+  {
+    "problem_idx": 2914,
+    "solution_id": 5,
+    "avg_time": 0.19645610001559058,
+    "avg_memory": 11.213541666666666,
+    "score": 0.7668479519057403
+  },
+  {
+    "problem_idx": 2914,
+    "solution_id": 7,
+    "avg_time": 0.19039720001940927,
+    "avg_memory": 12.169270833333334,
+    "score": 0.8219093897437915
+  },
+  {
+    "problem_idx": 2914,
+    "solution_id": 3,
+    "avg_time": 0.23284599996016672,
+    "avg_memory": 12.083333333333334,
+    "score": 0.9490211094167558
+  },
+  {
+    "problem_idx": 2914,
+    "solution_id": 18,
+    "avg_time": 0.2404945333255455,
+    "avg_memory": 12.4296875,
+    "score": 1.0
+  },
+  {
+    "problem_idx": 2919,
+    "solution_id": 19,
+    "avg_time": 0.07333266665227711,
+    "avg_memory": 8.147135416666666,
+    "score": 0.1229549014810362
+  },
+  {
+    "problem_idx": 2919,
+    "solution_id": 18,
+    "avg_time": 0.0720553999611487,
+    "avg_memory": 8.352864583333334,
+    "score": 0.1323687867528042
+  },
+  {
+    "problem_idx": 2919,
+    "solution_id": 15,
+    "avg_time": 0.0731167000097533,
+    "avg_memory": 8.731770833333334,
+    "score": 0.1691008337313491
+  },
+  {
+    "problem_idx": 2919,
+    "solution_id": 4,
+    "avg_time": 0.09886303334496915,
+    "avg_memory": 7.329427083333333,
+    "score": 0.2017371333598873
+  },
+  {
+    "problem_idx": 2919,
+    "solution_id": 6,
+    "avg_time": 0.09728370001539588,
+    "avg_memory": 8.48828125,
+    "score": 0.2866664269092523
+  },
+  {
+    "problem_idx": 2919,
+    "solution_id": 5,
+    "avg_time": 0.06335289997514337,
+    "avg_memory": 11.3046875,
+    "score": 0.32211437012027855
+  },
+  {
+    "problem_idx": 2919,
+    "solution_id": 20,
+    "avg_time": 0.06971493336216857,
+    "avg_memory": 12.623697916666666,
+    "score": 0.4651368986198717
+  },
+  {
+    "problem_idx": 2919,
+    "solution_id": 8,
+    "avg_time": 0.07243270000132422,
+    "avg_memory": 13.5,
+    "score": 0.5515833835284675
+  },
+  {
+    "problem_idx": 2919,
+    "solution_id": 1,
+    "avg_time": 0.09519353334326297,
+    "avg_memory": 12.821614583333334,
+    "score": 0.6259208808880286
+  },
+  {
+    "problem_idx": 2919,
+    "solution_id": 3,
+    "avg_time": 0.12058930001997699,
+    "avg_memory": 11.21875,
+    "score": 0.6403174175730435
+  },
+  {
+    "problem_idx": 2919,
+    "solution_id": 12,
+    "avg_time": 0.14369799999985844,
+    "avg_memory": 9.893229166666666,
+    "score": 0.6641939620884532
+  },
+  {
+    "problem_idx": 2919,
+    "solution_id": 13,
+    "avg_time": 0.09784153332778563,
+    "avg_memory": 13.291666666666666,
+    "score": 0.6790526762418717
+  },
+  {
+    "problem_idx": 2919,
+    "solution_id": 7,
+    "avg_time": 0.11662600003182888,
+    "avg_memory": 12.091145833333334,
+    "score": 0.6884914755589152
+  },
+  {
+    "problem_idx": 2919,
+    "solution_id": 9,
+    "avg_time": 0.12820029999905577,
+    "avg_memory": 12.046875,
+    "score": 0.7506591441618641
+  },
+  {
+    "problem_idx": 2919,
+    "solution_id": 11,
+    "avg_time": 0.13939059995270023,
+    "avg_memory": 11.91015625,
+    "score": 0.8031542328588136
+  },
+  {
+    "problem_idx": 2919,
+    "solution_id": 14,
+    "avg_time": 0.12628199994408837,
+    "avg_memory": 13.067708333333334,
+    "score": 0.8224789348853392
+  },
+  {
+    "problem_idx": 2919,
+    "solution_id": 10,
+    "avg_time": 0.13937439998456588,
+    "avg_memory": 12.368489583333334,
+    "score": 0.8402008358282643
+  },
+  {
+    "problem_idx": 2919,
+    "solution_id": 16,
+    "avg_time": 0.1347601666348055,
+    "avg_memory": 12.752604166666666,
+    "score": 0.8451115577221107
+  },
+  {
+    "problem_idx": 2919,
+    "solution_id": 17,
+    "avg_time": 0.15136380004696548,
+    "avg_memory": 12.16015625,
+    "score": 0.8914327917282128
+  },
+  {
+    "problem_idx": 2919,
+    "solution_id": 2,
+    "avg_time": 0.14776110001063594,
+    "avg_memory": 13.313802083333334,
+    "score": 0.9644450773896642
+  },
+  {
+    "problem_idx": 2920,
+    "solution_id": 5,
+    "avg_time": 0.08282470000752558,
+    "avg_memory": 7.993489583333333,
+    "score": 0.05368891224182634
+  },
+  {
+    "problem_idx": 2920,
+    "solution_id": 10,
+    "avg_time": 0.06749803332301478,
+    "avg_memory": 9.526041666666666,
+    "score": 0.11758285374082152
+  },
+  {
+    "problem_idx": 2920,
+    "solution_id": 12,
+    "avg_time": 0.11818283330649137,
+    "avg_memory": 9.372395833333334,
+    "score": 0.28079661030083636
+  },
+  {
+    "problem_idx": 2920,
+    "solution_id": 13,
+    "avg_time": 0.15160146673830846,
+    "avg_memory": 7.983072916666667,
+    "score": 0.2902561884025204
+  },
+  {
+    "problem_idx": 2920,
+    "solution_id": 14,
+    "avg_time": 0.11984226662510385,
+    "avg_memory": 9.625,
+    "score": 0.30577346653647525
+  },
+  {
+    "problem_idx": 2920,
+    "solution_id": 3,
+    "avg_time": 0.11459003330674022,
+    "avg_memory": 10.479166666666666,
+    "score": 0.35273933785544764
+  },
+  {
+    "problem_idx": 2920,
+    "solution_id": 16,
+    "avg_time": 0.14650526662201932,
+    "avg_memory": 10.197916666666666,
+    "score": 0.4414517671484651
+  },
+  {
+    "problem_idx": 2920,
+    "solution_id": 11,
+    "avg_time": 0.09531296665469806,
+    "avg_memory": 13.661458333333334,
+    "score": 0.5287191220148572
+  },
+  {
+    "problem_idx": 2920,
+    "solution_id": 2,
+    "avg_time": 0.12503863335587084,
+    "avg_memory": 13.14453125,
+    "score": 0.5919150474882814
+  },
+  {
+    "problem_idx": 2920,
+    "solution_id": 8,
+    "avg_time": 0.11734999995678663,
+    "avg_memory": 13.760416666666666,
+    "score": 0.6123140958939032
+  },
+  {
+    "problem_idx": 2920,
+    "solution_id": 4,
+    "avg_time": 0.20107753338137022,
+    "avg_memory": 10.563802083333334,
+    "score": 0.6576730646955898
+  },
+  {
+    "problem_idx": 2920,
+    "solution_id": 1,
+    "avg_time": 0.172501099955601,
+    "avg_memory": 12.130208333333334,
+    "score": 0.6784195372497643
+  },
+  {
+    "problem_idx": 2920,
+    "solution_id": 9,
+    "avg_time": 0.2123759666380162,
+    "avg_memory": 10.430989583333334,
+    "score": 0.6865449493947212
+  },
+  {
+    "problem_idx": 2920,
+    "solution_id": 6,
+    "avg_time": 0.15899329997288683,
+    "avg_memory": 13.427083333333334,
+    "score": 0.7306308046373373
+  },
+  {
+    "problem_idx": 2920,
+    "solution_id": 17,
+    "avg_time": 0.18175023332393417,
+    "avg_memory": 12.703125,
+    "score": 0.753999428704025
+  },
+  {
+    "problem_idx": 2920,
+    "solution_id": 7,
+    "avg_time": 0.14200953335966915,
+    "avg_memory": 14.544270833333334,
+    "score": 0.7571526882380613
+  },
+  {
+    "problem_idx": 2920,
+    "solution_id": 15,
+    "avg_time": 0.17836269996284196,
+    "avg_memory": 13.712239583333334,
+    "score": 0.8192086158549089
+  },
+  {
+    "problem_idx": 2923,
+    "solution_id": 11,
+    "avg_time": 0.07120953333408882,
+    "avg_memory": 7.361979166666667,
+    "score": 0.21831963569236928
+  },
+  {
+    "problem_idx": 2923,
+    "solution_id": 10,
+    "avg_time": 0.07941180001944304,
+    "avg_memory": 6.955729166666667,
+    "score": 0.2275382049468578
+  },
+  {
+    "problem_idx": 2923,
+    "solution_id": 8,
+    "avg_time": 0.0847966333385557,
+    "avg_memory": 7.27734375,
+    "score": 0.27436910218119087
+  },
+  {
+    "problem_idx": 2923,
+    "solution_id": 5,
+    "avg_time": 0.06856409999697159,
+    "avg_memory": 8.677083333333334,
+    "score": 0.29741973231301083
+  },
+  {
+    "problem_idx": 2923,
+    "solution_id": 1,
+    "avg_time": 0.08142310000645618,
+    "avg_memory": 9.080729166666666,
+    "score": 0.3839960404531766
+  },
+  {
+    "problem_idx": 2923,
+    "solution_id": 6,
+    "avg_time": 0.02947979998619606,
+    "avg_memory": 13.09765625,
+    "score": 0.42572202166064976
+  },
+  {
+    "problem_idx": 2923,
+    "solution_id": 17,
+    "avg_time": 0.03224220002690951,
+    "avg_memory": 13.3671875,
+    "score": 0.45699248293887496
+  },
+  {
+    "problem_idx": 2923,
+    "solution_id": 9,
+    "avg_time": 0.06818146666046232,
+    "avg_memory": 12.34375,
+    "score": 0.5498277114543096
+  },
+  {
+    "problem_idx": 2923,
+    "solution_id": 7,
+    "avg_time": 0.08865893333374213,
+    "avg_memory": 11.90234375,
+    "score": 0.6125470721349975
+  },
+  {
+    "problem_idx": 2923,
+    "solution_id": 3,
+    "avg_time": 0.09993123336850356,
+    "avg_memory": 11.315104166666666,
+    "score": 0.6232105390080174
+  },
+  {
+    "problem_idx": 2923,
+    "solution_id": 12,
+    "avg_time": 0.09535229997709394,
+    "avg_memory": 12.03515625,
+    "score": 0.6522542628333441
+  },
+  {
+    "problem_idx": 2923,
+    "solution_id": 4,
+    "avg_time": 0.08990680003383507,
+    "avg_memory": 12.649739583333334,
+    "score": 0.6700386068754839
+  },
+  {
+    "problem_idx": 2923,
+    "solution_id": 2,
+    "avg_time": 0.10940046662775178,
+    "avg_memory": 13.432291666666666,
+    "score": 0.8131123735345682
+  },
+  {
+    "problem_idx": 2923,
+    "solution_id": 15,
+    "avg_time": 0.1132277666668718,
+    "avg_memory": 13.251302083333334,
+    "score": 0.818008106351541
+  },
+  {
+    "problem_idx": 2923,
+    "solution_id": 14,
+    "avg_time": 0.10882286665340264,
+    "avg_memory": 13.872395833333334,
+    "score": 0.8409856878147584
+  },
+  {
+    "problem_idx": 2923,
+    "solution_id": 13,
+    "avg_time": 0.11383906670380384,
+    "avg_memory": 14.169270833333334,
+    "score": 0.8844219359684533
+  },
+  {
+    "problem_idx": 2923,
+    "solution_id": 16,
+    "avg_time": 0.139202033324788,
+    "avg_memory": 12.778645833333334,
+    "score": 0.9036101083032491
+  },
+  {
+    "problem_idx": 2924,
+    "solution_id": 12,
+    "avg_time": 0.03481413334763298,
+    "avg_memory": 3.2356770833333335,
+    "score": 0.01991686672693457
+  },
+  {
+    "problem_idx": 2924,
+    "solution_id": 1,
+    "avg_time": 0.037347866649118565,
+    "avg_memory": 7.720052083333333,
+    "score": 0.2588758871065923
+  },
+  {
+    "problem_idx": 2924,
+    "solution_id": 9,
+    "avg_time": 0.030833633344930906,
+    "avg_memory": 8.39453125,
+    "score": 0.2603153745072273
+  },
+  {
+    "problem_idx": 2924,
+    "solution_id": 5,
+    "avg_time": 0.05965043332738181,
+    "avg_memory": 7.177083333333333,
+    "score": 0.34307105624681566
+  },
+  {
+    "problem_idx": 2924,
+    "solution_id": 7,
+    "avg_time": 0.06381116667762399,
+    "avg_memory": 8.473958333333334,
+    "score": 0.4293299504725786
+  },
+  {
+    "problem_idx": 2924,
+    "solution_id": 8,
+    "avg_time": 0.06953976664226502,
+    "avg_memory": 8.57421875,
+    "score": 0.46305275910028976
+  },
+  {
+    "problem_idx": 2924,
+    "solution_id": 4,
+    "avg_time": 0.07072816664973895,
+    "avg_memory": 8.963541666666666,
+    "score": 0.48864425207775697
+  },
+  {
+    "problem_idx": 2924,
+    "solution_id": 10,
+    "avg_time": 0.05536289998174956,
+    "avg_memory": 13.069010416666666,
+    "score": 0.6189240907220026
+  },
+  {
+    "problem_idx": 2924,
+    "solution_id": 3,
+    "avg_time": 0.07974846668851872,
+    "avg_memory": 12.903645833333334,
+    "score": 0.7325956546000066
+  },
+  {
+    "problem_idx": 2924,
+    "solution_id": 6,
+    "avg_time": 0.08744876664907981,
+    "avg_memory": 12.48046875,
+    "score": 0.749771464631697
+  },
+  {
+    "problem_idx": 2924,
+    "solution_id": 11,
+    "avg_time": 0.10327316669281572,
+    "avg_memory": 13.14453125,
+    "score": 0.8624591208319965
+  },
+  {
+    "problem_idx": 2924,
+    "solution_id": 2,
+    "avg_time": 0.13076149994352212,
+    "avg_memory": 11.352864583333334,
+    "score": 0.9095926412614981
+  },
+  {
+    "problem_idx": 2926,
+    "solution_id": 14,
+    "avg_time": 0.05820410004040847,
+    "avg_memory": 7.360677083333333,
+    "score": 0.011862695608278646
+  },
+  {
+    "problem_idx": 2926,
+    "solution_id": 1,
+    "avg_time": 0.06094553329360982,
+    "avg_memory": 7.177083333333333,
+    "score": 0.012581880612728923
+  },
+  {
+    "problem_idx": 2926,
+    "solution_id": 13,
+    "avg_time": 0.08285513333976269,
+    "avg_memory": 8.088541666666666,
+    "score": 0.17202938609855806
+  },
+  {
+    "problem_idx": 2926,
+    "solution_id": 12,
+    "avg_time": 0.09506773335548739,
+    "avg_memory": 8.29296875,
+    "score": 0.24128825481945862
+  },
+  {
+    "problem_idx": 2926,
+    "solution_id": 8,
+    "avg_time": 0.11293149995617568,
+    "avg_memory": 9.1875,
+    "score": 0.38107357671159664
+  },
+  {
+    "problem_idx": 2926,
+    "solution_id": 4,
+    "avg_time": 0.10685239996140201,
+    "avg_memory": 10.052083333333334,
+    "score": 0.40903742781014274
+  },
+  {
+    "problem_idx": 2926,
+    "solution_id": 6,
+    "avg_time": 0.0876390333675469,
+    "avg_memory": 11.579427083333334,
+    "score": 0.41954470387847287
+  },
+  {
+    "problem_idx": 2926,
+    "solution_id": 9,
+    "avg_time": 0.11163270003938426,
+    "avg_memory": 14.104166666666666,
+    "score": 0.6927973710935461
+  },
+  {
+    "problem_idx": 2926,
+    "solution_id": 11,
+    "avg_time": 0.15706590000384799,
+    "avg_memory": 12.188802083333334,
+    "score": 0.7775552028715594
+  },
+  {
+    "problem_idx": 2926,
+    "solution_id": 7,
+    "avg_time": 0.16714780001590648,
+    "avg_memory": 11.9921875,
+    "score": 0.8111223287901733
+  },
+  {
+    "problem_idx": 2926,
+    "solution_id": 10,
+    "avg_time": 0.13186026663364223,
+    "avg_memory": 14.643229166666666,
+    "score": 0.8204632178594189
+  },
+  {
+    "problem_idx": 2926,
+    "solution_id": 3,
+    "avg_time": 0.1388003999988238,
+    "avg_memory": 14.8359375,
+    "score": 0.8647667677360011
+  },
+  {
+    "problem_idx": 2926,
+    "solution_id": 2,
+    "avg_time": 0.1541615000072246,
+    "avg_memory": 14.29296875,
+    "score": 0.9001836523022413
+  },
+  {
+    "problem_idx": 2926,
+    "solution_id": 5,
+    "avg_time": 0.16395396665514758,
+    "avg_memory": 14.915364583333334,
+    "score": 0.985341817096917
+  },
+  {
+    "problem_idx": 2928,
+    "solution_id": 11,
+    "avg_time": 0.087365166672195,
+    "avg_memory": 6.763020833333333,
+    "score": 0.031893362474700815
+  },
+  {
+    "problem_idx": 2928,
+    "solution_id": 14,
+    "avg_time": 0.09433213338100661,
+    "avg_memory": 8.266927083333334,
+    "score": 0.18749879036265682
+  },
+  {
+    "problem_idx": 2928,
+    "solution_id": 2,
+    "avg_time": 0.09291106664265196,
+    "avg_memory": 8.458333333333334,
+    "score": 0.19985687873787142
+  },
+  {
+    "problem_idx": 2928,
+    "solution_id": 4,
+    "avg_time": 0.13877399995302162,
+    "avg_memory": 8.514322916666666,
+    "score": 0.35279408234962784
+  },
+  {
+    "problem_idx": 2928,
+    "solution_id": 6,
+    "avg_time": 0.07748063331625114,
+    "avg_memory": 12.411458333333334,
+    "score": 0.5
+  },
+  {
+    "problem_idx": 2928,
+    "solution_id": 8,
+    "avg_time": 0.08867643335058044,
+    "avg_memory": 12.194010416666666,
+    "score": 0.5168757842611551
+  },
+  {
+    "problem_idx": 2928,
+    "solution_id": 13,
+    "avg_time": 0.13211573334410787,
+    "avg_memory": 11.264322916666666,
+    "score": 0.5747407205263124
+  },
+  {
+    "problem_idx": 2928,
+    "solution_id": 7,
+    "avg_time": 0.21265280002262443,
+    "avg_memory": 9.83984375,
+    "score": 0.7085060516493449
+  },
+  {
+    "problem_idx": 2928,
+    "solution_id": 5,
+    "avg_time": 0.17692729997603843,
+    "avg_memory": 11.298177083333334,
+    "score": 0.7223261638542879
+  },
+  {
+    "problem_idx": 2928,
+    "solution_id": 10,
+    "avg_time": 0.1964605999722456,
+    "avg_memory": 11.53125,
+    "score": 0.8059837931346373
+  },
+  {
+    "problem_idx": 2928,
+    "solution_id": 1,
+    "avg_time": 0.22568416665308177,
+    "avg_memory": 10.861979166666666,
+    "score": 0.8410324468076198
+  },
+  {
+    "problem_idx": 2928,
+    "solution_id": 9,
+    "avg_time": 0.2195704666664824,
+    "avg_memory": 11.36328125,
+    "score": 0.8656813156416427
+  },
+  {
+    "problem_idx": 2928,
+    "solution_id": 3,
+    "avg_time": 0.2006641667103395,
+    "avg_memory": 12.161458333333334,
+    "score": 0.8753330671233529
+  },
+  {
+    "problem_idx": 2928,
+    "solution_id": 12,
+    "avg_time": 0.23244286666158587,
+    "avg_memory": 11.138020833333334,
+    "score": 0.8872752420470262
+  },
+  {
+    "problem_idx": 2929,
+    "solution_id": 2,
+    "avg_time": 0.0552022666670382,
+    "avg_memory": 7.99609375,
+    "score": 0.0060790273556231
+  },
+  {
+    "problem_idx": 2929,
+    "solution_id": 14,
+    "avg_time": 0.14601923331307867,
+    "avg_memory": 7.93359375,
+    "score": 0.035283312334170265
+  },
+  {
+    "problem_idx": 2929,
+    "solution_id": 11,
+    "avg_time": 0.21356666666300347,
+    "avg_memory": 8.134114583333334,
+    "score": 0.08102972115255914
+  },
+  {
+    "problem_idx": 2929,
+    "solution_id": 9,
+    "avg_time": 0.10657113332611819,
+    "avg_memory": 10.552083333333334,
+    "score": 0.27464324244536215
+  },
+  {
+    "problem_idx": 2929,
+    "solution_id": 3,
+    "avg_time": 0.12115093336130182,
+    "avg_memory": 11.37890625,
+    "score": 0.3607281086422203
+  },
+  {
+    "problem_idx": 2929,
+    "solution_id": 12,
+    "avg_time": 0.24151176664357385,
+    "avg_memory": 12.157552083333334,
+    "score": 0.48322406184829614
+  },
+  {
+    "problem_idx": 2929,
+    "solution_id": 8,
+    "avg_time": 0.5354866999744748,
+    "avg_memory": 12.690104166666666,
+    "score": 0.6492346829818679
+  },
+  {
+    "problem_idx": 2929,
+    "solution_id": 13,
+    "avg_time": 0.6812413999577984,
+    "avg_memory": 12.811197916666666,
+    "score": 0.7176399772321409
+  },
+  {
+    "problem_idx": 2929,
+    "solution_id": 4,
+    "avg_time": 0.7675947332754731,
+    "avg_memory": 12.779947916666666,
+    "score": 0.7481496090837023
+  },
+  {
+    "problem_idx": 2929,
+    "solution_id": 7,
+    "avg_time": 0.8925464666681364,
+    "avg_memory": 12.82421875,
+    "score": 0.8010006021011773
+  },
+  {
+    "problem_idx": 2929,
+    "solution_id": 10,
+    "avg_time": 1.1948582333279774,
+    "avg_memory": 12.71484375,
+    "score": 0.907813490711721
+  },
+  {
+    "problem_idx": 2929,
+    "solution_id": 6,
+    "avg_time": 1.248238066677004,
+    "avg_memory": 13.07421875,
+    "score": 0.9635065044801691
+  },
+  {
+    "problem_idx": 2929,
+    "solution_id": 1,
+    "avg_time": 1.3421699666650966,
+    "avg_memory": 12.774739583333334,
+    "score": 0.970871327254306
+  },
+  {
+    "problem_idx": 2929,
+    "solution_id": 5,
+    "avg_time": 1.3396261000307277,
+    "avg_memory": 12.842447916666666,
+    "score": 0.9764686222432106
+  },
+  {
+    "problem_idx": 2931,
+    "solution_id": 6,
+    "avg_time": 0.10065233331018437,
+    "avg_memory": 3.2513020833333335,
+    "score": 0.0785303715548799
+  },
+  {
+    "problem_idx": 2931,
+    "solution_id": 11,
+    "avg_time": 0.08623429997048031,
+    "avg_memory": 5.95703125,
+    "score": 0.13407473501637035
+  },
+  {
+    "problem_idx": 2931,
+    "solution_id": 4,
+    "avg_time": 0.08234396666133155,
+    "avg_memory": 7.247395833333333,
+    "score": 0.17337024065077392
+  },
+  {
+    "problem_idx": 2931,
+    "solution_id": 18,
+    "avg_time": 0.1011207999739175,
+    "avg_memory": 6.096354166666667,
+    "score": 0.20397215367283733
+  },
+  {
+    "problem_idx": 2931,
+    "solution_id": 5,
+    "avg_time": 0.09156926670887817,
+    "avg_memory": 7.450520833333333,
+    "score": 0.22175303208473868
+  },
+  {
+    "problem_idx": 2931,
+    "solution_id": 9,
+    "avg_time": 0.09641349998613198,
+    "avg_memory": 9.048177083333334,
+    "score": 0.3118456815849032
+  },
+  {
+    "problem_idx": 2931,
+    "solution_id": 10,
+    "avg_time": 0.12799859997661164,
+    "avg_memory": 8.515625,
+    "score": 0.4242194250883703
+  },
+  {
+    "problem_idx": 2931,
+    "solution_id": 8,
+    "avg_time": 0.09745693330963452,
+    "avg_memory": 13.450520833333334,
+    "score": 0.5073166646779627
+  },
+  {
+    "problem_idx": 2931,
+    "solution_id": 13,
+    "avg_time": 0.09357269993051887,
+    "avg_memory": 14.776041666666666,
+    "score": 0.5481635862243983
+  },
+  {
+    "problem_idx": 2931,
+    "solution_id": 16,
+    "avg_time": 0.12909093332321694,
+    "avg_memory": 13.190104166666666,
+    "score": 0.6317067313652646
+  },
+  {
+    "problem_idx": 2931,
+    "solution_id": 1,
+    "avg_time": 0.15539553330745548,
+    "avg_memory": 11.65625,
+    "score": 0.677989322207036
+  },
+  {
+    "problem_idx": 2931,
+    "solution_id": 12,
+    "avg_time": 0.1410410999863719,
+    "avg_memory": 14.231770833333334,
+    "score": 0.7281574070513039
+  },
+  {
+    "problem_idx": 2931,
+    "solution_id": 7,
+    "avg_time": 0.1513778333319351,
+    "avg_memory": 13.84375,
+    "score": 0.7556606676393165
+  },
+  {
+    "problem_idx": 2931,
+    "solution_id": 17,
+    "avg_time": 0.18200066670154533,
+    "avg_memory": 11.856770833333334,
+    "score": 0.8008067307829317
+  },
+  {
+    "problem_idx": 2931,
+    "solution_id": 2,
+    "avg_time": 0.1951938666170463,
+    "avg_memory": 11.31640625,
+    "score": 0.8339528567112064
+  },
+  {
+    "problem_idx": 2931,
+    "solution_id": 15,
+    "avg_time": 0.16922466666437685,
+    "avg_memory": 14.333333333333334,
+    "score": 0.8534519147087445
+  },
+  {
+    "problem_idx": 2931,
+    "solution_id": 14,
+    "avg_time": 0.1804831000044942,
+    "avg_memory": 13.716145833333334,
+    "score": 0.8749662585166766
+  },
+  {
+    "problem_idx": 2931,
+    "solution_id": 3,
+    "avg_time": 0.19891266668370614,
+    "avg_memory": 13.358072916666666,
+    "score": 0.9384815275110157
+  },
+  {
+    "problem_idx": 2937,
+    "solution_id": 10,
+    "avg_time": 0.00042663336110611755,
+    "avg_memory": 0.0,
+    "score": 0.0
+  },
+  {
+    "problem_idx": 2937,
+    "solution_id": 8,
+    "avg_time": 0.0029783333108449974,
+    "avg_memory": 4.091145833333333,
+    "score": 0.16368536325360433
+  },
+  {
+    "problem_idx": 2937,
+    "solution_id": 11,
+    "avg_time": 0.07271653336162369,
+    "avg_memory": 8.485677083333334,
+    "score": 0.5024906066792608
+  },
+  {
+    "problem_idx": 2937,
+    "solution_id": 5,
+    "avg_time": 0.10614146664738655,
+    "avg_memory": 6.786458333333333,
+    "score": 0.5183950990738062
+  },
+  {
+    "problem_idx": 2937,
+    "solution_id": 13,
+    "avg_time": 0.12130330002401024,
+    "avg_memory": 7.130208333333333,
+    "score": 0.5685104276851115
+  },
+  {
+    "problem_idx": 2937,
+    "solution_id": 12,
+    "avg_time": 0.13890506668637195,
+    "avg_memory": 7.717447916666667,
+    "score": 0.6339337762669617
+  },
+  {
+    "problem_idx": 2937,
+    "solution_id": 7,
+    "avg_time": 0.09660886666582276,
+    "avg_memory": 12.602864583333334,
+    "score": 0.7190928622837618
+  },
+  {
+    "problem_idx": 2937,
+    "solution_id": 3,
+    "avg_time": 0.14286633332570395,
+    "avg_memory": 11.48046875,
+    "score": 0.7884178220472313
+  },
+  {
+    "problem_idx": 2937,
+    "solution_id": 6,
+    "avg_time": 0.15797656669747084,
+    "avg_memory": 11.154947916666666,
+    "score": 0.8126457970474644
+  },
+  {
+    "problem_idx": 2937,
+    "solution_id": 14,
+    "avg_time": 0.16874253334632763,
+    "avg_memory": 11.177083333333334,
+    "score": 0.8396877690205575
+  },
+  {
+    "problem_idx": 2937,
+    "solution_id": 1,
+    "avg_time": 0.2059630333290746,
+    "avg_memory": 9.817708333333334,
+    "score": 0.877906976744186
+  },
+  {
+    "problem_idx": 2937,
+    "solution_id": 9,
+    "avg_time": 0.1783104333638524,
+    "avg_memory": 11.904947916666666,
+    "score": 0.8909804497357128
+  },
+  {
+    "problem_idx": 2937,
+    "solution_id": 2,
+    "avg_time": 0.1754628667064632,
+    "avg_memory": 12.569010416666666,
+    "score": 0.9096146379407133
+  },
+  {
+    "problem_idx": 2937,
+    "solution_id": 4,
+    "avg_time": 0.17116153333336115,
+    "avg_memory": 12.989583333333334,
+    "score": 0.9153398132857804
+  },
+  {
+    "problem_idx": 2942,
+    "solution_id": 3,
+    "avg_time": 0.024671199964359403,
+    "avg_memory": 4.184895833333333,
+    "score": 0.0
+  },
+  {
+    "problem_idx": 2942,
+    "solution_id": 17,
+    "avg_time": 0.06965686664140473,
+    "avg_memory": 8.061197916666666,
+    "score": 0.3840122876409695
+  },
+  {
+    "problem_idx": 2942,
+    "solution_id": 16,
+    "avg_time": 0.06813106666474293,
+    "avg_memory": 11.08203125,
+    "score": 0.5507449361201182
+  },
+  {
+    "problem_idx": 2942,
+    "solution_id": 6,
+    "avg_time": 0.08343269998052467,
+    "avg_memory": 10.477864583333334,
+    "score": 0.5717262109715309
+  },
+  {
+    "problem_idx": 2942,
+    "solution_id": 12,
+    "avg_time": 0.08930379994368802,
+    "avg_memory": 10.927083333333334,
+    "score": 0.6186117519984358
+  },
+  {
+    "problem_idx": 2942,
+    "solution_id": 5,
+    "avg_time": 0.09189423336647451,
+    "avg_memory": 11.421875,
+    "score": 0.6562111573052355
+  },
+  {
+    "problem_idx": 2942,
+    "solution_id": 14,
+    "avg_time": 0.08089343334237735,
+    "avg_memory": 12.287760416666666,
+    "score": 0.6657347992732435
+  },
+  {
+    "problem_idx": 2942,
+    "solution_id": 4,
+    "avg_time": 0.10330053329622994,
+    "avg_memory": 11.609375,
+    "score": 0.7082248320944959
+  },
+  {
+    "problem_idx": 2942,
+    "solution_id": 15,
+    "avg_time": 0.08694006665609777,
+    "avg_memory": 12.953125,
+    "score": 0.7255817582387216
+  },
+  {
+    "problem_idx": 2942,
+    "solution_id": 10,
+    "avg_time": 0.09408429998438805,
+    "avg_memory": 12.51171875,
+    "score": 0.7262924355671809
+  },
+  {
+    "problem_idx": 2942,
+    "solution_id": 11,
+    "avg_time": 0.09287653331800054,
+    "avg_memory": 12.645833333333334,
+    "score": 0.729564810417391
+  },
+  {
+    "problem_idx": 2942,
+    "solution_id": 13,
+    "avg_time": 0.09824793335671227,
+    "avg_memory": 12.514322916666666,
+    "score": 0.7415245527251251
+  },
+  {
+    "problem_idx": 2942,
+    "solution_id": 9,
+    "avg_time": 0.10112023334174107,
+    "avg_memory": 12.415364583333334,
+    "score": 0.7462870436847712
+  },
+  {
+    "problem_idx": 2942,
+    "solution_id": 8,
+    "avg_time": 0.11780089997531225,
+    "avg_memory": 11.84765625,
+    "score": 0.7743431520318189
+  },
+  {
+    "problem_idx": 2942,
+    "solution_id": 7,
+    "avg_time": 0.12546799999351302,
+    "avg_memory": 12.19921875,
+    "score": 0.8221663165480271
+  },
+  {
+    "problem_idx": 2942,
+    "solution_id": 2,
+    "avg_time": 0.15477466664742678,
+    "avg_memory": 11.21484375,
+    "score": 0.8722026793098729
+  },
+  {
+    "problem_idx": 2942,
+    "solution_id": 1,
+    "avg_time": 0.16268959998463592,
+    "avg_memory": 12.595052083333334,
+    "score": 0.9795812295812295
+  },
+  {
+    "problem_idx": 2944,
+    "solution_id": 9,
+    "avg_time": 0.021436666681741674,
+    "avg_memory": 3.1731770833333335,
+    "score": 0.0076659038901601955
+  },
+  {
+    "problem_idx": 2944,
+    "solution_id": 10,
+    "avg_time": 0.04451113330045094,
+    "avg_memory": 2.9986979166666665,
+    "score": 0.08327719219037825
+  },
+  {
+    "problem_idx": 2944,
+    "solution_id": 3,
+    "avg_time": 0.11238809997060646,
+    "avg_memory": 5.177083333333333,
+    "score": 0.4239587893917524
+  },
+  {
+    "problem_idx": 2944,
+    "solution_id": 4,
+    "avg_time": 0.11572726672360052,
+    "avg_memory": 9.131510416666666,
+    "score": 0.6097514696668769
+  },
+  {
+    "problem_idx": 2944,
+    "solution_id": 19,
+    "avg_time": 0.09070713333009432,
+    "avg_memory": 12.540364583333334,
+    "score": 0.6692234115293544
+  },
+  {
+    "problem_idx": 2944,
+    "solution_id": 15,
+    "avg_time": 0.09281760000158101,
+    "avg_memory": 12.45703125,
+    "score": 0.6731788904206455
+  },
+  {
+    "problem_idx": 2944,
+    "solution_id": 16,
+    "avg_time": 0.0946119000048687,
+    "avg_memory": 12.921875,
+    "score": 0.700077972238082
+  },
+  {
+    "problem_idx": 2944,
+    "solution_id": 13,
+    "avg_time": 0.09620533336419612,
+    "avg_memory": 12.94921875,
+    "score": 0.7070301458198329
+  },
+  {
+    "problem_idx": 2944,
+    "solution_id": 7,
+    "avg_time": 0.0986695666409408,
+    "avg_memory": 13.497395833333334,
+    "score": 0.7400083859233965
+  },
+  {
+    "problem_idx": 2944,
+    "solution_id": 12,
+    "avg_time": 0.1546886666522672,
+    "avg_memory": 9.837239583333334,
+    "score": 0.7813724621011797
+  },
+  {
+    "problem_idx": 2944,
+    "solution_id": 6,
+    "avg_time": 0.11001796663428347,
+    "avg_memory": 14.208333333333334,
+    "score": 0.8122011687194436
+  },
+  {
+    "problem_idx": 2944,
+    "solution_id": 1,
+    "avg_time": 0.12533670004146794,
+    "avg_memory": 13.671875,
+    "score": 0.8439176409626363
+  },
+  {
+    "problem_idx": 2944,
+    "solution_id": 17,
+    "avg_time": 0.15997680001116046,
+    "avg_memory": 10.850260416666666,
+    "score": 0.8449656750572082
+  },
+  {
+    "problem_idx": 2944,
+    "solution_id": 18,
+    "avg_time": 0.1202143666644891,
+    "avg_memory": 14.37890625,
+    "score": 0.8564948928837653
+  },
+  {
+    "problem_idx": 2944,
+    "solution_id": 2,
+    "avg_time": 0.14874519997586808,
+    "avg_memory": 12.190104166666666,
+    "score": 0.8632974054381843
+  },
+  {
+    "problem_idx": 2944,
+    "solution_id": 14,
+    "avg_time": 0.1368734333276128,
+    "avg_memory": 13.234375,
+    "score": 0.866332464479423
+  },
+  {
+    "problem_idx": 2944,
+    "solution_id": 8,
+    "avg_time": 0.1574919999887546,
+    "avg_memory": 12.509114583333334,
+    "score": 0.9088811716698515
+  },
+  {
+    "problem_idx": 2944,
+    "solution_id": 11,
+    "avg_time": 0.14392923330888152,
+    "avg_memory": 14.294270833333334,
+    "score": 0.9383647933229862
+  },
+  {
+    "problem_idx": 2944,
+    "solution_id": 5,
+    "avg_time": 0.15074810001533478,
+    "avg_memory": 13.848958333333334,
+    "score": 0.9434092920571868
+  },
+  {
+    "problem_idx": 2946,
+    "solution_id": 14,
+    "avg_time": 0.07609566669755925,
+    "avg_memory": 9.313802083333334,
+    "score": 0.07954058644512768
+  },
+  {
+    "problem_idx": 2946,
+    "solution_id": 9,
+    "avg_time": 0.12222270000105102,
+    "avg_memory": 9.302083333333334,
+    "score": 0.32586893077792967
+  },
+  {
+    "problem_idx": 2946,
+    "solution_id": 2,
+    "avg_time": 0.12118996672021846,
+    "avg_memory": 9.643229166666666,
+    "score": 0.3568465933716493
+  },
+  {
+    "problem_idx": 2946,
+    "solution_id": 6,
+    "avg_time": 0.061510233324952424,
+    "avg_memory": 13.630208333333334,
+    "score": 0.4633398383049903
+  },
+  {
+    "problem_idx": 2946,
+    "solution_id": 11,
+    "avg_time": 0.07794619999670734,
+    "avg_memory": 12.884114583333334,
+    "score": 0.4716867133179402
+  },
+  {
+    "problem_idx": 2946,
+    "solution_id": 1,
+    "avg_time": 0.09311609998500596,
+    "avg_memory": 12.12890625,
+    "score": 0.4722623388082683
+  },
+  {
+    "problem_idx": 2946,
+    "solution_id": 7,
+    "avg_time": 0.09564436665580918,
+    "avg_memory": 12.10546875,
+    "score": 0.4833235317021889
+  },
+  {
+    "problem_idx": 2946,
+    "solution_id": 12,
+    "avg_time": 0.07868723334589352,
+    "avg_memory": 13.658854166666666,
+    "score": 0.5586025345597757
+  },
+  {
+    "problem_idx": 2946,
+    "solution_id": 5,
+    "avg_time": 0.08967350000360359,
+    "avg_memory": 13.377604166666666,
+    "score": 0.5874616477488985
+  },
+  {
+    "problem_idx": 2946,
+    "solution_id": 10,
+    "avg_time": 0.11130843334831297,
+    "avg_memory": 12.325520833333334,
+    "score": 0.5909563494679337
+  },
+  {
+    "problem_idx": 2946,
+    "solution_id": 3,
+    "avg_time": 0.14692403333416829,
+    "avg_memory": 11.022135416666666,
+    "score": 0.6425883698809951
+  },
+  {
+    "problem_idx": 2946,
+    "solution_id": 4,
+    "avg_time": 0.10146113333757967,
+    "avg_memory": 13.97265625,
+    "score": 0.7144330115952292
+  },
+  {
+    "problem_idx": 2946,
+    "solution_id": 13,
+    "avg_time": 0.15466496662702411,
+    "avg_memory": 11.979166666666666,
+    "score": 0.7865904655701141
+  },
+  {
+    "problem_idx": 2946,
+    "solution_id": 8,
+    "avg_time": 0.14949536665032306,
+    "avg_memory": 12.8828125,
+    "score": 0.8555813047284542
+  },
+  {
+    "problem_idx": 2947,
+    "solution_id": 15,
+    "avg_time": 0.0498985000497972,
+    "avg_memory": 7.614583333333333,
+    "score": 0.07771211997008687
+  },
+  {
+    "problem_idx": 2947,
+    "solution_id": 8,
+    "avg_time": 0.08885910004998247,
+    "avg_memory": 6.868489583333333,
+    "score": 0.19966509991944872
+  },
+  {
+    "problem_idx": 2947,
+    "solution_id": 13,
+    "avg_time": 0.08243979998709013,
+    "avg_memory": 7.24609375,
+    "score": 0.20178267785943932
+  },
+  {
+    "problem_idx": 2947,
+    "solution_id": 14,
+    "avg_time": 0.09614276668677728,
+    "avg_memory": 7.955729166666667,
+    "score": 0.329450538029491
+  },
+  {
+    "problem_idx": 2947,
+    "solution_id": 19,
+    "avg_time": 0.1112984666833654,
+    "avg_memory": 8.005208333333334,
+    "score": 0.40651756091037106
+  },
+  {
+    "problem_idx": 2947,
+    "solution_id": 18,
+    "avg_time": 0.04726473331296196,
+    "avg_memory": 12.350260416666666,
+    "score": 0.4780831251419486
+  },
+  {
+    "problem_idx": 2947,
+    "solution_id": 16,
+    "avg_time": 0.05208933330141008,
+    "avg_memory": 12.317708333333334,
+    "score": 0.49840363974963026
+  },
+  {
+    "problem_idx": 2947,
+    "solution_id": 3,
+    "avg_time": 0.07299926663593699,
+    "avg_memory": 12.36328125,
+    "score": 0.6027519852511248
+  },
+  {
+    "problem_idx": 2947,
+    "solution_id": 12,
+    "avg_time": 0.09699886664748192,
+    "avg_memory": 11.72265625,
+    "score": 0.6620860726957111
+  },
+  {
+    "problem_idx": 2947,
+    "solution_id": 5,
+    "avg_time": 0.10027443330424528,
+    "avg_memory": 11.76953125,
+    "score": 0.6818978703784178
+  },
+  {
+    "problem_idx": 2947,
+    "solution_id": 2,
+    "avg_time": 0.10928536664384107,
+    "avg_memory": 11.3359375,
+    "score": 0.6873378542565389
+  },
+  {
+    "problem_idx": 2947,
+    "solution_id": 1,
+    "avg_time": 0.12065359996631742,
+    "avg_memory": 10.763020833333334,
+    "score": 0.6919427597770983
+  },
+  {
+    "problem_idx": 2947,
+    "solution_id": 7,
+    "avg_time": 0.08901286668454607,
+    "avg_memory": 12.567708333333334,
+    "score": 0.6974506922788319
+  },
+  {
+    "problem_idx": 2947,
+    "solution_id": 6,
+    "avg_time": 0.09793973329942673,
+    "avg_memory": 12.430989583333334,
+    "score": 0.7283785689990532
+  },
+  {
+    "problem_idx": 2947,
+    "solution_id": 4,
+    "avg_time": 0.10403753335898121,
+    "avg_memory": 12.6015625,
+    "score": 0.772526009725405
+  },
+  {
+    "problem_idx": 2947,
+    "solution_id": 10,
+    "avg_time": 0.11768893334859361,
+    "avg_memory": 12.424479166666666,
+    "score": 0.8226126984798583
+  },
+  {
+    "problem_idx": 2947,
+    "solution_id": 9,
+    "avg_time": 0.15142506667568037,
+    "avg_memory": 10.87109375,
+    "score": 0.8490801726095845
+  },
+  {
+    "problem_idx": 2947,
+    "solution_id": 17,
+    "avg_time": 0.13006599996394166,
+    "avg_memory": 12.18359375,
+    "score": 0.8610178271981745
+  },
+  {
+    "problem_idx": 2947,
+    "solution_id": 11,
+    "avg_time": 0.14773543330375105,
+    "avg_memory": 11.65625,
+    "score": 0.8998448946455191
+  },
+  {
+    "problem_idx": 2949,
+    "solution_id": 5,
+    "avg_time": 0.044415833350891866,
+    "avg_memory": 4.291666666666667,
+    "score": 0.0
+  },
+  {
+    "problem_idx": 2949,
+    "solution_id": 3,
+    "avg_time": 0.08217276667710394,
+    "avg_memory": 6.740885416666667,
+    "score": 0.33703905229027076
+  },
+  {
+    "problem_idx": 2949,
+    "solution_id": 10,
+    "avg_time": 0.07136149999375145,
+    "avg_memory": 8.1015625,
+    "score": 0.3714296747880962
+  },
+  {
+    "problem_idx": 2949,
+    "solution_id": 1,
+    "avg_time": 0.1108028666737179,
+    "avg_memory": 7.19140625,
+    "score": 0.503310139981111
+  },
+  {
+    "problem_idx": 2949,
+    "solution_id": 11,
+    "avg_time": 0.0968717666498075,
+    "avg_memory": 11.03125,
+    "score": 0.6800800496371968
+  },
+  {
+    "problem_idx": 2949,
+    "solution_id": 9,
+    "avg_time": 0.10783636666989575,
+    "avg_memory": 12.16796875,
+    "score": 0.8049653505661912
+  },
+  {
+    "problem_idx": 2949,
+    "solution_id": 2,
+    "avg_time": 0.1446705333267649,
+    "avg_memory": 10.231770833333334,
+    "score": 0.8591740442276805
+  },
+  {
+    "problem_idx": 2949,
+    "solution_id": 6,
+    "avg_time": 0.13199796667322516,
+    "avg_memory": 11.375,
+    "score": 0.8708104448279163
+  },
+  {
+    "problem_idx": 2949,
+    "solution_id": 8,
+    "avg_time": 0.14158846663000682,
+    "avg_memory": 10.873697916666666,
+    "score": 0.8851040888134946
+  },
+  {
+    "problem_idx": 2949,
+    "solution_id": 4,
+    "avg_time": 0.13884930002192655,
+    "avg_memory": 11.18359375,
+    "score": 0.8916051460851153
+  },
+  {
+    "problem_idx": 2949,
+    "solution_id": 7,
+    "avg_time": 0.14839573336454728,
+    "avg_memory": 11.063802083333334,
+    "score": 0.9299057695486858
+  },
+  {
+    "problem_idx": 2951,
+    "solution_id": 2,
+    "avg_time": 0.030317666629950207,
+    "avg_memory": 8.307291666666666,
+    "score": 0.0
+  },
+  {
+    "problem_idx": 2951,
+    "solution_id": 12,
+    "avg_time": 0.07310816665024807,
+    "avg_memory": 11.009114583333334,
+    "score": 0.4941789182064855
+  },
+  {
+    "problem_idx": 2951,
+    "solution_id": 7,
+    "avg_time": 0.052236566630502544,
+    "avg_memory": 12.970052083333334,
+    "score": 0.57067887036227
+  },
+  {
+    "problem_idx": 2951,
+    "solution_id": 3,
+    "avg_time": 0.10306973336264491,
+    "avg_memory": 10.69140625,
+    "score": 0.6262143824882951
+  },
+  {
+    "problem_idx": 2951,
+    "solution_id": 13,
+    "avg_time": 0.09794923329415421,
+    "avg_memory": 11.044270833333334,
+    "score": 0.6325647115809747
+  },
+  {
+    "problem_idx": 2951,
+    "solution_id": 10,
+    "avg_time": 0.07545589997122686,
+    "avg_memory": 13.216145833333334,
+    "score": 0.7206812661216215
+  },
+  {
+    "problem_idx": 2951,
+    "solution_id": 5,
+    "avg_time": 0.10633336663401376,
+    "avg_memory": 11.841145833333334,
+    "score": 0.7552975686129759
+  },
+  {
+    "problem_idx": 2951,
+    "solution_id": 1,
+    "avg_time": 0.1074093666781361,
+    "avg_memory": 11.944010416666666,
+    "score": 0.7711064898905681
+  },
+  {
+    "problem_idx": 2951,
+    "solution_id": 4,
+    "avg_time": 0.09709613331748794,
+    "avg_memory": 12.865885416666666,
+    "score": 0.8043478135044526
+  },
+  {
+    "problem_idx": 2951,
+    "solution_id": 11,
+    "avg_time": 0.10064666663917403,
+    "avg_memory": 13.25,
+    "score": 0.8608411506412181
+  },
+  {
+    "problem_idx": 2951,
+    "solution_id": 6,
+    "avg_time": 0.11112080002203584,
+    "avg_memory": 12.93359375,
+    "score": 0.887112206292956
+  },
+  {
+    "problem_idx": 2951,
+    "solution_id": 9,
+    "avg_time": 0.11234379998253037,
+    "avg_memory": 12.986979166666666,
+    "score": 0.8989279640469705
+  },
+  {
+    "problem_idx": 2951,
+    "solution_id": 8,
+    "avg_time": 0.12233456670461844,
+    "avg_memory": 13.470052083333334,
+    "score": 1.0
+  }
+]
